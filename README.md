@@ -37,7 +37,7 @@ Weekly directories are created as the curriculum is written. A typical weekly di
 - `resources.md`: reference links, further reading, and video shelf.
 
 The weekly `science.md` is designed for direct printing and continuous reading. Pure reference lists, further-reading links, and video sections belong in `resources.md`; inline links in explanatory sentences are still allowed when they support the text.
-The weekly `keywords.md` provides a quick bilingual review index for the core science terms, including specific meanings, simple explanations, and examples.
+The weekly `keywords.md` provides a quick bilingual review index for the core science terms, including specific meanings, simple explanations, and examples. Its bilingual content should read naturally through table headings and line breaks, without repeated language-prefix labels inside each cell.
 
 ## Project Documents
 - `docs/README.md`: entrypoint for durable project documentation.

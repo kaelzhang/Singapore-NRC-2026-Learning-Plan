@@ -49,6 +49,7 @@ Do not create `tasks/`, inbox threads, or multi-agent coordination artifacts unl
   - `resources.md` for pure reference links, further-reading links, and video shelves.
 - Keep `science.md` print-friendly: it should be readable as a continuous paper document. Inline links on meaningful keywords are allowed when they support the sentence, but do not add standalone reference-link, further-reading, resource-list, or video sections to `science.md`.
 - Bold the weekly core keywords in `science.md` and keep the matching keyword explanations in `keywords.md`.
+- In `keywords.md`, rely on bilingual table headings and line breaks for language structure; do not repeat language-prefix labels inside the prose.
 - Translate `Food Security` as `食品保障`; reserve `食品安全` for `Food Safety`.
 - Weekly content should stay cohesive around one main domain or question.
 - Core terms should use accurate professional vocabulary, then explain the ideas in clear, concrete language.
