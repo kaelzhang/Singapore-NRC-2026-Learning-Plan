@@ -58,7 +58,7 @@ The student-facing `science.md` should include:
 - Student thinking tasks.
 
 `science.md` should not contain standalone reference-link, further-reading, resource-list, or video sections. It may keep inline links on meaningful keywords inside explanatory prose, but pure links and link-focused bullet lists belong in `resources.md` so `science.md` remains printable.
-Core keywords should be bolded in `science.md`. The same keyword set should appear in `keywords.md` as bilingual English/Chinese content with the current keyword list, the meaning of each keyword, a simple explanation, and an example. Keyword index cells should use bilingual table headings and line breaks instead of repeated language-prefix labels. Translate `Food Security` as `食品保障`; reserve `食品安全` for `Food Safety`.
+Core keywords should be bolded in `science.md`. The same keyword set should appear in `keywords.md` as bilingual English/Chinese content with the current keyword list, the meaning of each keyword, a simple explanation, and an example. Keyword index cells should use bilingual table headings and line breaks instead of repeated column labels. Translate `Food Security` as `食品保障`; reserve `食品安全` for `Food Safety`.
 
 The student-facing `robotics.md` should include:
 
