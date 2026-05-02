@@ -15,7 +15,7 @@ This week helps you see agriculture as a chain of design decisions. Humans kept 
 ## Key Reference Links For This Week
 Use these links when you want more background:
 
-- [PNAS review on agriculture origins](https://www.pnas.org/doi/10.1073/pnas.2304407120) - research-level background on early agriculture.
+- [Open Textbook Library - History and Science of Cultivated Plants](https://open.umn.edu/opentextbooks/textbooks/1012) - open textbook background on agriculture origins and crop domestication.
 - [Nobel Prize lecture by Norman Borlaug](https://www.nobelprize.org/prizes/peace/1970/borlaug/lecture/) - primary historical source from a key Green Revolution scientist.
 - [Our World in Data agricultural production](https://ourworldindata.org/agricultural-production) - charts and explanations about crop production and yields.
 - [Our World in Data on yields and land use](https://ourworldindata.org/yields-vs-land-use-how-has-the-world-produced-enough-food-for-a-growing-population/) - explains yield growth and land-use tradeoffs.
@@ -342,7 +342,7 @@ When a choice helps one thing but may make another thing harder.
 5. Write one Mission Meals robot idea that represents a farming tool from history.
 
 ## Sources For Further Reading
-- PNAS agriculture origins article: https://www.pnas.org/doi/10.1073/pnas.2304407120
+- Open Textbook Library - History and Science of Cultivated Plants: https://open.umn.edu/opentextbooks/textbooks/1012
 - Nobel Prize - Norman Borlaug lecture: https://www.nobelprize.org/prizes/peace/1970/borlaug/lecture/
 - Our World in Data - Agricultural Production: https://ourworldindata.org/agricultural-production
 - Our World in Data - Yields and land use: https://ourworldindata.org/yields-vs-land-use-how-has-the-world-produced-enough-food-for-a-growing-population/

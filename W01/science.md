@@ -16,7 +16,7 @@ This week is a framework week. It gives you the map that will connect all other 
 Use these links when you want to check the real-world idea behind this lesson:
 
 - [Science Centre Singapore National Robotics Competition](https://www.science.edu.sg/for-schools/competitions/national-robotics-competition) - the official NRC entrypoint for current challenge documents.
-- [Duck Learning NRC 2026 page](https://ducklearning.com/collections/nrc-2026) - competition support page for the 2026 Mission Meals season.
+- [UN Sustainable Development Goal 2](https://sdgs.un.org/goals/goal2) - global goal context for ending hunger and improving food systems.
 - [FAO food security concept note](https://www.fao.org/docrep/013/al936e/al936e00.pdf) - a clear explanation of food security and its dimensions.
 - [World Bank food security explainer](https://www.worldbank.org/en/topic/agriculture/brief/food-security-update/what-is-food-security) - another clear reference for availability, access, utilization, and stability.
 - [FAO SOFI 2025 newsroom summary](https://www.fao.org/newsroom/detail/global-hunger-declines--but-rises-in-africa-and-western-asia--un-report/en) - current global hunger and food insecurity data.
@@ -437,7 +437,7 @@ Example: "food must stay cold" becomes "robot carries a cold box to the correct 
 
 ## Sources For Further Reading
 - Science Centre Singapore NRC page: https://www.science.edu.sg/for-schools/competitions/national-robotics-competition
-- Duck Learning NRC 2026 page: https://ducklearning.com/collections/nrc-2026
+- UN Sustainable Development Goal 2: https://sdgs.un.org/goals/goal2
 - FAO food security concept note: https://www.fao.org/docrep/013/al936e/al936e00.pdf
 - World Bank food security explainer: https://www.worldbank.org/en/topic/agriculture/brief/food-security-update/what-is-food-security
 - FAO SOFI 2025 newsroom summary: https://www.fao.org/newsroom/detail/global-hunger-declines--but-rises-in-africa-and-western-asia--un-report/en

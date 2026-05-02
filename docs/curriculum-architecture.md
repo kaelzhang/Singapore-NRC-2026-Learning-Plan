@@ -9,7 +9,7 @@ The weekly student materials should be readable by students directly. Teacher no
 The curriculum starts from `reference/deep-research.pdf` and extends it with current authoritative sources checked on 2026-05-02:
 
 - Science Centre Singapore confirms NRC 2026, the regular category hardware groups, autonomous field challenges, and the challenge document entrypoint.
-- Duck Learning's NRC support page summarizes the 2026 theme as "Mission Meals" and connects it to global food security and SDG 2.
+- The official Science Centre Singapore NRC page provides the competition entrypoint, while the food-system learning frame connects the theme to global food security and SDG 2.
 - Singapore's Food Story 2 now frames local food resilience through import diversification, growing local, stockpiling, and global partnerships.
 - Singapore's revised 2035 local production targets focus on 20% of local fibre consumption and 30% of local protein consumption from local farms.
 - SOFI 2025 estimates that about 673 million people experienced hunger in 2024, while 2.3 billion people experienced moderate or severe food insecurity.
@@ -144,7 +144,7 @@ For this repository, the curriculum should avoid hard-coding final scoring claim
 
 ## Source Links
 - Science Centre Singapore NRC page: https://www.science.edu.sg/for-schools/competitions/national-robotics-competition
-- Duck Learning NRC support page: https://ducklearning.com/pages/nrc-sg
+- UN Sustainable Development Goal 2: https://sdgs.un.org/goals/goal2
 - MSE revised production targets reply: https://www.mse.gov.sg/latest-news/oral-reply-to-parliamentary-question-on-revised-local-production-targets/
 - SG101 Singapore's Food Challenge: https://www.sg101.gov.sg/economy/case-studies/sg-food-challenge/
 - FAO SOFI page: https://www.fao.org/publications/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/2024/en
