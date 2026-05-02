@@ -23,7 +23,7 @@ Use these links for reliable background:
 ## The One-Minute Idea
 Food logistics is the system that moves food, information, and responsibility. A cold chain keeps temperature-sensitive food cold from production to eating. Traceability records where food came from and where it went. Warehouses and robots can help organize movement, but safety and reliability matter more than speed alone.
 
-For an eight-year-old: logistics is the food's travel plan. Cold chain is keeping the food cool during the whole trip. Traceability is remembering where it came from and where it went.
+Simple idea: logistics is the food's careful travel plan. Cold chain is keeping the food cool during the whole trip. Traceability is remembering where it came from and where it went.
 
 ## Past, Present, Future
 
@@ -65,7 +65,7 @@ Logistics is not just transport. It is planned movement with records and constra
 ### 2. Cold Chain Protects Temperature-Sensitive Food
 Some foods need controlled temperature: seafood, meat, dairy, eggs, frozen food, and some fresh produce. A cold chain is the linked system of cold storage and cold transport.
 
-For an eight-year-old: cold chain is like keeping an ice cream cold during its whole journey, not just at the start and end.
+Cold chain is like keeping an ice cream cold during its whole journey, not just at the start and end.
 
 Cold slows the growth of many microbes and slows chemical and biological changes that cause spoilage. It does not make food safe forever. Time still matters. Clean handling still matters. Correct temperature still matters.
 

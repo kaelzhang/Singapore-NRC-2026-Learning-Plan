@@ -17,7 +17,7 @@ Use these links when you want to check global data and definitions:
 
 - [UN SDG 2: Zero Hunger](https://sdgs.un.org/goals/goal2) - the global goal connected to hunger, nutrition, and sustainable agriculture.
 - [FAO SOFI 2025 newsroom summary](https://www.fao.org/newsroom/detail/global-hunger-declines--but-rises-in-africa-and-western-asia--un-report/en) - current hunger and food insecurity estimates.
-- [UNICEF SOFI 2025 data page](https://data.unicef.org/resources/sofi-2025/) - child-focused data summary for the same global report.
+- [UNICEF SOFI 2025 data page](https://data.unicef.org/resources/sofi-2025/) - UNICEF data summary for the same global report.
 - [World Bank food security explainer](https://www.worldbank.org/en/topic/agriculture/brief/food-security-update/what-is-food-security) - explains availability, access, utilization, and stability.
 - [World Bank Food Prices for Nutrition DataHub](https://www.worldbank.org/en/programs/icp/brief/foodpricesfornutrition) - reference for cost and affordability of healthy diets.
 - [WFP supply chain](https://www.wfp.org/supply-chain) - shows how logistics connects to hunger response.
@@ -27,7 +27,7 @@ Food security has four dimensions: availability, access, utilization, and stabil
 
 Robotics can help production and logistics, but robots must fit inside this bigger human system. A robot can move a food crate, but a secure food system also needs safe food, fair access, good nutrition, reliable supply, and people who can use the food.
 
-For an eight-year-old: having food in the world is not enough. The right food must reach the right people safely, at a price they can pay, again and again.
+Important idea: having food in the world is not enough. The right food must reach the right people safely, at a price they can pay, again and again.
 
 ## Past, Present, Future
 
@@ -72,7 +72,7 @@ Food insecurity means uncertain or limited access to enough safe and nutritious 
 
 Malnutrition means poor nutrition. It can include undernutrition, micronutrient deficiency, overweight, and obesity. This may sound surprising, but malnutrition is not only "too little food." It means the body is not getting the right balance of nutrients.
 
-For an eight-year-old: hunger is when the body does not get enough food energy. Malnutrition is when the body does not get the right food building blocks. Food insecurity is when getting food is uncertain or difficult.
+In simple words: hunger is when the body does not get enough food energy. Malnutrition is when the body does not get the right food building blocks. Food insecurity is when getting food is uncertain or difficult.
 
 ### 3. Calories Are Energy, But Nutrition Needs More
 A calorie is a unit of energy. People need energy to move, think, grow, stay warm, and keep organs working. But food is not only fuel.
@@ -255,7 +255,7 @@ Waste mission: the robot redirects edible surplus to a rescue zone and inedible 
 Each mission should include an evidence question: how many times can the robot do it correctly?
 
 
-## Additional Guided Reading: Turning Big Data Into Child-Sized Understanding
+## Additional Guided Reading: Turning Big Data Into Concrete Understanding
 
 ### A Number Is Not A Person, But Every Person Counts
 When you read that hundreds of millions of people face hunger, the number can feel too large to imagine. Do not let the size make you stop caring. A global number is made of individual people: children, parents, farmers, workers, and families.

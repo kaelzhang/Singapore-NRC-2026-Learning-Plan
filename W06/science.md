@@ -25,7 +25,7 @@ Use these links for reliable context:
 ## The One-Minute Idea
 Controlled Environment Agriculture means growing plants in a managed space such as a greenhouse, indoor farm, or plant factory. Vertical farming stacks growing layers upward. Hydroponics grows plants without soil. These systems can save land and sometimes water, but they may need electricity, skilled operators, careful monitoring, cleaning, and repair.
 
-For an eight-year-old: CEA is like making a special room for plants where people manage the weather, water, food, and light.
+Simple idea: CEA is like making a special room for plants where people manage the weather, water, food, and light.
 
 ## Past, Present, Future
 

@@ -25,7 +25,7 @@ Use these links when you want stronger background:
 ## The One-Minute Idea
 Plants make sugar through photosynthesis. They need light energy, carbon dioxide, water, and nutrients. They also need the right temperature, enough space, oxygen around roots, and protection from stress. Different farming systems control these needs in different ways.
 
-For an eight-year-old: a plant is like a tiny food factory. Light is energy, water is a material, air gives carbon dioxide, and nutrients are building blocks. Farmers and robots help by keeping the factory supplied and safe.
+Think of a plant as a tiny food factory. Light is energy, water is a material, air gives carbon dioxide, and nutrients are building blocks. Farmers and robots help by keeping the factory supplied and safe day by day.
 
 ## Past, Present, Future
 
@@ -182,7 +182,7 @@ Xylem carries water and dissolved minerals mostly upward from roots to leaves. T
 
 Phloem carries sugars and other substances from sources to sinks. If leaves make sugar, phloem can move it to roots, fruits, or growing tips.
 
-For an eight-year-old: xylem is like the water elevator, and phloem is like the sugar delivery road.
+Xylem is like the water elevator, and phloem is like the sugar delivery road inside the plant.
 
 These transport systems are why root health and leaf health are connected. A damaged root can affect leaves. Damaged leaves can affect fruit.
 

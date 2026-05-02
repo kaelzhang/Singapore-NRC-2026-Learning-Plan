@@ -24,7 +24,7 @@ For normal work in this repository, read:
 For organization rules, follow the loading instructions in `/Users/kael/Codes/ost/standards/AGENTS.md`.
 
 ## Authorized Scope
-This repository intentionally does not use a multi-agent inbox or child-agent registry for this project.
+This repository intentionally does not use a multi-agent inbox or subagent registry for this project.
 
 The active agent may edit these paths:
 
@@ -46,7 +46,7 @@ Do not create `tasks/`, inbox threads, or multi-agent coordination artifacts unl
   - `robotics.md` for robot building, mechanism, programming, mission-design, or testing work.
   - `README.md` for the weekly entrypoint, document links, learning order, and video shelf.
 - Weekly content should stay cohesive around one main domain or question.
-- Core terms should use accurate professional vocabulary, then explain the ideas in language an eight-year-old can understand.
+- Core terms should use accurate professional vocabulary, then explain the ideas in clear, concrete language.
 - Each weekly directory should include 5 to 6 non-repeated student-watchable video links.
 - Prefer official, educational, museum, university, NGO, or well-maintained organization sources.
 - Record important source URLs in the relevant weekly material instead of relying on chat history.

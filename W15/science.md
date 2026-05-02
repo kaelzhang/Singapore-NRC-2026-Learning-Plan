@@ -23,7 +23,7 @@ Use these links for reliable background:
 ## The One-Minute Idea
 Testing means trying a system in a planned way. Reliability means it works repeatedly. Debugging means finding and fixing the cause of failure. Evidence means records that show what happened.
 
-For an eight-year-old: if your robot works once, say "interesting." If it works 10 times with records, say "we have evidence."
+If your robot works once, say "interesting." If it works 10 times with records, say "we have evidence."
 
 ## Past, Present, Future
 

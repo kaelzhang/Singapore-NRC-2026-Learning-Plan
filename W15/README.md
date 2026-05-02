@@ -15,9 +15,9 @@ How do we know a robot works, instead of just getting lucky once?
 4. Use the videos below for classroom viewing or home extension.
 
 ## Video Shelf
-1. Crash Course Kids - The Engineering Process: https://www.youtube.com/watch?v=fxJWin195kU
-2. Crash Course Kids - What's an Engineer? https://www.youtube.com/watch?v=owHF9iLyxic
-3. Crash Course Kids - The Robot Challenge: https://www.youtube.com/watch?v=0GMBJFqgHfc
+1. Crash Course - The Engineering Process: https://www.youtube.com/watch?v=fxJWin195kU
+2. Crash Course - What's an Engineer? https://www.youtube.com/watch?v=owHF9iLyxic
+3. Crash Course - The Robot Challenge: https://www.youtube.com/watch?v=0GMBJFqgHfc
 4. Smithsonian National Air and Space Museum - Engineering Design Process: https://www.youtube.com/watch?v=MFGg1calQ6k
 5. Kuriosity Robotics - Robotics Design Process: https://www.youtube.com/watch?v=ZEYOJxM7zsk
 6. Sarah Wood - The Engineering Design Process: https://www.youtube.com/watch?v=oBqGoXCBHtk

@@ -18,7 +18,7 @@ Use these links when you want to check the real-world idea behind this lesson:
 - [Science Centre Singapore National Robotics Competition](https://www.science.edu.sg/for-schools/competitions/national-robotics-competition) - the official NRC entrypoint for current challenge documents.
 - [Duck Learning NRC 2026 page](https://ducklearning.com/collections/nrc-2026) - competition support page for the 2026 Mission Meals season.
 - [FAO food security concept note](https://www.fao.org/docrep/013/al936e/al936e00.pdf) - a clear explanation of food security and its dimensions.
-- [World Bank food security explainer](https://www.worldbank.org/en/topic/agriculture/brief/food-security-update/what-is-food-security) - another student-friendly reference for availability, access, utilization, and stability.
+- [World Bank food security explainer](https://www.worldbank.org/en/topic/agriculture/brief/food-security-update/what-is-food-security) - another clear reference for availability, access, utilization, and stability.
 - [FAO SOFI 2025 newsroom summary](https://www.fao.org/newsroom/detail/global-hunger-declines--but-rises-in-africa-and-western-asia--un-report/en) - current global hunger and food insecurity data.
 - [UNEP Food Waste Index Report 2024](https://www.unep.org/resources/publication/food-waste-index-report-2024) - current global food waste data.
 
@@ -27,7 +27,7 @@ A meal is the end of a long journey. Someone had to grow ingredients, harvest th
 
 When one part of that journey breaks, people may not get enough safe and healthy food. Robots can help in some parts, but only if we understand the whole system first.
 
-For an eight-year-old: Mission Meals asks you to think like a food detective and a robot engineer at the same time. First ask, "What food problem is happening?" Then ask, "What small job could a robot do to help this part of the problem?"
+Simple idea: Mission Meals asks you to think like a food detective and a robot engineer at the same time. First ask, "What food problem is happening?" Then ask, "What small job could a robot do to help this part of the problem?"
 
 ## Past, Present, Future
 
@@ -59,7 +59,7 @@ Think about a bowl of noodles. The noodles may come from wheat or rice. The vege
 
 A food system includes living things and non-living things. Living things include plants, animals, fungi, microbes, farmers, workers, drivers, cooks, sellers, and families. Non-living things include soil, water, fertilizer, machines, roads, ships, sensors, packaging, electricity, cold rooms, money, and data.
 
-For an eight-year-old: a food system is like a giant team. Some team members grow food. Some protect food. Some carry food. Some check food. Some cook food. Some clean up after food. If one team member stops doing the job, the meal can be late, unsafe, too expensive, or wasted.
+Think of it this way: a food system is like a giant team. Some team members grow food. Some protect food. Some carry food. Some check food. Some cook food. Some clean up after food. If one team member stops doing the job, the meal can be late, unsafe, too expensive, or wasted.
 
 ### 2. A Food Chain Is Too Simple; A Food Web Is Closer
 People often say "farm to table," which sounds like a straight line. Real food systems are more like a web. A farm needs seeds from somewhere, fertilizer or nutrients from somewhere, water from somewhere, energy from somewhere, and workers or machines. A supermarket needs suppliers, transport, cooling, shelves, payment systems, and customers. A family needs money, time, cooking skills, and safe storage.
@@ -97,7 +97,7 @@ Utilization asks: Is the food safe and nutritious, and can the body use it well?
 
 Stability asks: Can people keep getting food over time, even during shocks? A system can look fine on a normal day but fail during a flood, heat wave, disease outbreak, shipping delay, conflict, or price spike.
 
-For an eight-year-old: food security means food must be there, people must be able to get it, it must be good for the body, and it must keep coming even when things go wrong.
+In simple words: food security means food must be there, people must be able to get it, it must be good for the body, and it must keep coming even when things go wrong.
 
 ### 4. Modern Food Problems Often Have More Than One Cause
 A food problem is rarely caused by only one thing. Hunger can happen because crops failed, but also because people lost income, food prices rose, roads were blocked, conflict made farming dangerous, or food was not shared fairly. Food waste can happen because people bought too much, labels were confusing, storage failed, shops rejected imperfect food, or transport was delayed.
@@ -385,12 +385,12 @@ Keep this habit all season during every practice.
 ### Food System
 All the people, living things, tools, places, energy, data, and rules that move food from production to eating and waste handling.
 
-Child-friendly version: the food system is the whole journey of food.
+Simple version: the food system is the whole journey of food.
 
 ### Food Security
 The condition where people can reliably get enough safe and nutritious food.
 
-Child-friendly version: people have the food they need, not just once, but again and again.
+Simple version: people have the food they need, not just once, but again and again.
 
 ### Availability
 The amount of food that exists in a place. Availability depends on farms, imports, stocks, and storage.

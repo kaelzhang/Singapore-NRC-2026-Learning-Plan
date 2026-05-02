@@ -17,7 +17,7 @@ Use these links for reliable background:
 
 - [GPS.gov precision agriculture](https://www.gps.gov/index.php/precision-agriculture-gps) - explains how GPS supports location-aware farming.
 - [USDA ARS benefits and evolution of precision agriculture](https://www.ars.usda.gov/oc/utm/benefits-and-evolution-of-precision-agriculture/) - USDA overview of precision agriculture development.
-- [USDA AgLab precision agriculture](https://aglab.ars.usda.gov/fuel-your-curiosity/sustainability/precision-agriculture) - student-friendly USDA explanation.
+- [USDA AgLab precision agriculture](https://aglab.ars.usda.gov/fuel-your-curiosity/sustainability/precision-agriculture) - clear USDA explanation.
 - [FAO SOFA 2022 automation report](https://www.fao.org/agrifood-economics/publications/detail/en/c/1613500/) - global view of automation and digital technologies in agriculture.
 - [NASA photosynthesis from space](https://www.nasa.gov/earth-and-climate/seeing-photosynthesis-from-space-nasa-scientists-use-satellites-to-measure-plant-health/) - example of remote sensing for plant health.
 - [USDA agriculture technology topics](https://www.nifa.usda.gov/topics/agriculture-technology) - broad technology context.
@@ -25,7 +25,7 @@ Use these links for reliable background:
 ## The One-Minute Idea
 Precision agriculture uses sensors, maps, GPS, drones, cameras, satellites, and data to treat different places differently. The goal is to use the right input, in the right place, at the right time.
 
-For an eight-year-old: instead of giving every plant the same help, precision agriculture asks, "What does this plant or place need?" Then it tries to help only where help is needed.
+Instead of giving every plant the same help, precision agriculture asks, "What does this plant or place need?" Then it tries to help only where help is needed.
 
 ## Past, Present, Future
 

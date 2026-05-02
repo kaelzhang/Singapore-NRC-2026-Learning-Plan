@@ -23,7 +23,7 @@ Use these links for reliable background:
 ## The One-Minute Idea
 Climate risk means the chance that climate conditions will harm a system. Extreme heat can reduce crop yields, stress animals, make outdoor work dangerous, warm water bodies, increase storage problems, and disrupt logistics. Resilient agriculture tries to prepare, adapt, and recover.
 
-For an eight-year-old: resilience means a system can get bumped and still keep going, or recover quickly after it falls.
+In simple words, resilience means a system can get bumped and still keep going, or recover quickly after it falls.
 
 ## Past, Present, Future
 

@@ -17,7 +17,7 @@ The curriculum starts from `reference/deep-research.pdf` and extends it with cur
 - FAO and WMO's 2026 extreme heat assessment warns that extreme heat is now a major risk multiplier for crops, livestock, fisheries, aquaculture, forests, and agricultural workers.
 
 ## Curriculum Design Principles
-1. Use accurate professional vocabulary, then explain it in child-friendly language.
+1. Use accurate professional vocabulary, then explain it in clear, concrete language.
 2. Keep each week focused on one main domain so students can build a coherent mental model.
 3. Include past, present, and future in every week.
 4. Connect food-system knowledge to robot-system thinking every week.

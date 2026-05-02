@@ -23,7 +23,7 @@ Use these links for reliable background:
 ## The One-Minute Idea
 Computational thinking means solving problems in a structured way so a computer or robot can follow the steps. A robot needs exact instructions, but a good team also needs abstraction: hiding unnecessary details so the main plan is clear.
 
-For an eight-year-old: a program is a recipe for a robot, but the robot follows the recipe very literally. If the recipe says the wrong step first, the robot does the wrong step first.
+A program is a recipe for a robot, but the robot follows the recipe very literally. If the recipe says the wrong step first, the robot does the wrong step first.
 
 ## Past, Present, Future
 
@@ -33,7 +33,7 @@ Early machines followed mechanical patterns, cams, gears, and fixed controls. La
 Before block coding, programming often required typing exact text commands. Blocks help beginners focus on logic before worrying about punctuation.
 
 ### Present
-Students can use Scratch-like blocks and LEGO SPIKE tools to program movement, sensors, lights, loops, and conditions. SPIKE Essential is designed for young learners and includes a hub, motors, sensors, and a coding app.
+Students can use Scratch-like blocks and LEGO SPIKE tools to program movement, sensors, lights, loops, and conditions. SPIKE Essential includes a hub, motors, sensors, and a coding app for introductory robotics work.
 
 Scratch projects also teach computational thinking beyond robotics: events, sprites, loops, variables, debugging, and creative design.
 

@@ -8,7 +8,7 @@ The plan connects food-system science with robotics thinking so that students un
 - Build a 4-month learning path split into 16 weekly modules.
 - Write the main weekly science material for students in English.
 - Make technical terms visible and useful instead of hiding them.
-- Explain difficult concepts in a way that an eight-year-old can understand.
+- Explain difficult concepts with accurate terms and clear, concrete language.
 - Connect each topic to the past, present, current global data, pain points, and future research directions.
 - Include 5 to 6 non-repeated video links in every weekly module.
 - Keep each week focused on one coherent domain.

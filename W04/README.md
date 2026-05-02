@@ -18,6 +18,6 @@ If the world produces so much food, why do many people still face hunger or poor
 1. FAO - SOFI 2025 technical presentation: https://www.youtube.com/watch?v=GPhFUTxr6jY
 2. FAO - Behind the scenes of the SOFI report: https://www.youtube.com/watch?v=LQ1LU10KfgQ
 3. FAO - Let's make healthy diets a reality for all: https://www.youtube.com/watch?v=qZBxVoUtZjE
-4. EAT - Healthy Diets from Sustainable Food Systems for Children and All: https://www.youtube.com/watch?v=I_euV2ii1SE
+4. EAT - Healthy Diets from Sustainable Food Systems: https://www.youtube.com/watch?v=I_euV2ii1SE
 5. FAO - Analysing household resilience to food insecurity: https://www.youtube.com/watch?v=2qHdCT9mvbQ
 6. FAO - The Hidden Cost of Obesity: https://www.youtube.com/watch?v=TVnoU2gZOSQ

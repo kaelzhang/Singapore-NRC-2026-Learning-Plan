@@ -25,7 +25,7 @@ Use these links when you want more background:
 ## The One-Minute Idea
 Agriculture began when people started managing plants and animals instead of only finding wild food. Over thousands of years, people invented irrigation, ploughs, storage, crop rotation, machines, fertilizers, improved seeds, and data tools. Each change helped solve one problem but often created new tradeoffs.
 
-For an eight-year-old: farming is like a very old engineering project. People kept trying new tools to help plants grow better and make food more reliable.
+Simple idea: farming is like a very old engineering project. People kept trying new tools to help plants grow better and make food more reliable.
 
 ## Past, Present, Future
 
@@ -57,7 +57,7 @@ When humans saved seeds from plants they liked, generation after generation, the
 
 Scientists sometimes use the phrase domestication syndrome for a group of traits that often appear in domesticated plants. Examples include larger seeds or fruits, less seed shattering, less bitterness, more predictable germination, and changes in plant shape. You do not need to memorize the phrase, but it helps you see domestication as biology plus human selection.
 
-For an eight-year-old: domestication is like choosing the best seeds again and again until the plant family slowly changes.
+Think of domestication as choosing the best seeds again and again until the plant family slowly changes over generations.
 
 Domestication also changed people. Farming encouraged people to stay in one place, store food, build permanent houses, divide work, develop tools, create calendars, and organize land and water. It made larger settlements possible, but it also brought new problems such as crop failure, disease spread, social inequality, and conflict over land or water.
 
@@ -189,7 +189,7 @@ Rotation can reduce pest buildup, improve soil structure, manage nutrients, and 
 
 Modern farming sometimes uses fertilizers instead of relying only on rotations, but rotations still matter. They can reduce input needs and improve resilience.
 
-For an eight-year-old: crop rotation is like not asking the same part of the soil to do the same job every day forever. You give the field a smarter schedule.
+Crop rotation is like not asking the same part of the soil to do the same job every day forever. You give the field a smarter schedule.
 
 ### Pest Control Is An Evolution Problem
 Pests include insects, weeds, fungi, bacteria, viruses, rodents, and other organisms that damage crops or stored food. Farmers have always fought pests, but pest control is difficult because living things can adapt.

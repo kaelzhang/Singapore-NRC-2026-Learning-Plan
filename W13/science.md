@@ -25,7 +25,7 @@ Use these links for reliable background:
 ## The One-Minute Idea
 Alternative proteins are protein sources that do not rely only on conventional livestock. Some come from plants. Some come from microbes. Some come from animal cells grown in controlled conditions. Some come from insects or algae. Each has different benefits, risks, and questions.
 
-For an eight-year-old: future food is not one strange thing. It is a toolbox of many possible ways to make protein. Every tool must be checked for safety, nutrition, cost, taste, and usefulness.
+Future food is not one strange thing. It is a toolbox of many possible ways to make protein. Every tool must be checked for safety, nutrition, cost, taste, and usefulness.
 
 ## Past, Present, Future
 
@@ -69,7 +69,7 @@ In biomass fermentation, the microbe itself becomes food. Mycoprotein is an exam
 
 In precision fermentation, microbes are used to produce a specific ingredient, such as a protein, enzyme, flavour, fat, or colour compound. The microbe is like a tiny factory, but the factory must be controlled and the product must be purified and assessed.
 
-For an eight-year-old: microbes can be tiny food helpers or tiny ingredient factories.
+Microbes can be tiny food helpers or tiny ingredient factories.
 
 ### 4. Cultivated Meat Grows Animal Cells
 Cultivated meat is grown from animal cells in controlled equipment such as bioreactors. The cells need nutrients, safe conditions, oxygen, temperature control, and careful process monitoring.
@@ -253,7 +253,7 @@ The best question is not, "Is this good or bad?" The best question is, "Under wh
 ### The Consumer Is Part Of The System
 Food technology does not work if people refuse to eat the food. Consumer acceptance means people are willing to buy, cook, share, and trust the product. Acceptance depends on taste, smell, price, culture, religion, health beliefs, label clarity, texture, color, and the story people hear about the food.
 
-For an 8-year-old learner, a simple way to think about this is: food has a science side and a feelings side. A food can be nutritious and safe, but if it looks scary or tastes unpleasant, people may reject it. A food can be tasty, but if the label is confusing, people may not trust it. Designers must respect both facts and feelings.
+A simple way to think about this is: food has a science side and a feelings side. A food can be nutritious and safe, but if it looks scary or tastes unpleasant, people may reject it. A food can be tasty, but if the label is confusing, people may not trust it. Designers must respect both facts and feelings.
 
 This is why future-food teams often include scientists, engineers, chefs, nutrition experts, safety experts, designers, and communication specialists. A robot project can model this by showing not only how food is produced, but also how it is inspected, labelled, delivered, and explained to consumers.
 
@@ -295,7 +295,7 @@ Useful questions include:
 4. How much salt, sugar, or saturated fat does it contain?
 5. Does it contain fiber?
 6. Could it trigger allergies?
-7. Is the serving size realistic for a child or family?
+7. Is the serving size realistic for one person or a family?
 
 Essential amino acids are amino acids the human body cannot make enough of by itself, so we need to get them from food. Micronutrients are vitamins and minerals needed in small amounts. Small does not mean unimportant. A tiny amount of iron helps the blood carry oxygen. A tiny amount of iodine helps the body make thyroid hormones.
 

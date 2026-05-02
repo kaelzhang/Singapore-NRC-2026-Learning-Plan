@@ -25,7 +25,7 @@ Use these links for reliable context:
 ## The One-Minute Idea
 Agricultural robots are usually task specialists. One robot may weed, another may harvest fruit, another may spray, another may carry crates, and another may inspect plants. A good farm robot is designed for a clear job, crop, environment, and cost.
 
-For an eight-year-old: a farm robot is often a very good helper for one kind of job, not a magic robot that does everything.
+A farm robot is often a very good helper for one kind of job, not a magic robot that does everything.
 
 ## Past, Present, Future
 

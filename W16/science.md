@@ -32,7 +32,7 @@ Here is our test evidence.
 Here is what we would improve next.
 ```
 
-For an eight-year-old: your robot should have a reason, a job, proof, and a next step.
+Your robot should have a reason, a job, proof, and a next step.
 
 ## Past, Present, Future
 
@@ -334,7 +334,7 @@ A strong capstone has:
 - one clear food-system problem,
 - one clear mission model,
 - accurate vocabulary,
-- child-friendly explanation,
+- clear explanation,
 - one or more reliable sources,
 - a mechanism matched to object properties,
 - clear program logic,

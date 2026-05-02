@@ -18,7 +18,7 @@ Use these links when you want to check Singapore-specific details:
 - [SG101 Singapore's Food Challenge](https://www.sg101.gov.sg/economy/case-studies/sg-food-challenge/) - a clear overview of Singapore's food security challenge.
 - [MSE reply on revised local production targets](https://www.mse.gov.sg/latest-news/oral-reply-to-parliamentary-question-on-revised-local-production-targets/) - official explanation of Singapore Food Story 2 and the 2035 fibre/protein targets.
 - [SFA safety of alternative protein](https://www.sfa.gov.sg/food-safety-tips/food-risk-concerns/risk-at-a-glance/safety-of-alternative-protein) - explains novel food and safety assessment in Singapore.
-- [SFA food safety tips](https://www.sfa.gov.sg/food-safety-tips) - student-friendly food safety guidance.
+- [SFA food safety tips](https://www.sfa.gov.sg/food-safety-tips) - clear food safety guidance.
 - [Science Centre Singapore NRC](https://www.science.edu.sg/for-schools/competitions/national-robotics-competition) - official NRC page for competition context.
 
 ## The One-Minute Idea
@@ -31,7 +31,7 @@ Singapore cannot simply grow every type of food locally. Instead, it builds resi
 - use science and technology to do more with less land,
 - keep food safe through rules, checks, and public habits.
 
-For an eight-year-old: Singapore's food plan is like packing for a trip. You do not bring only one snack and hope nothing goes wrong. You bring different snacks, know where to buy more, keep some backup, and make sure the food is safe to eat.
+Think of Singapore's food plan like packing for a trip. You do not bring only one snack and hope nothing goes wrong. You bring different snacks, know where to buy more, keep some backup, and make sure the food is safe to eat.
 
 ## Past, Present, Future
 
@@ -77,7 +77,7 @@ For a robot team, this becomes a design lesson: do not make a robot that depends
 ### 2. Diversification Means Not Putting All Food In One Basket
 Import diversification means buying from many countries and regions instead of depending too much on one place. If one route, supplier, crop, port, or region has trouble, another source may still work.
 
-For an eight-year-old: if you need markers for class, it is safer if more than one friend can bring markers. If one friend forgets, the class still has markers.
+Simple example: if you need markers for class, it is safer if more than one friend can bring markers. If one friend forgets, the class still has markers.
 
 Diversification has details. It is not enough to have many suppliers if they all depend on the same shipping route or the same crop disease risk. It is not enough to have many countries on a list if one product still mostly comes from one place. A careful food planner asks: Which foods are critical? Which countries supply them? How quickly can supply change? How long can stored food last? How much will prices rise?
 
@@ -97,7 +97,7 @@ Some foods can be stored. Rice, canned food, frozen proteins, and other essentia
 
 Stockpiling is more complicated than simply keeping a pile of food. Food has shelf life. Some food needs cool or dry storage. Stocks must rotate so old food is used before it expires. Storage uses space and money. Too little stock is risky, but too much stock can waste resources.
 
-For an eight-year-old: a stockpile is like keeping extra batteries for a toy. The batteries do not make the toy better every day, but they help when the current batteries run out.
+A stockpile is like keeping extra batteries for a toy. The batteries do not make the toy better every day, but they help when the current batteries run out.
 
 In a robotics mission, stockpiling might be represented by moving backup food to a reserve zone, sorting shelf-stable and perishable items, or delivering emergency supplies to the correct place.
 
@@ -233,7 +233,7 @@ Food systems are not only farms and government plans. Consumers matter. If peopl
 
 Consumer behaviour includes what people buy, how they store food, whether they accept new foods, how they respond during disruptions, and whether they trust labels. Panic buying can stress supply chains even if there is enough food overall.
 
-For an eight-year-old: a food system includes your choices too. You are not only the last person in the chain. You can help reduce waste, store food safely, and learn where food comes from.
+Remember that a food system includes your choices too. You are not only the last person in the chain. You can help reduce waste, store food safely, and learn where food comes from.
 
 ### Singapore Mission Thinking Checklist
 When designing a Singapore-focused Mission Meals robot idea, ask:

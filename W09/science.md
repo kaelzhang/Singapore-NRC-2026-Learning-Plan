@@ -15,7 +15,7 @@ This week is the bridge between food science and robot mechanics. The food-syste
 ## Key Reference Links For This Week
 Use these links for reliable background:
 
-- [NASA STEMonstrations: Simple Machines](https://www.nasa.gov/stem-content/stemonstrations-simple-machines/) - student-friendly reference for levers and other simple machines.
+- [NASA STEMonstrations: Simple Machines](https://www.nasa.gov/stem-content/stemonstrations-simple-machines/) - clear reference for levers and other simple machines.
 - [NASA Glenn torque guide](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/torque-moment/) - clear explanation of torque as turning effect.
 - [NIST robotic grasping and manipulation](https://www.nist.gov/el/intelligent-systems-division-73500/robotic-grasping-and-manipulation-assembly) - shows why end-effectors and force control matter in robotics.
 - [FAO agricultural robotics report](https://www.fao.org/sustainable-agricultural-mechanization/resources/publications/details/en/c/1363243/) - agriculture automation context.
@@ -25,7 +25,7 @@ Use these links for reliable background:
 ## The One-Minute Idea
 An end-effector is the robot's working tool. It may be a gripper, scoop, hook, pusher, fork, sweeper, gate, lifter, cutter, sprayer, suction cup, or soft finger. The best tool depends on the object: its size, shape, weight, fragility, surface, centre of mass, and required motion.
 
-For an eight-year-old: the robot body is like your arm, and the end-effector is like your hand or tool. You would not use the same hand shape to hold an egg, push a box, scoop rice, and pick up a slippery fish.
+Think of the robot body like your arm, and the end-effector like your hand or tool during a mission. You would not use the same hand shape to hold an egg, push a box, scoop rice, and pick up a slippery fish.
 
 ## Past, Present, Future
 
@@ -94,7 +94,7 @@ more force or longer distance from pivot -> more torque
 
 If your robot lifts a heavy object far from the motor, the motor may struggle. If you move the object closer to the pivot or use gearing, lifting can become easier.
 
-For an eight-year-old: holding a heavy bag close to your body is easier than holding it with your arm stretched out. The stretched arm creates more turning force around your shoulder.
+Holding a heavy bag close to your body is easier than holding it with your arm stretched out for long. The stretched arm creates more turning force around your shoulder.
 
 ### 6. Gears Change Speed, Torque, And Direction
 Gears are wheels with teeth. A small gear driving a large gear can increase torque but reduce speed. A large gear driving a small gear can increase speed but reduce torque. Gears can also change rotation direction.

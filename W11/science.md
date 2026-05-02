@@ -23,7 +23,7 @@ Use these links for reliable background:
 ## The One-Minute Idea
 Food loss usually happens before food reaches consumers, such as during harvest, storage, processing, or transport. Food waste usually happens at retail, restaurants, schools, or homes. A circular economy tries to keep materials useful for as long as possible.
 
-For an eight-year-old: do not just throw value away. Try first not to waste it. If safe food is extra, share it. If it cannot feed people, recover value safely.
+Do not just throw value away. Try first not to waste it. If safe food is extra, share it. If it cannot feed people, recover value safely.
 
 ## Past, Present, Future
 
