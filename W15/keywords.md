@@ -1,24 +1,25 @@
-# W15 - Testing, Reliability, Debugging, And Evidence Keyword Index
+# W15 - Testing, Reliability, Debugging, And Evidence Keyword Index / 关键词索引
 
-This document is a quick review index for the science reading in this week. It lists the core keywords, Chinese explanations, and the concrete meaning of each term.
+EN: This document is a quick bilingual review index for the science reading in this week. It lists the core keywords, Chinese keyword names, specific meanings, simple explanations, and examples.
+中文：这份文档是本周 Science 阅读材料的双语快速复习索引，列出核心关键词、中文名称、具体含义、简单解释和例子。
 
-## 当前所有关键字
+## Current Keywords / 当前所有关键字
 
-**Test Plan**, **Reliability**, **Variable**, **Control**, **Success Criteria**, **Failure Mode**, **Root Cause**, **Iteration**, **Evidence**, **Calibration**, **Version**, **Stop Rule**
+**Test Plan（测试计划）**, **Reliability（可靠性）**, **Variable（变量）**, **Control（控制条件）**, **Success Criteria（成功标准）**, **Failure Mode（失效模式）**, **Root Cause（根本原因）**, **Iteration（迭代）**, **Evidence（证据）**, **Calibration（校准）**, **Version（版本）**, **Stop Rule（停止规则）**
 
-## 关键词解释
+## Keyword Explanations / 关键词解释
 
-| Keyword | 中文解释 | 具体含义 |
-| --- | --- | --- |
-| **Test Plan** | 测试计划 | 说明要测试什么、怎样测试、怎样判断结果的计划。 |
-| **Reliability** | 可靠性 | 系统在多次运行中持续正确工作的能力。 |
-| **Variable** | 变量 | 实验或程序中会变化并可能影响结果的因素。 |
-| **Control** | 控制条件 | 测试中保持不变的条件，用来判断变化原因。 |
-| **Success Criteria** | 成功标准 | 提前定义怎样才算任务成功的规则。 |
-| **Failure Mode** | 失效模式 | 系统可能失败的具体方式。 |
-| **Root Cause** | 根本原因 | 导致问题发生的真正深层原因。 |
-| **Iteration** | 迭代 | 根据测试结果反复改进设计的过程。 |
-| **Evidence** | 证据 | 支持结论的数据、记录、照片、表格或观察。 |
-| **Calibration** | 校准 | 调整测量或机器人设置，使结果更可靠。 |
-| **Version** | 版本 | 某一次程序或设计状态的编号或记录。 |
-| **Stop Rule** | 停止规则 | 告诉团队何时停止修改并进入下一步的规则。 |
+| English Keyword / 英文关键词 | Chinese Keyword / 中文关键词 | Meaning / 具体含义 | Simple Explanation / 简单解释 | Example / 例子 |
+| --- | --- | --- | --- | --- |
+| **Test Plan** | **测试计划** | EN: A planned set of checks that answers a clear question.<br>中文：说明要测试什么、怎样测试、怎样判断结果的计划。 | EN: In simple words, **Test Plan** means: A planned set of checks that answers a clear question.<br>中文：简单说，**测试计划**就是：说明要测试什么、怎样测试、怎样判断结果的计划。 | EN: Example: A team might say, "This mission step shows **Test Plan** because it models a planned set of checks that answers a clear question."<br>中文：例子：团队可以说：“这个任务步骤体现了‘测试计划’，因为它模拟的是：说明要测试什么、怎样测试、怎样判断结果的计划。” |
+| **Reliability** | **可靠性** | EN: How consistently a system works over repeated trials.<br>中文：系统在多次运行中持续正确工作的能力。 | EN: In simple words, **Reliability** means: How consistently a system works over repeated trials.<br>中文：简单说，**可靠性**就是：系统在多次运行中持续正确工作的能力。 | EN: Example: A team might say, "This mission step shows **Reliability** because it models how consistently a system works over repeated trials."<br>中文：例子：团队可以说：“这个任务步骤体现了‘可靠性’，因为它模拟的是：系统在多次运行中持续正确工作的能力。” |
+| **Variable** | **变量** | EN: Something that can change, such as speed, angle, or start position.<br>中文：实验或程序中会变化并可能影响结果的因素。 | EN: In simple words, **Variable** means: Something that can change, such as speed, angle, or start position.<br>中文：简单说，**变量**就是：实验或程序中会变化并可能影响结果的因素。 | EN: Example: A team might say, "This mission step shows **Variable** because it models something that can change, such as speed, angle, or start position."<br>中文：例子：团队可以说：“这个任务步骤体现了‘变量’，因为它模拟的是：实验或程序中会变化并可能影响结果的因素。” |
+| **Control** | **控制条件** | EN: Something kept the same during a test.<br>中文：测试中保持不变的条件，用来判断变化原因。 | EN: In simple words, **Control** means: Something kept the same during a test.<br>中文：简单说，**控制条件**就是：测试中保持不变的条件，用来判断变化原因。 | EN: Example: A team might say, "This mission step shows **Control** because it models something kept the same during a test."<br>中文：例子：团队可以说：“这个任务步骤体现了‘控制条件’，因为它模拟的是：测试中保持不变的条件，用来判断变化原因。” |
+| **Success Criteria** | **成功标准** | EN: The rules that define whether a test passed.<br>中文：提前定义怎样才算任务成功的规则。 | EN: In simple words, **Success Criteria** means: The rules that define whether a test passed.<br>中文：简单说，**成功标准**就是：提前定义怎样才算任务成功的规则。 | EN: Example: A team might say, "This mission step shows **Success Criteria** because it models the rules that define whether a test passed."<br>中文：例子：团队可以说：“这个任务步骤体现了‘成功标准’，因为它模拟的是：提前定义怎样才算任务成功的规则。” |
+| **Failure Mode** | **失效模式** | EN: A specific way a system fails.<br>中文：系统可能失败的具体方式。 | EN: In simple words, **Failure Mode** means: A specific way a system fails.<br>中文：简单说，**失效模式**就是：系统可能失败的具体方式。 | EN: Example: A team might say, "This mission step shows **Failure Mode** because it models a specific way a system fails."<br>中文：例子：团队可以说：“这个任务步骤体现了‘失效模式’，因为它模拟的是：系统可能失败的具体方式。” |
+| **Root Cause** | **根本原因** | EN: The deeper reason a failure happens.<br>中文：导致问题发生的真正深层原因。 | EN: In simple words, **Root Cause** means: The deeper reason a failure happens.<br>中文：简单说，**根本原因**就是：导致问题发生的真正深层原因。 | EN: Example: A team might say, "This mission step shows **Root Cause** because it models the deeper reason a failure happens."<br>中文：例子：团队可以说：“这个任务步骤体现了‘根本原因’，因为它模拟的是：导致问题发生的真正深层原因。” |
+| **Iteration** | **迭代** | EN: One cycle of improving a design.<br>中文：根据测试结果反复改进设计的过程。 | EN: In simple words, **Iteration** means: One cycle of improving a design.<br>中文：简单说，**迭代**就是：根据测试结果反复改进设计的过程。 | EN: Example: A team might say, "This mission step shows **Iteration** because it models one cycle of improving a design."<br>中文：例子：团队可以说：“这个任务步骤体现了‘迭代’，因为它模拟的是：根据测试结果反复改进设计的过程。” |
+| **Evidence** | **证据** | EN: Recorded information that supports a claim.<br>中文：支持结论的数据、记录、照片、表格或观察。 | EN: In simple words, **Evidence** means: Recorded information that supports a claim.<br>中文：简单说，**证据**就是：支持结论的数据、记录、照片、表格或观察。 | EN: Example: A team might say, "This mission step shows **Evidence** because it models recorded information that supports a claim."<br>中文：例子：团队可以说：“这个任务步骤体现了‘证据’，因为它模拟的是：支持结论的数据、记录、照片、表格或观察。” |
+| **Calibration** | **校准** | EN: Checking or adjusting a sensor or system so measurements are trustworthy.<br>中文：调整测量或机器人设置，使结果更可靠。 | EN: In simple words, **Calibration** means: Checking or adjusting a sensor or system so measurements are trustworthy.<br>中文：简单说，**校准**就是：调整测量或机器人设置，使结果更可靠。 | EN: Example: A team might say, "This mission step shows **Calibration** because it models checking or adjusting a sensor or system so measurements are trustworthy."<br>中文：例子：团队可以说：“这个任务步骤体现了‘校准’，因为它模拟的是：调整测量或机器人设置，使结果更可靠。” |
+| **Version** | **版本** | EN: A named stage of a design or program.<br>中文：某一次程序或设计状态的编号或记录。 | EN: In simple words, **Version** means: A named stage of a design or program.<br>中文：简单说，**版本**就是：某一次程序或设计状态的编号或记录。 | EN: Example: A team might say, "This mission step shows **Version** because it models a named stage of a design or program."<br>中文：例子：团队可以说：“这个任务步骤体现了‘版本’，因为它模拟的是：某一次程序或设计状态的编号或记录。” |
+| **Stop Rule** | **停止规则** | EN: A rule that tells the team when to stop changing and move on.<br>中文：告诉团队何时停止修改并进入下一步的规则。 | EN: In simple words, **Stop Rule** means: A rule that tells the team when to stop changing and move on.<br>中文：简单说，**停止规则**就是：告诉团队何时停止修改并进入下一步的规则。 | EN: Example: A team might say, "This mission step shows **Stop Rule** because it models a rule that tells the team when to stop changing and move on."<br>中文：例子：团队可以说：“这个任务步骤体现了‘停止规则’，因为它模拟的是：告诉团队何时停止修改并进入下一步的规则。” |

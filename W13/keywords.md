@@ -1,25 +1,26 @@
-# W13 - Future Foods: Alternative Proteins, Fermentation, Cultured Meat, Insects, And Algae Keyword Index
+# W13 - Future Foods: Alternative Proteins, Fermentation, Cultured Meat, Insects, And Algae Keyword Index / 关键词索引
 
-This document is a quick review index for the science reading in this week. It lists the core keywords, Chinese explanations, and the concrete meaning of each term.
+EN: This document is a quick bilingual review index for the science reading in this week. It lists the core keywords, Chinese keyword names, specific meanings, simple explanations, and examples.
+中文：这份文档是本周 Science 阅读材料的双语快速复习索引，列出核心关键词、中文名称、具体含义、简单解释和例子。
 
-## 当前所有关键字
+## Current Keywords / 当前所有关键字
 
-**Alternative Protein**, **Plant-Based Meat**, **Amino Acid**, **Fermentation**, **Precision Fermentation**, **Biomass Fermentation**, **Cultivated Meat**, **Cell Culture**, **Bioreactor**, **Novel Food**, **Allergen**, **Scale-Up**, **Consumer Acceptance**
+**Alternative Protein（替代蛋白）**, **Plant-Based Meat（植物基肉）**, **Amino Acid（氨基酸）**, **Fermentation（发酵）**, **Precision Fermentation（精准发酵）**, **Biomass Fermentation（生物质发酵）**, **Cultivated Meat（培养肉）**, **Cell Culture（细胞培养）**, **Bioreactor（生物反应器）**, **Novel Food（新食品）**, **Allergen（过敏原）**, **Scale-Up（规模化）**, **Consumer Acceptance（消费者接受度）**
 
-## 关键词解释
+## Keyword Explanations / 关键词解释
 
-| Keyword | 中文解释 | 具体含义 |
-| --- | --- | --- |
-| **Alternative Protein** | 替代蛋白 | 来自传统畜牧或海鲜以外来源的蛋白质。 |
-| **Plant-Based Meat** | 植物基肉 | 主要用植物原料制成、模拟肉类口感或用途的食品。 |
-| **Amino Acid** | 氨基酸 | 组成蛋白质的小分子单元。 |
-| **Fermentation** | 发酵 | 微生物改变食物或制造有用成分的过程。 |
-| **Precision Fermentation** | 精准发酵 | 利用微生物生产特定蛋白质或分子的技术。 |
-| **Biomass Fermentation** | 生物质发酵 | 把大量微生物本身作为食物或原料来生产。 |
-| **Cultivated Meat** | 培养肉 | 用动物细胞在受控环境中培养出的肉类食品。 |
-| **Cell Culture** | 细胞培养 | 在实验或生产环境中让细胞生长和繁殖。 |
-| **Bioreactor** | 生物反应器 | 为细胞或微生物生长提供受控条件的设备。 |
-| **Novel Food** | 新食品 | 需要额外安全评估的新型食物或成分。 |
-| **Allergen** | 过敏原 | 可能引发部分人过敏反应的物质。 |
-| **Scale-Up** | 规模化 | 把实验室或小规模生产扩大到稳定商业生产。 |
-| **Consumer Acceptance** | 消费者接受度 | 人们是否愿意购买、食用并信任某种食品。 |
+| English Keyword / 英文关键词 | Chinese Keyword / 中文关键词 | Meaning / 具体含义 | Simple Explanation / 简单解释 | Example / 例子 |
+| --- | --- | --- | --- | --- |
+| **Alternative Protein** | **替代蛋白** | EN: Protein from sources other than conventional livestock or seafood systems.<br>中文：来自传统畜牧或海鲜以外来源的蛋白质。 | EN: In simple words, **Alternative Protein** means: Protein from sources other than conventional livestock or seafood systems.<br>中文：简单说，**替代蛋白**就是：来自传统畜牧或海鲜以外来源的蛋白质。 | EN: Example: A team might say, "This mission step shows **Alternative Protein** because it models protein from sources other than conventional livestock or seafood systems."<br>中文：例子：团队可以说：“这个任务步骤体现了‘替代蛋白’，因为它模拟的是：来自传统畜牧或海鲜以外来源的蛋白质。” |
+| **Plant-Based Meat** | **植物基肉** | EN: A food designed to resemble meat but made mainly from plant ingredients.<br>中文：主要用植物原料制成、模拟肉类口感或用途的食品。 | EN: In simple words, **Plant-Based Meat** means: A food designed to resemble meat but made mainly from plant ingredients.<br>中文：简单说，**植物基肉**就是：主要用植物原料制成、模拟肉类口感或用途的食品。 | EN: Example: A team might say, "This mission step shows **Plant-Based Meat** because it models a food designed to resemble meat but made mainly from plant ingredients."<br>中文：例子：团队可以说：“这个任务步骤体现了‘植物基肉’，因为它模拟的是：主要用植物原料制成、模拟肉类口感或用途的食品。” |
+| **Amino Acid** | **氨基酸** | EN: A building block of protein.<br>中文：组成蛋白质的小分子单元。 | EN: In simple words, **Amino Acid** means: A building block of protein.<br>中文：简单说，**氨基酸**就是：组成蛋白质的小分子单元。 | EN: Example: A team might say, "This mission step shows **Amino Acid** because it models a building block of protein."<br>中文：例子：团队可以说：“这个任务步骤体现了‘氨基酸’，因为它模拟的是：组成蛋白质的小分子单元。” |
+| **Fermentation** | **发酵** | EN: Using microorganisms to transform food or produce useful substances.<br>中文：微生物改变食物或制造有用成分的过程。 | EN: In simple words, **Fermentation** means: Using microorganisms to transform food or produce useful substances.<br>中文：简单说，**发酵**就是：微生物改变食物或制造有用成分的过程。 | EN: Example: A team might say, "This mission step shows **Fermentation** because it models using microorganisms to transform food or produce useful substances."<br>中文：例子：团队可以说：“这个任务步骤体现了‘发酵’，因为它模拟的是：微生物改变食物或制造有用成分的过程。” |
+| **Precision Fermentation** | **精准发酵** | EN: Using microbes to produce a specific ingredient, often a protein or flavour molecule.<br>中文：利用微生物生产特定蛋白质或分子的技术。 | EN: In simple words, **Precision Fermentation** means: Using microbes to produce a specific ingredient, often a protein or flavour molecule.<br>中文：简单说，**精准发酵**就是：利用微生物生产特定蛋白质或分子的技术。 | EN: Example: A team might say, "This mission step shows **Precision Fermentation** because it models using microbes to produce a specific ingredient, often a protein or flavour molecule."<br>中文：例子：团队可以说：“这个任务步骤体现了‘精准发酵’，因为它模拟的是：利用微生物生产特定蛋白质或分子的技术。” |
+| **Biomass Fermentation** | **生物质发酵** | EN: Growing microorganisms so the microbial biomass itself becomes food.<br>中文：把大量微生物本身作为食物或原料来生产。 | EN: In simple words, **Biomass Fermentation** means: Growing microorganisms so the microbial biomass itself becomes food.<br>中文：简单说，**生物质发酵**就是：把大量微生物本身作为食物或原料来生产。 | EN: Example: A team might say, "This mission step shows **Biomass Fermentation** because it models growing microorganisms so the microbial biomass itself becomes food."<br>中文：例子：团队可以说：“这个任务步骤体现了‘生物质发酵’，因为它模拟的是：把大量微生物本身作为食物或原料来生产。” |
+| **Cultivated Meat** | **培养肉** | EN: Meat grown from animal cells in controlled conditions rather than by raising and slaughtering an animal.<br>中文：用动物细胞在受控环境中培养出的肉类食品。 | EN: In simple words, **Cultivated Meat** means: Meat grown from animal cells in controlled conditions rather than by raising and slaughtering an animal.<br>中文：简单说，**培养肉**就是：用动物细胞在受控环境中培养出的肉类食品。 | EN: Example: A team might say, "This mission step shows **Cultivated Meat** because it models meat grown from animal cells in controlled conditions rather than by raising and slaughtering an animal."<br>中文：例子：团队可以说：“这个任务步骤体现了‘培养肉’，因为它模拟的是：用动物细胞在受控环境中培养出的肉类食品。” |
+| **Cell Culture** | **细胞培养** | EN: Growing cells under controlled conditions.<br>中文：在实验或生产环境中让细胞生长和繁殖。 | EN: In simple words, **Cell Culture** means: Growing cells under controlled conditions.<br>中文：简单说，**细胞培养**就是：在实验或生产环境中让细胞生长和繁殖。 | EN: Example: A team might say, "This mission step shows **Cell Culture** because it models growing cells under controlled conditions."<br>中文：例子：团队可以说：“这个任务步骤体现了‘细胞培养’，因为它模拟的是：在实验或生产环境中让细胞生长和繁殖。” |
+| **Bioreactor** | **生物反应器** | EN: Controlled equipment where cells or microbes grow.<br>中文：为细胞或微生物生长提供受控条件的设备。 | EN: In simple words, **Bioreactor** means: Controlled equipment where cells or microbes grow.<br>中文：简单说，**生物反应器**就是：为细胞或微生物生长提供受控条件的设备。 | EN: Example: A team might say, "This mission step shows **Bioreactor** because it models controlled equipment where cells or microbes grow."<br>中文：例子：团队可以说：“这个任务步骤体现了‘生物反应器’，因为它模拟的是：为细胞或微生物生长提供受控条件的设备。” |
+| **Novel Food** | **新食品** | EN: A food without a long history of safe consumption, requiring safety assessment before sale in places such as Singapore.<br>中文：需要额外安全评估的新型食物或成分。 | EN: In simple words, **Novel Food** means: A food without a long history of safe consumption, requiring safety assessment before sale in places such as Singapore.<br>中文：简单说，**新食品**就是：需要额外安全评估的新型食物或成分。 | EN: Example: A team might say, "This mission step shows **Novel Food** because it models a food without a long history of safe consumption, requiring safety assessment before sale in places such as Singapore."<br>中文：例子：团队可以说：“这个任务步骤体现了‘新食品’，因为它模拟的是：需要额外安全评估的新型食物或成分。” |
+| **Allergen** | **过敏原** | EN: A substance that can trigger an allergic reaction in some people.<br>中文：可能引发部分人过敏反应的物质。 | EN: In simple words, **Allergen** means: A substance that can trigger an allergic reaction in some people.<br>中文：简单说，**过敏原**就是：可能引发部分人过敏反应的物质。 | EN: Example: A team might say, "This mission step shows **Allergen** because it models a substance that can trigger an allergic reaction in some people."<br>中文：例子：团队可以说：“这个任务步骤体现了‘过敏原’，因为它模拟的是：可能引发部分人过敏反应的物质。” |
+| **Scale-Up** | **规模化** | EN: Moving from small laboratory production to larger reliable production.<br>中文：把实验室或小规模生产扩大到稳定商业生产。 | EN: In simple words, **Scale-Up** means: Moving from small laboratory production to larger reliable production.<br>中文：简单说，**规模化**就是：把实验室或小规模生产扩大到稳定商业生产。 | EN: Example: A team might say, "This mission step shows **Scale-Up** because it models moving from small laboratory production to larger reliable production."<br>中文：例子：团队可以说：“这个任务步骤体现了‘规模化’，因为它模拟的是：把实验室或小规模生产扩大到稳定商业生产。” |
+| **Consumer Acceptance** | **消费者接受度** | EN: Whether people are willing to buy, eat, and trust a food.<br>中文：人们是否愿意购买、食用并信任某种食品。 | EN: In simple words, **Consumer Acceptance** means: Whether people are willing to buy, eat, and trust a food.<br>中文：简单说，**消费者接受度**就是：人们是否愿意购买、食用并信任某种食品。 | EN: Example: A team might say, "This mission step shows **Consumer Acceptance** because it models whether people are willing to buy, eat, and trust a food."<br>中文：例子：团队可以说：“这个任务步骤体现了‘消费者接受度’，因为它模拟的是：人们是否愿意购买、食用并信任某种食品。” |

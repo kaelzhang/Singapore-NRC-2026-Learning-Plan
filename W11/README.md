@@ -2,7 +2,7 @@
 
 ## Student Documents
 - [science.md](science.md): printable science knowledge, food-system context, and terminology.
-- [keywords.md](keywords.md): core keyword index with Chinese explanations.
+- [keywords.md](keywords.md): bilingual keyword index with specific meanings, explanations, and examples.
 - [robotics.md](robotics.md): robot building, mechanism, programming, mission-design, or testing work.
 - [teacher-notes.md](teacher-notes.md): teacher-only classroom guidance.
 - [resources.md](resources.md): reference links, videos, and optional further reading.

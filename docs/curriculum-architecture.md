@@ -43,7 +43,7 @@ Each weekly directory should contain:
 
 - `README.md`: weekly student entrypoint with document links and suggested learning order.
 - `science.md`: printable student-facing science and food-system lesson in English.
-- `keywords.md`: weekly core keyword index with English keywords, Chinese explanations, and concrete meanings.
+- `keywords.md`: weekly bilingual core keyword index with English and Chinese keywords, specific meanings, simple explanations, and examples.
 - `robotics.md`: student-facing robot building, mechanism, programming, mission-design, or testing work in English.
 - `teacher-notes.md`: teacher-facing notes, allowed to be Chinese or bilingual.
 - `resources.md`: pure reference links, further reading, and video shelf.
@@ -58,7 +58,7 @@ The student-facing `science.md` should include:
 - Student thinking tasks.
 
 `science.md` should not contain standalone reference-link, further-reading, resource-list, or video sections. It may keep inline links on meaningful keywords inside explanatory prose, but pure links and link-focused bullet lists belong in `resources.md` so `science.md` remains printable.
-Core keywords should be bolded in `science.md`. The same keyword set should appear in `keywords.md` with three parts: the current keyword list, the Chinese explanation for each keyword, and the concrete meaning of each keyword.
+Core keywords should be bolded in `science.md`. The same keyword set should appear in `keywords.md` as bilingual English/Chinese content with the current keyword list, the meaning of each keyword, a simple explanation, and an example. Translate `Food Security` as `食品保障`; reserve `食品安全` for `Food Safety`.
 
 The student-facing `robotics.md` should include:
 

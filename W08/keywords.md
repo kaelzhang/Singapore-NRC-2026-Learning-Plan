@@ -1,26 +1,27 @@
-# W08 - Labour-Intensive Farming And Agricultural Robots Keyword Index
+# W08 - Labour-Intensive Farming And Agricultural Robots Keyword Index / 关键词索引
 
-This document is a quick review index for the science reading in this week. It lists the core keywords, Chinese explanations, and the concrete meaning of each term.
+EN: This document is a quick bilingual review index for the science reading in this week. It lists the core keywords, Chinese keyword names, specific meanings, simple explanations, and examples.
+中文：这份文档是本周 Science 阅读材料的双语快速复习索引，列出核心关键词、中文名称、具体含义、简单解释和例子。
 
-## 当前所有关键字
+## Current Keywords / 当前所有关键字
 
-**Automation**, **Agricultural Robot**, **Labour-Intensive**, **Ergonomics**, **Perception**, **Navigation**, **Manipulation**, **End-Effector**, **Machine Learning**, **Payload**, **Safety Zone**, **Return On Investment**, **Modularity**, **Human-Robot Collaboration**
+**Automation（自动化）**, **Agricultural Robot（农业机器人）**, **Labour-Intensive（劳动密集型）**, **Ergonomics（人体工学）**, **Perception（感知）**, **Navigation（导航）**, **Manipulation（操作）**, **End-Effector（末端执行器）**, **Machine Learning（机器学习）**, **Payload（有效载荷）**, **Safety Zone（安全区域）**, **Return On Investment（投资回报）**, **Modularity（模块化）**, **Human-Robot Collaboration（人机协作）**
 
-## 关键词解释
+## Keyword Explanations / 关键词解释
 
-| Keyword | 中文解释 | 具体含义 |
-| --- | --- | --- |
-| **Automation** | 自动化 | 让机器按规则或程序完成部分工作。 |
-| **Agricultural Robot** | 农业机器人 | 在农场或食物生产环境中执行任务的机器人。 |
-| **Labour-Intensive** | 劳动密集型 | 需要大量人力、时间或重复动作的工作。 |
-| **Ergonomics** | 人体工学 | 让工作方式更符合人的身体能力并减少伤害。 |
-| **Perception** | 感知 | 机器人通过传感器理解周围环境的能力。 |
-| **Navigation** | 导航 | 机器人确定路线并移动到目标位置的能力。 |
-| **Manipulation** | 操作 | 机器人抓取、推动、移动或处理物体的能力。 |
-| **End-Effector** | 末端执行器 | 机器人接触和操作物体的工具部分。 |
-| **Machine Learning** | 机器学习 | 通过数据和例子改进识别或决策的方法。 |
-| **Payload** | 有效载荷 | 机器人能够安全携带或处理的重量。 |
-| **Safety Zone** | 安全区域 | 为了保护人、食物或机器人而设置的活动边界。 |
-| **Return On Investment** | 投资回报 | 技术带来的收益是否值得成本投入。 |
-| **Modularity** | 模块化 | 把系统设计成可更换、组合或重复使用的部分。 |
-| **Human-Robot Collaboration** | 人机协作 | 人和机器人分工合作完成任务。 |
+| English Keyword / 英文关键词 | Chinese Keyword / 中文关键词 | Meaning / 具体含义 | Simple Explanation / 简单解释 | Example / 例子 |
+| --- | --- | --- | --- | --- |
+| **Automation** | **自动化** | EN: Using machines or control systems to perform tasks with less direct human effort.<br>中文：让机器按规则或程序完成部分工作。 | EN: In simple words, **Automation** means: Using machines or control systems to perform tasks with less direct human effort.<br>中文：简单说，**自动化**就是：让机器按规则或程序完成部分工作。 | EN: Example: A team might say, "This mission step shows **Automation** because it models using machines or control systems to perform tasks with less direct human effort."<br>中文：例子：团队可以说：“这个任务步骤体现了‘自动化’，因为它模拟的是：让机器按规则或程序完成部分工作。” |
+| **Agricultural Robot** | **农业机器人** | EN: A robot designed for farming, harvesting, monitoring, handling, or other agrifood tasks.<br>中文：在农场或食物生产环境中执行任务的机器人。 | EN: In simple words, **Agricultural Robot** means: A robot designed for farming, harvesting, monitoring, handling, or other agrifood tasks.<br>中文：简单说，**农业机器人**就是：在农场或食物生产环境中执行任务的机器人。 | EN: Example: A team might say, "This mission step shows **Agricultural Robot** because it models a robot designed for farming, harvesting, monitoring, handling, or other agrifood tasks."<br>中文：例子：团队可以说：“这个任务步骤体现了‘农业机器人’，因为它模拟的是：在农场或食物生产环境中执行任务的机器人。” |
+| **Labour-Intensive** | **劳动密集型** | EN: Requiring a lot of human work, time, or physical effort.<br>中文：需要大量人力、时间或重复动作的工作。 | EN: In simple words, **Labour-Intensive** means: Requiring a lot of human work, time, or physical effort.<br>中文：简单说，**劳动密集型**就是：需要大量人力、时间或重复动作的工作。 | EN: Example: A team might say, "This mission step shows **Labour-Intensive** because it models requiring a lot of human work, time, or physical effort."<br>中文：例子：团队可以说：“这个任务步骤体现了‘劳动密集型’，因为它模拟的是：需要大量人力、时间或重复动作的工作。” |
+| **Ergonomics** | **人体工学** | EN: The study of how tasks, tools, and workplaces affect human comfort, safety, and performance.<br>中文：让工作方式更符合人的身体能力并减少伤害。 | EN: In simple words, **Ergonomics** means: The study of how tasks, tools, and workplaces affect human comfort, safety, and performance.<br>中文：简单说，**人体工学**就是：让工作方式更符合人的身体能力并减少伤害。 | EN: Example: A team might say, "This mission step shows **Ergonomics** because it models the study of how tasks, tools, and workplaces affect human comfort, safety, and performance."<br>中文：例子：团队可以说：“这个任务步骤体现了‘人体工学’，因为它模拟的是：让工作方式更符合人的身体能力并减少伤害。” |
+| **Perception** | **感知** | EN: A robot's ability to understand the world from sensors.<br>中文：机器人通过传感器理解周围环境的能力。 | EN: In simple words, **Perception** means: A robot's ability to understand the world from sensors.<br>中文：简单说，**感知**就是：机器人通过传感器理解周围环境的能力。 | EN: Example: A team might say, "This mission step shows **Perception** because it models a robot's ability to understand the world from sensors."<br>中文：例子：团队可以说：“这个任务步骤体现了‘感知’，因为它模拟的是：机器人通过传感器理解周围环境的能力。” |
+| **Navigation** | **导航** | EN: How a robot finds and follows a path.<br>中文：机器人确定路线并移动到目标位置的能力。 | EN: In simple words, **Navigation** means: How a robot finds and follows a path.<br>中文：简单说，**导航**就是：机器人确定路线并移动到目标位置的能力。 | EN: Example: A team might say, "This mission step shows **Navigation** because it models how a robot finds and follows a path."<br>中文：例子：团队可以说：“这个任务步骤体现了‘导航’，因为它模拟的是：机器人确定路线并移动到目标位置的能力。” |
+| **Manipulation** | **操作** | EN: Using a tool or mechanism to interact with objects.<br>中文：机器人抓取、推动、移动或处理物体的能力。 | EN: In simple words, **Manipulation** means: Using a tool or mechanism to interact with objects.<br>中文：简单说，**操作**就是：机器人抓取、推动、移动或处理物体的能力。 | EN: Example: A team might say, "This mission step shows **Manipulation** because it models using a tool or mechanism to interact with objects."<br>中文：例子：团队可以说：“这个任务步骤体现了‘操作’，因为它模拟的是：机器人抓取、推动、移动或处理物体的能力。” |
+| **End-Effector** | **末端执行器** | EN: The tool at the working end of a robot, such as a gripper, cutter, sprayer, or pusher.<br>中文：机器人接触和操作物体的工具部分。 | EN: In simple words, **End-Effector** means: The tool at the working end of a robot, such as a gripper, cutter, sprayer, or pusher.<br>中文：简单说，**末端执行器**就是：机器人接触和操作物体的工具部分。 | EN: Example: A team might say, "This mission step shows **End-Effector** because it models the tool at the working end of a robot, such as a gripper, cutter, sprayer, or pusher."<br>中文：例子：团队可以说：“这个任务步骤体现了‘末端执行器’，因为它模拟的是：机器人接触和操作物体的工具部分。” |
+| **Machine Learning** | **机器学习** | EN: A way for computers to improve pattern recognition from data and examples.<br>中文：通过数据和例子改进识别或决策的方法。 | EN: In simple words, **Machine Learning** means: A way for computers to improve pattern recognition from data and examples.<br>中文：简单说，**机器学习**就是：通过数据和例子改进识别或决策的方法。 | EN: Example: A team might say, "This mission step shows **Machine Learning** because it models a way for computers to improve pattern recognition from data and examples."<br>中文：例子：团队可以说：“这个任务步骤体现了‘机器学习’，因为它模拟的是：通过数据和例子改进识别或决策的方法。” |
+| **Payload** | **有效载荷** | EN: The amount of weight a robot can carry or handle.<br>中文：机器人能够安全携带或处理的重量。 | EN: In simple words, **Payload** means: The amount of weight a robot can carry or handle.<br>中文：简单说，**有效载荷**就是：机器人能够安全携带或处理的重量。 | EN: Example: A team might say, "This mission step shows **Payload** because it models the amount of weight a robot can carry or handle."<br>中文：例子：团队可以说：“这个任务步骤体现了‘有效载荷’，因为它模拟的是：机器人能够安全携带或处理的重量。” |
+| **Safety Zone** | **安全区域** | EN: The space a robot must respect so it does not harm people, crops, or equipment.<br>中文：为了保护人、食物或机器人而设置的活动边界。 | EN: In simple words, **Safety Zone** means: The space a robot must respect so it does not harm people, crops, or equipment.<br>中文：简单说，**安全区域**就是：为了保护人、食物或机器人而设置的活动边界。 | EN: Example: A team might say, "This mission step shows **Safety Zone** because it models the space a robot must respect so it does not harm people, crops, or equipment."<br>中文：例子：团队可以说：“这个任务步骤体现了‘安全区域’，因为它模拟的是：为了保护人、食物或机器人而设置的活动边界。” |
+| **Return On Investment** | **投资回报** | EN: A comparison between the benefit of a tool and its cost.<br>中文：技术带来的收益是否值得成本投入。 | EN: In simple words, **Return On Investment** means: A comparison between the benefit of a tool and its cost.<br>中文：简单说，**投资回报**就是：技术带来的收益是否值得成本投入。 | EN: Example: A team might say, "This mission step shows **Return On Investment** because it models a comparison between the benefit of a tool and its cost."<br>中文：例子：团队可以说：“这个任务步骤体现了‘投资回报’，因为它模拟的是：技术带来的收益是否值得成本投入。” |
+| **Modularity** | **模块化** | EN: Designing parts so they can be swapped, repaired, or reused more easily.<br>中文：把系统设计成可更换、组合或重复使用的部分。 | EN: In simple words, **Modularity** means: Designing parts so they can be swapped, repaired, or reused more easily.<br>中文：简单说，**模块化**就是：把系统设计成可更换、组合或重复使用的部分。 | EN: Example: A team might say, "This mission step shows **Modularity** because it models designing parts so they can be swapped, repaired, or reused more easily."<br>中文：例子：团队可以说：“这个任务步骤体现了‘模块化’，因为它模拟的是：把系统设计成可更换、组合或重复使用的部分。” |
+| **Human-Robot Collaboration** | **人机协作** | EN: Humans and robots working in connected roles rather than pretending the robot does everything alone.<br>中文：人和机器人分工合作完成任务。 | EN: In simple words, **Human-Robot Collaboration** means: Humans and robots working in connected roles rather than pretending the robot does everything alone.<br>中文：简单说，**人机协作**就是：人和机器人分工合作完成任务。 | EN: Example: A team might say, "This mission step shows **Human-Robot Collaboration** because it models humans and robots working in connected roles rather than pretending the robot does everything alone."<br>中文：例子：团队可以说：“这个任务步骤体现了‘人机协作’，因为它模拟的是：人和机器人分工合作完成任务。” |

@@ -1,24 +1,25 @@
-# W16 - From Food System To Robot System: Capstone Synthesis And Future Scenarios Keyword Index
+# W16 - From Food System To Robot System: Capstone Synthesis And Future Scenarios Keyword Index / 关键词索引
 
-This document is a quick review index for the science reading in this week. It lists the core keywords, Chinese explanations, and the concrete meaning of each term.
+EN: This document is a quick bilingual review index for the science reading in this week. It lists the core keywords, Chinese keyword names, specific meanings, simple explanations, and examples.
+中文：这份文档是本周 Science 阅读材料的双语快速复习索引，列出核心关键词、中文名称、具体含义、简单解释和例子。
 
-## 当前所有关键字
+## Current Keywords / 当前所有关键字
 
-**Systems Thinking**, **Scenario**, **Capstone**, **Prototype**, **Evidence-Based Claim**, **Tradeoff**, **Ethics**, **Stakeholder**, **Resilience**, **Improvement Plan**, **Future Scenario**, **Translation**
+**Systems Thinking（系统思维）**, **Scenario（情景）**, **Capstone（总结项目）**, **Prototype（原型）**, **Evidence-Based Claim（基于证据的主张）**, **Tradeoff（取舍）**, **Ethics（伦理）**, **Stakeholder（利益相关者）**, **Resilience（韧性）**, **Improvement Plan（改进计划）**, **Future Scenario（未来情景）**, **Translation（转化）**
 
-## 关键词解释
+## Keyword Explanations / 关键词解释
 
-| Keyword | 中文解释 | 具体含义 |
-| --- | --- | --- |
-| **Systems Thinking** | 系统思维 | 理解多个部分如何相互影响并形成整体结果。 |
-| **Scenario** | 情景 | 用于规划和设计的一种可能未来情况。 |
-| **Capstone** | 总结项目 | 把学习内容整合成最终展示或说明的项目。 |
-| **Prototype** | 原型 | 用来测试想法的早期模型或样机。 |
-| **Evidence-Based Claim** | 基于证据的主张 | 用测试数据或可靠资料支持的说法。 |
-| **Tradeoff** | 取舍 | 一个改进可能带来另一个成本或困难。 |
-| **Ethics** | 伦理 | 思考设计是否公平、安全、负责任的原则。 |
-| **Stakeholder** | 利益相关者 | 会受到系统影响的人或群体。 |
-| **Resilience** | 韧性 | 系统在冲击后继续运行或恢复的能力。 |
-| **Improvement Plan** | 改进计划 | 说明下一步如何让设计更好的计划。 |
-| **Future Scenario** | 未来情景 | 用于思考未来风险、机会和设计方向的可能情况。 |
-| **Translation** | 转化 | 把科学知识变成机器人任务、机制或解释的过程。 |
+| English Keyword / 英文关键词 | Chinese Keyword / 中文关键词 | Meaning / 具体含义 | Simple Explanation / 简单解释 | Example / 例子 |
+| --- | --- | --- | --- | --- |
+| **Systems Thinking** | **系统思维** | EN: Understanding how parts interact inside a larger whole.<br>中文：理解多个部分如何相互影响并形成整体结果。 | EN: In simple words, **Systems Thinking** means: Understanding how parts interact inside a larger whole.<br>中文：简单说，**系统思维**就是：理解多个部分如何相互影响并形成整体结果。 | EN: Example: A team might say, "This mission step shows **Systems Thinking** because it models understanding how parts interact inside a larger whole."<br>中文：例子：团队可以说：“这个任务步骤体现了‘系统思维’，因为它模拟的是：理解多个部分如何相互影响并形成整体结果。” |
+| **Scenario** | **情景** | EN: A possible future used for planning and design.<br>中文：用于规划和设计的一种可能未来情况。 | EN: In simple words, **Scenario** means: A possible future used for planning and design.<br>中文：简单说，**情景**就是：用于规划和设计的一种可能未来情况。 | EN: Example: A team might say, "This mission step shows **Scenario** because it models a possible future used for planning and design."<br>中文：例子：团队可以说：“这个任务步骤体现了‘情景’，因为它模拟的是：用于规划和设计的一种可能未来情况。” |
+| **Capstone** | **总结项目** | EN: A final project that combines many things learned earlier.<br>中文：把学习内容整合成最终展示或说明的项目。 | EN: In simple words, **Capstone** means: A final project that combines many things learned earlier.<br>中文：简单说，**总结项目**就是：把学习内容整合成最终展示或说明的项目。 | EN: Example: A team might say, "This mission step shows **Capstone** because it models a final project that combines many things learned earlier."<br>中文：例子：团队可以说：“这个任务步骤体现了‘总结项目’，因为它模拟的是：把学习内容整合成最终展示或说明的项目。” |
+| **Prototype** | **原型** | EN: An early version used for learning and testing.<br>中文：用来测试想法的早期模型或样机。 | EN: In simple words, **Prototype** means: An early version used for learning and testing.<br>中文：简单说，**原型**就是：用来测试想法的早期模型或样机。 | EN: Example: A team might say, "This mission step shows **Prototype** because it models an early version used for learning and testing."<br>中文：例子：团队可以说：“这个任务步骤体现了‘原型’，因为它模拟的是：用来测试想法的早期模型或样机。” |
+| **Evidence-Based Claim** | **基于证据的主张** | EN: A statement supported by records, tests, or observations.<br>中文：用测试数据或可靠资料支持的说法。 | EN: In simple words, **Evidence-Based Claim** means: A statement supported by records, tests, or observations.<br>中文：简单说，**基于证据的主张**就是：用测试数据或可靠资料支持的说法。 | EN: Example: A team might say, "This mission step shows **Evidence-Based Claim** because it models a statement supported by records, tests, or observations."<br>中文：例子：团队可以说：“这个任务步骤体现了‘基于证据的主张’，因为它模拟的是：用测试数据或可靠资料支持的说法。” |
+| **Tradeoff** | **取舍** | EN: A choice where improving one thing may make another thing harder.<br>中文：一个改进可能带来另一个成本或困难。 | EN: In simple words, **Tradeoff** means: A choice where improving one thing may make another thing harder.<br>中文：简单说，**取舍**就是：一个改进可能带来另一个成本或困难。 | EN: Example: A team might say, "This mission step shows **Tradeoff** because it models a choice where improving one thing may make another thing harder."<br>中文：例子：团队可以说：“这个任务步骤体现了‘取舍’，因为它模拟的是：一个改进可能带来另一个成本或困难。” |
+| **Ethics** | **伦理** | EN: Thinking about safety, fairness, responsibility, and consequences.<br>中文：思考设计是否公平、安全、负责任的原则。 | EN: In simple words, **Ethics** means: Thinking about safety, fairness, responsibility, and consequences.<br>中文：简单说，**伦理**就是：思考设计是否公平、安全、负责任的原则。 | EN: Example: A team might say, "This mission step shows **Ethics** because it models thinking about safety, fairness, responsibility, and consequences."<br>中文：例子：团队可以说：“这个任务步骤体现了‘伦理’，因为它模拟的是：思考设计是否公平、安全、负责任的原则。” |
+| **Stakeholder** | **利益相关者** | EN: A person or group affected by a system or decision.<br>中文：会受到系统影响的人或群体。 | EN: In simple words, **Stakeholder** means: A person or group affected by a system or decision.<br>中文：简单说，**利益相关者**就是：会受到系统影响的人或群体。 | EN: Example: A team might say, "This mission step shows **Stakeholder** because it models a person or group affected by a system or decision."<br>中文：例子：团队可以说：“这个任务步骤体现了‘利益相关者’，因为它模拟的是：会受到系统影响的人或群体。” |
+| **Resilience** | **韧性** | EN: The ability to prepare for, survive, and recover from shocks.<br>中文：系统在冲击后继续运行或恢复的能力。 | EN: In simple words, **Resilience** means: The ability to prepare for, survive, and recover from shocks.<br>中文：简单说，**韧性**就是：系统在冲击后继续运行或恢复的能力。 | EN: Example: A team might say, "This mission step shows **Resilience** because it models the ability to prepare for, survive, and recover from shocks."<br>中文：例子：团队可以说：“这个任务步骤体现了‘韧性’，因为它模拟的是：系统在冲击后继续运行或恢复的能力。” |
+| **Improvement Plan** | **改进计划** | EN: A clear next step based on what testing showed.<br>中文：说明下一步如何让设计更好的计划。 | EN: In simple words, **Improvement Plan** means: A clear next step based on what testing showed.<br>中文：简单说，**改进计划**就是：说明下一步如何让设计更好的计划。 | EN: Example: A team might say, "This mission step shows **Improvement Plan** because it models a clear next step based on what testing showed."<br>中文：例子：团队可以说：“这个任务步骤体现了‘改进计划’，因为它模拟的是：说明下一步如何让设计更好的计划。” |
+| **Future Scenario** | **未来情景** | EN: A structured story about a possible future used to test ideas.<br>中文：用于思考未来风险、机会和设计方向的可能情况。 | EN: In simple words, **Future Scenario** means: A structured story about a possible future used to test ideas.<br>中文：简单说，**未来情景**就是：用于思考未来风险、机会和设计方向的可能情况。 | EN: Example: A team might say, "This mission step shows **Future Scenario** because it models a structured story about a possible future used to test ideas."<br>中文：例子：团队可以说：“这个任务步骤体现了‘未来情景’，因为它模拟的是：用于思考未来风险、机会和设计方向的可能情况。” |
+| **Translation** | **转化** | EN: Changing knowledge from one form into another, such as food-system science into robot mission design.<br>中文：把科学知识变成机器人任务、机制或解释的过程。 | EN: In simple words, **Translation** means: Changing knowledge from one form into another, such as food-system science into robot mission design.<br>中文：简单说，**转化**就是：把科学知识变成机器人任务、机制或解释的过程。 | EN: Example: A team might say, "This mission step shows **Translation** because it models changing knowledge from one form into another, such as food-system science into robot mission design."<br>中文：例子：团队可以说：“这个任务步骤体现了‘转化’，因为它模拟的是：把科学知识变成机器人任务、机制或解释的过程。” |

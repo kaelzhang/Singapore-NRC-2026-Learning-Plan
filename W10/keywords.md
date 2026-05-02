@@ -1,25 +1,26 @@
-# W10 - Food Logistics, Cold Chain, Warehouses, And Traceability Keyword Index
+# W10 - Food Logistics, Cold Chain, Warehouses, And Traceability Keyword Index / 关键词索引
 
-This document is a quick review index for the science reading in this week. It lists the core keywords, Chinese explanations, and the concrete meaning of each term.
+EN: This document is a quick bilingual review index for the science reading in this week. It lists the core keywords, Chinese keyword names, specific meanings, simple explanations, and examples.
+中文：这份文档是本周 Science 阅读材料的双语快速复习索引，列出核心关键词、中文名称、具体含义、简单解释和例子。
 
-## 当前所有关键字
+## Current Keywords / 当前所有关键字
 
-**Logistics**, **Supply Chain**, **Cold Chain**, **Warehouse**, **Traceability**, **Batch**, **Docking**, **Inventory**, **Recall**, **First-In-First-Out**, **Perishable**, **Route Planning**, **Packaging**
+**Logistics（物流）**, **Supply Chain（供应链）**, **Cold Chain（冷链）**, **Warehouse（仓库）**, **Traceability（可追溯性）**, **Batch（批次）**, **Docking（对接）**, **Inventory（库存）**, **Recall（召回）**, **First-In-First-Out（先进先出）**, **Perishable（易腐的）**, **Route Planning（路线规划）**, **Packaging（包装）**
 
-## 关键词解释
+## Keyword Explanations / 关键词解释
 
-| Keyword | 中文解释 | 具体含义 |
-| --- | --- | --- |
-| **Logistics** | 物流 | 计划和移动货物、信息与资源的过程。 |
-| **Supply Chain** | 供应链 | 产品从来源到使用者之间的所有环节。 |
-| **Cold Chain** | 冷链 | 让易腐食物在运输和储存全过程保持低温的系统。 |
-| **Warehouse** | 仓库 | 储存、分拣、记录和转运货物的场所。 |
-| **Traceability** | 可追溯性 | 知道食物从哪里来、经过哪里、去向哪里。 |
-| **Batch** | 批次 | 在同一时间或条件下生产、包装或运输的一组产品。 |
-| **Docking** | 对接 | 机器人或货物准确停靠到指定位置。 |
-| **Inventory** | 库存 | 仓库或系统中现有物品的数量和记录。 |
-| **Recall** | 召回 | 发现风险后把相关食品从市场或供应链中撤回。 |
-| **First-In-First-Out** | 先进先出 | 先进入库存的物品先被使用或发出。 |
-| **Perishable** | 易腐的 | 容易因时间、温度或污染而变质的食物。 |
-| **Route Planning** | 路线规划 | 选择从起点到终点的安全有效路径。 |
-| **Packaging** | 包装 | 保护、标识和方便运输食物的材料或结构。 |
+| English Keyword / 英文关键词 | Chinese Keyword / 中文关键词 | Meaning / 具体含义 | Simple Explanation / 简单解释 | Example / 例子 |
+| --- | --- | --- | --- | --- |
+| **Logistics** | **物流** | EN: Planning and moving goods, information, and resources from one place to another.<br>中文：计划和移动货物、信息与资源的过程。 | EN: In simple words, **Logistics** means: Planning and moving goods, information, and resources from one place to another.<br>中文：简单说，**物流**就是：计划和移动货物、信息与资源的过程。 | EN: Example: A team might say, "This mission step shows **Logistics** because it models planning and moving goods, information, and resources from one place to another."<br>中文：例子：团队可以说：“这个任务步骤体现了‘物流’，因为它模拟的是：计划和移动货物、信息与资源的过程。” |
+| **Supply Chain** | **供应链** | EN: The connected system of producers, processors, transporters, warehouses, retailers, and consumers.<br>中文：产品从来源到使用者之间的所有环节。 | EN: In simple words, **Supply Chain** means: The connected system of producers, processors, transporters, warehouses, retailers, and consumers.<br>中文：简单说，**供应链**就是：产品从来源到使用者之间的所有环节。 | EN: Example: A team might say, "This mission step shows **Supply Chain** because it models the connected system of producers, processors, transporters, warehouses, retailers, and consumers."<br>中文：例子：团队可以说：“这个任务步骤体现了‘供应链’，因为它模拟的是：产品从来源到使用者之间的所有环节。” |
+| **Cold Chain** | **冷链** | EN: A temperature-controlled supply chain for products that must stay cold.<br>中文：让易腐食物在运输和储存全过程保持低温的系统。 | EN: In simple words, **Cold Chain** means: A temperature-controlled supply chain for products that must stay cold.<br>中文：简单说，**冷链**就是：让易腐食物在运输和储存全过程保持低温的系统。 | EN: Example: A team might say, "This mission step shows **Cold Chain** because it models a temperature-controlled supply chain for products that must stay cold."<br>中文：例子：团队可以说：“这个任务步骤体现了‘冷链’，因为它模拟的是：让易腐食物在运输和储存全过程保持低温的系统。” |
+| **Warehouse** | **仓库** | EN: A place where goods are stored, sorted, tracked, and prepared for movement.<br>中文：储存、分拣、记录和转运货物的场所。 | EN: In simple words, **Warehouse** means: A place where goods are stored, sorted, tracked, and prepared for movement.<br>中文：简单说，**仓库**就是：储存、分拣、记录和转运货物的场所。 | EN: Example: A team might say, "This mission step shows **Warehouse** because it models a place where goods are stored, sorted, tracked, and prepared for movement."<br>中文：例子：团队可以说：“这个任务步骤体现了‘仓库’，因为它模拟的是：储存、分拣、记录和转运货物的场所。” |
+| **Traceability** | **可追溯性** | EN: The ability to track where food came from and where it went.<br>中文：知道食物从哪里来、经过哪里、去向哪里。 | EN: In simple words, **Traceability** means: The ability to track where food came from and where it went.<br>中文：简单说，**可追溯性**就是：知道食物从哪里来、经过哪里、去向哪里。 | EN: Example: A team might say, "This mission step shows **Traceability** because it models the ability to track where food came from and where it went."<br>中文：例子：团队可以说：“这个任务步骤体现了‘可追溯性’，因为它模拟的是：知道食物从哪里来、经过哪里、去向哪里。” |
+| **Batch** | **批次** | EN: A group of products made or handled together.<br>中文：在同一时间或条件下生产、包装或运输的一组产品。 | EN: In simple words, **Batch** means: A group of products made or handled together.<br>中文：简单说，**批次**就是：在同一时间或条件下生产、包装或运输的一组产品。 | EN: Example: A team might say, "This mission step shows **Batch** because it models a group of products made or handled together."<br>中文：例子：团队可以说：“这个任务步骤体现了‘批次’，因为它模拟的是：在同一时间或条件下生产、包装或运输的一组产品。” |
+| **Docking** | **对接** | EN: Moving into a precise position for loading, unloading, or charging.<br>中文：机器人或货物准确停靠到指定位置。 | EN: In simple words, **Docking** means: Moving into a precise position for loading, unloading, or charging.<br>中文：简单说，**对接**就是：机器人或货物准确停靠到指定位置。 | EN: Example: A team might say, "This mission step shows **Docking** because it models moving into a precise position for loading, unloading, or charging."<br>中文：例子：团队可以说：“这个任务步骤体现了‘对接’，因为它模拟的是：机器人或货物准确停靠到指定位置。” |
+| **Inventory** | **库存** | EN: The goods currently stored and tracked.<br>中文：仓库或系统中现有物品的数量和记录。 | EN: In simple words, **Inventory** means: The goods currently stored and tracked.<br>中文：简单说，**库存**就是：仓库或系统中现有物品的数量和记录。 | EN: Example: A team might say, "This mission step shows **Inventory** because it models the goods currently stored and tracked."<br>中文：例子：团队可以说：“这个任务步骤体现了‘库存’，因为它模拟的是：仓库或系统中现有物品的数量和记录。” |
+| **Recall** | **召回** | EN: Removing unsafe or problematic products from sale or use.<br>中文：发现风险后把相关食品从市场或供应链中撤回。 | EN: In simple words, **Recall** means: Removing unsafe or problematic products from sale or use.<br>中文：简单说，**召回**就是：发现风险后把相关食品从市场或供应链中撤回。 | EN: Example: A team might say, "This mission step shows **Recall** because it models removing unsafe or problematic products from sale or use."<br>中文：例子：团队可以说：“这个任务步骤体现了‘召回’，因为它模拟的是：发现风险后把相关食品从市场或供应链中撤回。” |
+| **First-In-First-Out** | **先进先出** | EN: A rotation method where older stock is used or shipped before newer stock.<br>中文：先进入库存的物品先被使用或发出。 | EN: In simple words, **First-In-First-Out** means: A rotation method where older stock is used or shipped before newer stock.<br>中文：简单说，**先进先出**就是：先进入库存的物品先被使用或发出。 | EN: Example: A team might say, "This mission step shows **First-In-First-Out** because it models a rotation method where older stock is used or shipped before newer stock."<br>中文：例子：团队可以说：“这个任务步骤体现了‘先进先出’，因为它模拟的是：先进入库存的物品先被使用或发出。” |
+| **Perishable** | **易腐的** | EN: Likely to spoil or lose quality quickly.<br>中文：容易因时间、温度或污染而变质的食物。 | EN: In simple words, **Perishable** means: Likely to spoil or lose quality quickly.<br>中文：简单说，**易腐的**就是：容易因时间、温度或污染而变质的食物。 | EN: Example: A team might say, "This mission step shows **Perishable** because it models likely to spoil or lose quality quickly."<br>中文：例子：团队可以说：“这个任务步骤体现了‘易腐的’，因为它模拟的是：容易因时间、温度或污染而变质的食物。” |
+| **Route Planning** | **路线规划** | EN: Choosing a path or schedule for movement.<br>中文：选择从起点到终点的安全有效路径。 | EN: In simple words, **Route Planning** means: Choosing a path or schedule for movement.<br>中文：简单说，**路线规划**就是：选择从起点到终点的安全有效路径。 | EN: Example: A team might say, "This mission step shows **Route Planning** because it models choosing a path or schedule for movement."<br>中文：例子：团队可以说：“这个任务步骤体现了‘路线规划’，因为它模拟的是：选择从起点到终点的安全有效路径。” |
+| **Packaging** | **包装** | EN: Material and design used to protect, group, and label food.<br>中文：保护、标识和方便运输食物的材料或结构。 | EN: In simple words, **Packaging** means: Material and design used to protect, group, and label food.<br>中文：简单说，**包装**就是：保护、标识和方便运输食物的材料或结构。 | EN: Example: A team might say, "This mission step shows **Packaging** because it models material and design used to protect, group, and label food."<br>中文：例子：团队可以说：“这个任务步骤体现了‘包装’，因为它模拟的是：保护、标识和方便运输食物的材料或结构。” |

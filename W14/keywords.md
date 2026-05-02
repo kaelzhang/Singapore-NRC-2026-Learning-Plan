@@ -1,24 +1,25 @@
-# W14 - Computational Thinking With Scratch And SPIKE Essential Keyword Index
+# W14 - Computational Thinking With Scratch And SPIKE Essential Keyword Index / 关键词索引
 
-This document is a quick review index for the science reading in this week. It lists the core keywords, Chinese explanations, and the concrete meaning of each term.
+EN: This document is a quick bilingual review index for the science reading in this week. It lists the core keywords, Chinese keyword names, specific meanings, simple explanations, and examples.
+中文：这份文档是本周 Science 阅读材料的双语快速复习索引，列出核心关键词、中文名称、具体含义、简单解释和例子。
 
-## 当前所有关键字
+## Current Keywords / 当前所有关键字
 
-**Computational Thinking**, **Decomposition**, **Pattern**, **Abstraction**, **Algorithm**, **Sequence**, **Event**, **Loop**, **Condition**, **Variable**, **State**, **Debugging**
+**Computational Thinking（计算思维）**, **Decomposition（分解）**, **Pattern（模式）**, **Abstraction（抽象）**, **Algorithm（算法）**, **Sequence（顺序）**, **Event（事件）**, **Loop（循环）**, **Condition（条件）**, **Variable（变量）**, **State（状态）**, **Debugging（调试）**
 
-## 关键词解释
+## Keyword Explanations / 关键词解释
 
-| Keyword | 中文解释 | 具体含义 |
-| --- | --- | --- |
-| **Computational Thinking** | 计算思维 | 把问题拆解、找模式、抽象并设计步骤来解决。 |
-| **Decomposition** | 分解 | 把大问题拆成较小、较容易处理的部分。 |
-| **Pattern** | 模式 | 在不同任务或数据中重复出现的结构或规律。 |
-| **Abstraction** | 抽象 | 保留重要信息、暂时忽略不必要细节的思考方式。 |
-| **Algorithm** | 算法 | 完成任务的一组清楚步骤。 |
-| **Sequence** | 顺序 | 程序或任务按先后执行的步骤排列。 |
-| **Event** | 事件 | 触发程序开始或改变行动的信号。 |
-| **Loop** | 循环 | 重复执行一组动作或检查的结构。 |
-| **Condition** | 条件 | 根据是否满足某个判断来选择行动。 |
-| **Variable** | 变量 | 用来保存会变化的信息的名字或空间。 |
-| **State** | 状态 | 机器人或系统当前所处的模式。 |
-| **Debugging** | 调试 | 发现并修正程序或系统错误的过程。 |
+| English Keyword / 英文关键词 | Chinese Keyword / 中文关键词 | Meaning / 具体含义 | Simple Explanation / 简单解释 | Example / 例子 |
+| --- | --- | --- | --- | --- |
+| **Computational Thinking** | **计算思维** | EN: Solving problems using decomposition, patterns, abstraction, algorithms, and debugging.<br>中文：把问题拆解、找模式、抽象并设计步骤来解决。 | EN: In simple words, **Computational Thinking** means: Solving problems using decomposition, patterns, abstraction, algorithms, and debugging.<br>中文：简单说，**计算思维**就是：把问题拆解、找模式、抽象并设计步骤来解决。 | EN: Example: A team might say, "This mission step shows **Computational Thinking** because it models solving problems using decomposition, patterns, abstraction, algorithms, and debugging."<br>中文：例子：团队可以说：“这个任务步骤体现了‘计算思维’，因为它模拟的是：把问题拆解、找模式、抽象并设计步骤来解决。” |
+| **Decomposition** | **分解** | EN: Breaking a big problem into smaller parts.<br>中文：把大问题拆成较小、较容易处理的部分。 | EN: In simple words, **Decomposition** means: Breaking a big problem into smaller parts.<br>中文：简单说，**分解**就是：把大问题拆成较小、较容易处理的部分。 | EN: Example: A team might say, "This mission step shows **Decomposition** because it models breaking a big problem into smaller parts."<br>中文：例子：团队可以说：“这个任务步骤体现了‘分解’，因为它模拟的是：把大问题拆成较小、较容易处理的部分。” |
+| **Pattern** | **模式** | EN: A repeated structure or action that can be reused.<br>中文：在不同任务或数据中重复出现的结构或规律。 | EN: In simple words, **Pattern** means: A repeated structure or action that can be reused.<br>中文：简单说，**模式**就是：在不同任务或数据中重复出现的结构或规律。 | EN: Example: A team might say, "This mission step shows **Pattern** because it models a repeated structure or action that can be reused."<br>中文：例子：团队可以说：“这个任务步骤体现了‘模式’，因为它模拟的是：在不同任务或数据中重复出现的结构或规律。” |
+| **Abstraction** | **抽象** | EN: Focusing on the important idea while hiding unnecessary detail.<br>中文：保留重要信息、暂时忽略不必要细节的思考方式。 | EN: In simple words, **Abstraction** means: Focusing on the important idea while hiding unnecessary detail.<br>中文：简单说，**抽象**就是：保留重要信息、暂时忽略不必要细节的思考方式。 | EN: Example: A team might say, "This mission step shows **Abstraction** because it models focusing on the important idea while hiding unnecessary detail."<br>中文：例子：团队可以说：“这个任务步骤体现了‘抽象’，因为它模拟的是：保留重要信息、暂时忽略不必要细节的思考方式。” |
+| **Algorithm** | **算法** | EN: A clear step-by-step method for solving a problem.<br>中文：完成任务的一组清楚步骤。 | EN: In simple words, **Algorithm** means: A clear step-by-step method for solving a problem.<br>中文：简单说，**算法**就是：完成任务的一组清楚步骤。 | EN: Example: A team might say, "This mission step shows **Algorithm** because it models a clear step-by-step method for solving a problem."<br>中文：例子：团队可以说：“这个任务步骤体现了‘算法’，因为它模拟的是：完成任务的一组清楚步骤。” |
+| **Sequence** | **顺序** | EN: Instructions in order.<br>中文：程序或任务按先后执行的步骤排列。 | EN: In simple words, **Sequence** means: Instructions in order.<br>中文：简单说，**顺序**就是：程序或任务按先后执行的步骤排列。 | EN: Example: A team might say, "This mission step shows **Sequence** because it models instructions in order."<br>中文：例子：团队可以说：“这个任务步骤体现了‘顺序’，因为它模拟的是：程序或任务按先后执行的步骤排列。” |
+| **Event** | **事件** | EN: Something that starts an action or script.<br>中文：触发程序开始或改变行动的信号。 | EN: In simple words, **Event** means: Something that starts an action or script.<br>中文：简单说，**事件**就是：触发程序开始或改变行动的信号。 | EN: Example: A team might say, "This mission step shows **Event** because it models something that starts an action or script."<br>中文：例子：团队可以说：“这个任务步骤体现了‘事件’，因为它模拟的是：触发程序开始或改变行动的信号。” |
+| **Loop** | **循环** | EN: Instructions that repeat.<br>中文：重复执行一组动作或检查的结构。 | EN: In simple words, **Loop** means: Instructions that repeat.<br>中文：简单说，**循环**就是：重复执行一组动作或检查的结构。 | EN: Example: A team might say, "This mission step shows **Loop** because it models instructions that repeat."<br>中文：例子：团队可以说：“这个任务步骤体现了‘循环’，因为它模拟的是：重复执行一组动作或检查的结构。” |
+| **Condition** | **条件** | EN: An if-then rule that lets a program choose.<br>中文：根据是否满足某个判断来选择行动。 | EN: In simple words, **Condition** means: An if-then rule that lets a program choose.<br>中文：简单说，**条件**就是：根据是否满足某个判断来选择行动。 | EN: Example: A team might say, "This mission step shows **Condition** because it models an if-then rule that lets a program choose."<br>中文：例子：团队可以说：“这个任务步骤体现了‘条件’，因为它模拟的是：根据是否满足某个判断来选择行动。” |
+| **Variable** | **变量** | EN: A named place to store information.<br>中文：用来保存会变化的信息的名字或空间。 | EN: In simple words, **Variable** means: A named place to store information.<br>中文：简单说，**变量**就是：用来保存会变化的信息的名字或空间。 | EN: Example: A team might say, "This mission step shows **Variable** because it models a named place to store information."<br>中文：例子：团队可以说：“这个任务步骤体现了‘变量’，因为它模拟的是：用来保存会变化的信息的名字或空间。” |
+| **State** | **状态** | EN: The current phase or mode of a system.<br>中文：机器人或系统当前所处的模式。 | EN: In simple words, **State** means: The current phase or mode of a system.<br>中文：简单说，**状态**就是：机器人或系统当前所处的模式。 | EN: Example: A team might say, "This mission step shows **State** because it models the current phase or mode of a system."<br>中文：例子：团队可以说：“这个任务步骤体现了‘状态’，因为它模拟的是：机器人或系统当前所处的模式。” |
+| **Debugging** | **调试** | EN: Finding and fixing mistakes in a program or system.<br>中文：发现并修正程序或系统错误的过程。 | EN: In simple words, **Debugging** means: Finding and fixing mistakes in a program or system.<br>中文：简单说，**调试**就是：发现并修正程序或系统错误的过程。 | EN: Example: A team might say, "This mission step shows **Debugging** because it models finding and fixing mistakes in a program or system."<br>中文：例子：团队可以说：“这个任务步骤体现了‘调试’，因为它模拟的是：发现并修正程序或系统错误的过程。” |

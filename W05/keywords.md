@@ -1,29 +1,30 @@
-# W05 - Plant Growth Science: Light, Water, Soil, And Nutrients Keyword Index
+# W05 - Plant Growth Science: Light, Water, Soil, And Nutrients Keyword Index / 关键词索引
 
-This document is a quick review index for the science reading in this week. It lists the core keywords, Chinese explanations, and the concrete meaning of each term.
+EN: This document is a quick bilingual review index for the science reading in this week. It lists the core keywords, Chinese keyword names, specific meanings, simple explanations, and examples.
+中文：这份文档是本周 Science 阅读材料的双语快速复习索引，列出核心关键词、中文名称、具体含义、简单解释和例子。
 
-## 当前所有关键字
+## Current Keywords / 当前所有关键字
 
-**Photosynthesis**, **Chlorophyll**, **Chloroplast**, **Spectrum**, **Photon**, **Photoperiod**, **Daily Light Integral**, **Stomata**, **Transpiration**, **Xylem**, **Nutrient**, **Macronutrient**, **Micronutrient**, **Hydroponics**, **pH**, **Electrical Conductivity**, **Limiting Factor**
+**Photosynthesis（光合作用）**, **Chlorophyll（叶绿素）**, **Chloroplast（叶绿体）**, **Spectrum（光谱）**, **Photon（光子）**, **Photoperiod（光周期）**, **Daily Light Integral（每日光积分）**, **Stomata（气孔）**, **Transpiration（蒸腾作用）**, **Xylem（木质部）**, **Nutrient（营养元素）**, **Macronutrient（大量营养元素）**, **Micronutrient（微量营养元素）**, **Hydroponics（水培）**, **pH（酸碱度）**, **Electrical Conductivity（电导率）**, **Limiting Factor（限制因子）**
 
-## 关键词解释
+## Keyword Explanations / 关键词解释
 
-| Keyword | 中文解释 | 具体含义 |
-| --- | --- | --- |
-| **Photosynthesis** | 光合作用 | 植物用光能把二氧化碳和水转化为糖和氧气的过程。 |
-| **Chlorophyll** | 叶绿素 | 植物中吸收光能的绿色色素。 |
-| **Chloroplast** | 叶绿体 | 植物细胞中进行光合作用的结构。 |
-| **Spectrum** | 光谱 | 光中不同颜色或波长的组合。 |
-| **Photon** | 光子 | 光能的一小份单位。 |
-| **Photoperiod** | 光周期 | 植物每天接受光照和黑暗的时间安排。 |
-| **Daily Light Integral** | 每日光积分 | 植物一天内接收到的总光量。 |
-| **Stomata** | 气孔 | 叶片表面控制气体和水汽进出的微小开口。 |
-| **Transpiration** | 蒸腾作用 | 水从植物体内通过叶片散失到空气中的过程。 |
-| **Xylem** | 木质部 | 把水和矿物质从根部运到叶片的植物运输组织。 |
-| **Nutrient** | 营养元素 | 植物生长所需的化学物质。 |
-| **Macronutrient** | 大量营养元素 | 植物需要量较大的营养元素，例如氮、磷、钾。 |
-| **Micronutrient** | 微量营养元素 | 植物需要量很小但不可缺少的营养元素。 |
-| **Hydroponics** | 水培 | 不用土壤，而用营养液种植植物的方法。 |
-| **pH** | 酸碱度 | 表示溶液酸性或碱性强弱的数值。 |
-| **Electrical Conductivity** | 电导率 | 营养液中溶解盐类多少的测量指标。 |
-| **Limiting Factor** | 限制因子 | 最先限制生长或产量的关键条件。 |
+| English Keyword / 英文关键词 | Chinese Keyword / 中文关键词 | Meaning / 具体含义 | Simple Explanation / 简单解释 | Example / 例子 |
+| --- | --- | --- | --- | --- |
+| **Photosynthesis** | **光合作用** | EN: The process plants use to turn light energy, carbon dioxide, and water into sugar.<br>中文：植物用光能把二氧化碳和水转化为糖和氧气的过程。 | EN: In simple words, **Photosynthesis** means: The process plants use to turn light energy, carbon dioxide, and water into sugar.<br>中文：简单说，**光合作用**就是：植物用光能把二氧化碳和水转化为糖和氧气的过程。 | EN: Example: A team might say, "This mission step shows **Photosynthesis** because it models the process plants use to turn light energy, carbon dioxide, and water into sugar."<br>中文：例子：团队可以说：“这个任务步骤体现了‘光合作用’，因为它模拟的是：植物用光能把二氧化碳和水转化为糖和氧气的过程。” |
+| **Chlorophyll** | **叶绿素** | EN: The green pigment that helps plants capture light energy.<br>中文：植物中吸收光能的绿色色素。 | EN: In simple words, **Chlorophyll** means: The green pigment that helps plants capture light energy.<br>中文：简单说，**叶绿素**就是：植物中吸收光能的绿色色素。 | EN: Example: A team might say, "This mission step shows **Chlorophyll** because it models the green pigment that helps plants capture light energy."<br>中文：例子：团队可以说：“这个任务步骤体现了‘叶绿素’，因为它模拟的是：植物中吸收光能的绿色色素。” |
+| **Chloroplast** | **叶绿体** | EN: A structure inside plant cells where photosynthesis happens.<br>中文：植物细胞中进行光合作用的结构。 | EN: In simple words, **Chloroplast** means: A structure inside plant cells where photosynthesis happens.<br>中文：简单说，**叶绿体**就是：植物细胞中进行光合作用的结构。 | EN: Example: A team might say, "This mission step shows **Chloroplast** because it models a structure inside plant cells where photosynthesis happens."<br>中文：例子：团队可以说：“这个任务步骤体现了‘叶绿体’，因为它模拟的是：植物细胞中进行光合作用的结构。” |
+| **Spectrum** | **光谱** | EN: The range of colours or wavelengths in light.<br>中文：光中不同颜色或波长的组合。 | EN: In simple words, **Spectrum** means: The range of colours or wavelengths in light.<br>中文：简单说，**光谱**就是：光中不同颜色或波长的组合。 | EN: Example: A team might say, "This mission step shows **Spectrum** because it models the range of colours or wavelengths in light."<br>中文：例子：团队可以说：“这个任务步骤体现了‘光谱’，因为它模拟的是：光中不同颜色或波长的组合。” |
+| **Photon** | **光子** | EN: A tiny packet of light energy.<br>中文：光能的一小份单位。 | EN: In simple words, **Photon** means: A tiny packet of light energy.<br>中文：简单说，**光子**就是：光能的一小份单位。 | EN: Example: A team might say, "This mission step shows **Photon** because it models a tiny packet of light energy."<br>中文：例子：团队可以说：“这个任务步骤体现了‘光子’，因为它模拟的是：光能的一小份单位。” |
+| **Photoperiod** | **光周期** | EN: The length of light and dark periods a plant experiences.<br>中文：植物每天接受光照和黑暗的时间安排。 | EN: In simple words, **Photoperiod** means: The length of light and dark periods a plant experiences.<br>中文：简单说，**光周期**就是：植物每天接受光照和黑暗的时间安排。 | EN: Example: A team might say, "This mission step shows **Photoperiod** because it models the length of light and dark periods a plant experiences."<br>中文：例子：团队可以说：“这个任务步骤体现了‘光周期’，因为它模拟的是：植物每天接受光照和黑暗的时间安排。” |
+| **Daily Light Integral** | **每日光积分** | EN: The total useful light a plant receives in one day.<br>中文：植物一天内接收到的总光量。 | EN: In simple words, **Daily Light Integral** means: The total useful light a plant receives in one day.<br>中文：简单说，**每日光积分**就是：植物一天内接收到的总光量。 | EN: Example: A team might say, "This mission step shows **Daily Light Integral** because it models the total useful light a plant receives in one day."<br>中文：例子：团队可以说：“这个任务步骤体现了‘每日光积分’，因为它模拟的是：植物一天内接收到的总光量。” |
+| **Stomata** | **气孔** | EN: Tiny openings on leaves that allow gas exchange.<br>中文：叶片表面控制气体和水汽进出的微小开口。 | EN: In simple words, **Stomata** means: Tiny openings on leaves that allow gas exchange.<br>中文：简单说，**气孔**就是：叶片表面控制气体和水汽进出的微小开口。 | EN: Example: A team might say, "This mission step shows **Stomata** because it models tiny openings on leaves that allow gas exchange."<br>中文：例子：团队可以说：“这个任务步骤体现了‘气孔’，因为它模拟的是：叶片表面控制气体和水汽进出的微小开口。” |
+| **Transpiration** | **蒸腾作用** | EN: The movement of water through a plant and out through leaves as water vapour.<br>中文：水从植物体内通过叶片散失到空气中的过程。 | EN: In simple words, **Transpiration** means: The movement of water through a plant and out through leaves as water vapour.<br>中文：简单说，**蒸腾作用**就是：水从植物体内通过叶片散失到空气中的过程。 | EN: Example: A team might say, "This mission step shows **Transpiration** because it models the movement of water through a plant and out through leaves as water vapour."<br>中文：例子：团队可以说：“这个任务步骤体现了‘蒸腾作用’，因为它模拟的是：水从植物体内通过叶片散失到空气中的过程。” |
+| **Xylem** | **木质部** | EN: Plant tissue that transports water and dissolved minerals upward.<br>中文：把水和矿物质从根部运到叶片的植物运输组织。 | EN: In simple words, **Xylem** means: Plant tissue that transports water and dissolved minerals upward.<br>中文：简单说，**木质部**就是：把水和矿物质从根部运到叶片的植物运输组织。 | EN: Example: A team might say, "This mission step shows **Xylem** because it models plant tissue that transports water and dissolved minerals upward."<br>中文：例子：团队可以说：“这个任务步骤体现了‘木质部’，因为它模拟的是：把水和矿物质从根部运到叶片的植物运输组织。” |
+| **Nutrient** | **营养元素** | EN: A substance a plant needs to grow, such as nitrogen, phosphorus, potassium, calcium, or magnesium.<br>中文：植物生长所需的化学物质。 | EN: In simple words, **Nutrient** means: A substance a plant needs to grow, such as nitrogen, phosphorus, potassium, calcium, or magnesium.<br>中文：简单说，**营养元素**就是：植物生长所需的化学物质。 | EN: Example: A team might say, "This mission step shows **Nutrient** because it models a substance a plant needs to grow, such as nitrogen, phosphorus, potassium, calcium, or magnesium."<br>中文：例子：团队可以说：“这个任务步骤体现了‘营养元素’，因为它模拟的是：植物生长所需的化学物质。” |
+| **Macronutrient** | **大量营养元素** | EN: A nutrient plants need in larger amounts, such as nitrogen, phosphorus, and potassium.<br>中文：植物需要量较大的营养元素，例如氮、磷、钾。 | EN: In simple words, **Macronutrient** means: A nutrient plants need in larger amounts, such as nitrogen, phosphorus, and potassium.<br>中文：简单说，**大量营养元素**就是：植物需要量较大的营养元素，例如氮、磷、钾。 | EN: Example: A team might say, "This mission step shows **Macronutrient** because it models a nutrient plants need in larger amounts, such as nitrogen, phosphorus, and potassium."<br>中文：例子：团队可以说：“这个任务步骤体现了‘大量营养元素’，因为它模拟的是：植物需要量较大的营养元素，例如氮、磷、钾。” |
+| **Micronutrient** | **微量营养元素** | EN: A nutrient plants need in very small amounts, such as iron or zinc.<br>中文：植物需要量很小但不可缺少的营养元素。 | EN: In simple words, **Micronutrient** means: A nutrient plants need in very small amounts, such as iron or zinc.<br>中文：简单说，**微量营养元素**就是：植物需要量很小但不可缺少的营养元素。 | EN: Example: A team might say, "This mission step shows **Micronutrient** because it models a nutrient plants need in very small amounts, such as iron or zinc."<br>中文：例子：团队可以说：“这个任务步骤体现了‘微量营养元素’，因为它模拟的是：植物需要量很小但不可缺少的营养元素。” |
+| **Hydroponics** | **水培** | EN: Growing plants without soil by giving roots water with dissolved nutrients.<br>中文：不用土壤，而用营养液种植植物的方法。 | EN: In simple words, **Hydroponics** means: Growing plants without soil by giving roots water with dissolved nutrients.<br>中文：简单说，**水培**就是：不用土壤，而用营养液种植植物的方法。 | EN: Example: A team might say, "This mission step shows **Hydroponics** because it models growing plants without soil by giving roots water with dissolved nutrients."<br>中文：例子：团队可以说：“这个任务步骤体现了‘水培’，因为它模拟的是：不用土壤，而用营养液种植植物的方法。” |
+| **pH** | **酸碱度** | EN: A measure of how acidic or alkaline a liquid is. Nutrient solutions need the right pH so roots can take up nutrients.<br>中文：表示溶液酸性或碱性强弱的数值。 | EN: In simple words, **pH** means: A measure of how acidic or alkaline a liquid is. Nutrient solutions need the right pH so roots can take up nutrients.<br>中文：简单说，**酸碱度**就是：表示溶液酸性或碱性强弱的数值。 | EN: Example: A team might say, "This mission step shows **pH** because it models a measure of how acidic or alkaline a liquid is. Nutrient solutions need the right pH so roots can take up nutrients."<br>中文：例子：团队可以说：“这个任务步骤体现了‘酸碱度’，因为它模拟的是：表示溶液酸性或碱性强弱的数值。” |
+| **Electrical Conductivity** | **电导率** | EN: A measurement that helps estimate the amount of dissolved nutrients in a hydroponic solution.<br>中文：营养液中溶解盐类多少的测量指标。 | EN: In simple words, **Electrical Conductivity** means: A measurement that helps estimate the amount of dissolved nutrients in a hydroponic solution.<br>中文：简单说，**电导率**就是：营养液中溶解盐类多少的测量指标。 | EN: Example: A team might say, "This mission step shows **Electrical Conductivity** because it models a measurement that helps estimate the amount of dissolved nutrients in a hydroponic solution."<br>中文：例子：团队可以说：“这个任务步骤体现了‘电导率’，因为它模拟的是：营养液中溶解盐类多少的测量指标。” |
+| **Limiting Factor** | **限制因子** | EN: The condition or resource that most limits growth at a given time.<br>中文：最先限制生长或产量的关键条件。 | EN: In simple words, **Limiting Factor** means: The condition or resource that most limits growth at a given time.<br>中文：简单说，**限制因子**就是：最先限制生长或产量的关键条件。 | EN: Example: A team might say, "This mission step shows **Limiting Factor** because it models the condition or resource that most limits growth at a given time."<br>中文：例子：团队可以说：“这个任务步骤体现了‘限制因子’，因为它模拟的是：最先限制生长或产量的关键条件。” |

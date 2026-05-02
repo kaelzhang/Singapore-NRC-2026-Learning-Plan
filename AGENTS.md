@@ -38,17 +38,18 @@ The active agent may edit these paths:
 Do not create `tasks/`, inbox threads, or multi-agent coordination artifacts unless the user explicitly changes that decision.
 
 ## Documentation Rules
-- Student-facing weekly learning materials must be written in English, except `keywords.md`, which may include Chinese explanations for review.
+- Student-facing weekly learning materials must be written in English, except `keywords.md`, which must be bilingual English/Chinese for review.
 - Teacher-only notes may be written in Chinese or bilingual English/Chinese when that improves classroom use.
 - Each week must live in its own directory named `W01`, `W02`, and so on through `W16`.
 - Each weekly directory must separate science content from robotics work:
   - `science.md` for student-facing science and food-system knowledge.
-  - `keywords.md` for the weekly core keyword index with Chinese explanations and concrete meanings.
+  - `keywords.md` for the weekly bilingual core keyword index with specific meanings, simple explanations, and examples.
   - `robotics.md` for robot building, mechanism, programming, mission-design, or testing work.
   - `README.md` for the weekly entrypoint, document links, and learning order.
   - `resources.md` for pure reference links, further-reading links, and video shelves.
 - Keep `science.md` print-friendly: it should be readable as a continuous paper document. Inline links on meaningful keywords are allowed when they support the sentence, but do not add standalone reference-link, further-reading, resource-list, or video sections to `science.md`.
 - Bold the weekly core keywords in `science.md` and keep the matching keyword explanations in `keywords.md`.
+- Translate `Food Security` as `食品保障`; reserve `食品安全` for `Food Safety`.
 - Weekly content should stay cohesive around one main domain or question.
 - Core terms should use accurate professional vocabulary, then explain the ideas in clear, concrete language.
 - Each weekly directory should include 5 to 6 non-repeated student-watchable video links in `resources.md`.
