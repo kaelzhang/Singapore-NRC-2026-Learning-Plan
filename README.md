@@ -30,9 +30,13 @@ The plan connects food-system science with robotics thinking so that students un
 Weekly directories are created as the curriculum is written. A typical weekly directory should contain:
 
 - `README.md`: student-facing weekly lesson.
-- `glossary.md`: focused explanations of important terms.
-- `videos.md`: 5 to 6 direct video links for students.
 - `teacher-notes.md`: optional teacher-only notes.
+
+The weekly `README.md` contains the focused glossary and 5 to 6 direct student video links unless a later expansion splits them into separate files.
+
+## Project Documents
+- `docs/README.md`: entrypoint for durable project documentation.
+- `docs/curriculum-architecture.md`: 16-week curriculum structure, source baseline, and weekly design rules.
 
 ## Reference Basis
 The starting reference is `reference/deep-research.pdf`, a deep-research report about Singapore NRC 2026 "Mission Meals" for integrated teacher and student learning.
