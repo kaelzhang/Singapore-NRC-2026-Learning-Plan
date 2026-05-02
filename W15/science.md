@@ -10,16 +10,6 @@ In robotics competitions, one successful run is not enough. A team needs evidenc
 
 Food systems also need reliability. A cold chain cannot work only once. A warehouse cannot sort correctly only once. A farm sensor cannot be trusted only on perfect days. Testing is the bridge between a good idea and a dependable system.
 
-## Key Reference Links For This Week
-Use these links for reliable background:
-
-- [NASA eClips Engineering Design Packets](https://science.nasa.gov/science-research/earth-science/engineering-design-packets/) - student engineering design process materials.
-- [NASA Software, Robotics, and Simulation Division](https://www.nasa.gov/software-robotics-and-simulation-division/) - real robotics reliability and testing context.
-- [Scratch Getting Started](https://www.scratchfoundation.org/learn/learning-library/getting-started) - debugging and iteration in creative coding.
-- [Scratch Learning Library](https://www.scratchfoundation.org/learn/learning-library) - official learning resources.
-- [LEGO Education SPIKE Essential](https://education.lego.com/en-us/products/lego-education-spike-essential-set/45345/) - student robotics platform context.
-- [Science Centre Singapore NRC](https://www.science.edu.sg/for-schools/competitions/national-robotics-competition) - competition context.
-
 ## The One-Minute Idea
 Testing means trying a system in a planned way. Reliability means it works repeatedly. Debugging means finding and fixing the cause of failure. Evidence means records that show what happened.
 
@@ -454,11 +444,3 @@ A rule that tells the team when to stop changing and move on.
 4. Identify one hidden variable to control.
 5. Write one hypothesis for a failure.
 6. Write an evidence-based claim using imaginary or real test results.
-
-## Sources For Further Reading
-- NASA eClips Engineering Design Packets: https://science.nasa.gov/science-research/earth-science/engineering-design-packets/
-- NASA Software, Robotics, and Simulation Division: https://www.nasa.gov/software-robotics-and-simulation-division/
-- Scratch Getting Started: https://www.scratchfoundation.org/learn/learning-library/getting-started
-- Scratch Learning Library: https://www.scratchfoundation.org/learn/learning-library
-- LEGO Education SPIKE Essential: https://education.lego.com/en-us/products/lego-education-spike-essential-set/45345/
-- Science Centre Singapore NRC: https://www.science.edu.sg/for-schools/competitions/national-robotics-competition

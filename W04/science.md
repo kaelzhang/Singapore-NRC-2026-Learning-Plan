@@ -12,16 +12,6 @@ This week turns the big global problem into clear pieces you can reason about. Y
 
 A robot team needs this knowledge because a robot mission should not be a random movement. It should model a real need: producing food, protecting quality, lowering waste, improving logistics, reducing hard labour, or collecting evidence.
 
-## Key Reference Links For This Week
-Use these links when you want to check global data and definitions:
-
-- [UN SDG 2: Zero Hunger](https://sdgs.un.org/goals/goal2) - the global goal connected to hunger, nutrition, and sustainable agriculture.
-- [FAO SOFI 2025 newsroom summary](https://www.fao.org/newsroom/detail/global-hunger-declines--but-rises-in-africa-and-western-asia--un-report/en) - current hunger and food insecurity estimates.
-- [UNICEF SOFI 2025 data page](https://data.unicef.org/resources/sofi-2025/) - UNICEF data summary for the same global report.
-- [World Bank food security explainer](https://www.worldbank.org/en/topic/agriculture/brief/food-security-update/what-is-food-security) - explains availability, access, utilization, and stability.
-- [World Bank Food Prices for Nutrition DataHub](https://www.worldbank.org/en/programs/icp/brief/foodpricesfornutrition) - reference for cost and affordability of healthy diets.
-- [WFP supply chain](https://www.wfp.org/supply-chain) - shows how logistics connects to hunger response.
-
 ## The One-Minute Idea
 Food security has four dimensions: availability, access, utilization, and stability. A place may have enough food in total but still have hunger if people cannot afford food, if supply is interrupted, if food is unsafe, or if diets are not nutritious.
 
@@ -294,6 +284,13 @@ Strongest claim: Our robot models one logistics action that can support food sec
 
 The strongest claim connects the food problem, the robot action, evidence, and improvement.
 
+## Reading Recap
+Food security is bigger than food production. A country or family can face food problems even when food exists somewhere else. The food must be available, affordable, safe, nutritious, and stable over time. Hunger, malnutrition, and food insecurity are related, but they are not the same problem. Hunger is about not enough food energy. Malnutrition is about the wrong balance of nutrients. Food insecurity is about uncertainty and difficulty in getting food.
+
+When you design a robot mission about food security, decide which part you are modelling. A production mission is different from a delivery mission. A nutrition mission is different from a waste mission. A strong explanation names the exact weakness in the system and shows how the robot action represents one response to that weakness.
+
+Final check: choose one food-security problem and name whether it is mainly about availability, access, utilization, stability, or a mix of several dimensions. Then explain why production alone would not fully solve it.
+
 ## Core Terms
 
 ### Hunger
@@ -342,11 +339,3 @@ The way the body uses food, which depends on nutrition, safety, clean water, coo
 3. Choose one supply shock and trace how it could affect prices or access.
 4. Design a robot mission that helps one specific part of food security.
 5. Write one sentence explaining what your robot does not solve. This is part of honest engineering.
-
-## Sources For Further Reading
-- UN SDG 2: https://sdgs.un.org/goals/goal2
-- FAO SOFI 2025 newsroom summary: https://www.fao.org/newsroom/detail/global-hunger-declines--but-rises-in-africa-and-western-asia--un-report/en
-- UNICEF SOFI 2025 data page: https://data.unicef.org/resources/sofi-2025/
-- World Bank food security explainer: https://www.worldbank.org/en/topic/agriculture/brief/food-security-update/what-is-food-security
-- World Bank Food Prices for Nutrition DataHub: https://www.worldbank.org/en/programs/icp/brief/foodpricesfornutrition
-- WFP supply chain: https://www.wfp.org/supply-chain

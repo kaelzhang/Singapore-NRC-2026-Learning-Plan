@@ -22,7 +22,7 @@ The curriculum starts from `reference/deep-research.pdf` and extends it with cur
 3. Include past, present, and future in every week.
 4. Connect food-system knowledge to robot-system thinking every week.
 5. Use one early framework week and one late framework week to connect the whole course.
-6. Give students 5 to 6 non-repeated video links per week.
+6. Give students 5 to 6 non-repeated video links per week in `resources.md`.
 7. Prefer official, educational, university, museum, NGO, or maintained industry sources.
 8. Treat technologies as tradeoffs, not magic solutions.
 
@@ -41,10 +41,11 @@ How could a robot sense, move, decide, or handle objects in this part of the sys
 ## File Pattern
 Each weekly directory should contain:
 
-- `README.md`: weekly student entrypoint with document links, suggested learning order, and video shelf.
-- `science.md`: student-facing science and food-system lesson in English.
+- `README.md`: weekly student entrypoint with document links and suggested learning order.
+- `science.md`: printable student-facing science and food-system lesson in English.
 - `robotics.md`: student-facing robot building, mechanism, programming, mission-design, or testing work in English.
 - `teacher-notes.md`: teacher-facing notes, allowed to be Chinese or bilingual.
+- `resources.md`: pure reference links, further reading, and video shelf.
 
 The student-facing `science.md` should include:
 
@@ -53,7 +54,9 @@ The student-facing `science.md` should include:
 - Past, present, and future.
 - Deep explanation.
 - Core terminology.
-- Sources for further reading.
+- Student thinking tasks.
+
+`science.md` should not contain standalone reference-link, further-reading, resource-list, or video sections. It may keep inline links on meaningful keywords inside explanatory prose, but pure links and link-focused bullet lists belong in `resources.md` so `science.md` remains printable.
 
 The student-facing `robotics.md` should include:
 
@@ -63,9 +66,14 @@ The student-facing `robotics.md` should include:
 
 The weekly `README.md` should include:
 
-- Links to `science.md`, `robotics.md`, and `teacher-notes.md`.
+- Links to `science.md`, `robotics.md`, `teacher-notes.md`, and `resources.md`.
 - Weekly question.
 - Suggested learning order.
+
+The weekly `resources.md` should include:
+
+- core science reference links,
+- sources for further reading,
 - 5 to 6 non-repeated video links.
 
 ## The 16-Week Sequence
@@ -107,7 +115,7 @@ Assume one 90 to 120 minute session per week:
 4. 15 minutes: terminology check.
 5. 10 to 20 minutes: video selection, reflection, and notebook entry.
 
-Students do not need to watch all videos during class. The weekly videos are a curated viewing shelf for classroom use, home viewing, and extension.
+Students do not need to watch all videos during class. The weekly videos are a curated viewing shelf in `resources.md` for classroom use, home viewing, and extension.
 
 ## Video Policy
 Weekly video links must not repeat across the 16 directories. Prefer videos from:

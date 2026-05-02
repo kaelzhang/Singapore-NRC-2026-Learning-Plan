@@ -12,16 +12,6 @@ This topic needs careful thinking. New foods are not automatically good or bad. 
 
 This week connects Singapore's food resilience to global food innovation. It also connects biology, chemistry, engineering, food safety, and consumer trust.
 
-## Key Reference Links For This Week
-Use these links for reliable background:
-
-- [SFA safety of alternative protein](https://www.sfa.gov.sg/food-safety-tips/food-risk-concerns/risk-at-a-glance/safety-of-alternative-protein) - Singapore food safety context.
-- [SFA requirements for safety assessment of novel foods](https://www.sfa.gov.sg/docs/default-source/regulatory-standards-frameworks-and-guidelines/requirements-for-the-safety-assessment-of-novel-foods-and-novel-food-ingredients.pdf) - advanced Singapore regulatory reference.
-- [FAO edible insects](https://www.fao.org/edible-insects/en) - global context for insects as food and feed.
-- [Good Food Institute state of the industry downloads](https://gfi.org/resource/state-of-the-industry-downloads/) - industry reports on plant-based, fermentation, and cultivated meat.
-- [FRESH at NTU Singapore](https://www.ntu.edu.sg/fresh) - Singapore research hub for future-ready food safety.
-- [FAO food systems resources](https://www.fao.org/food-systems/en/) - broad food-system context.
-
 ## The One-Minute Idea
 Alternative proteins are protein sources that do not rely only on conventional livestock. Some come from plants. Some come from microbes. Some come from animal cells grown in controlled conditions. Some come from insects or algae. Each has different benefits, risks, and questions.
 
@@ -308,6 +298,11 @@ If a team says, "Our robot models safer future food," the robot needs a visible 
 
 This is how abstract science becomes a concrete mission. The robot does not need to perform real fermentation or real cell culture. It needs to model the decision points that matter: source, process, safety check, label, transport, and final use.
 
+## Reading Recap
+Future foods should be studied with curiosity and caution at the same time. Alternative proteins, fermentation, cultivated meat, insects, algae, and plant-based foods may help with some land, climate, nutrition, or resilience problems. But each option has questions about safety, cost, energy, scale, taste, culture, labelling, and trust.
+
+The best thinking compares options instead of declaring one winner. A robot mission can model production, inspection, sorting, approval, labelling, or delivery. The team should explain what decision the robot represents and what evidence a real food system would need before people trust the product.
+
 ## Core Terms
 
 ### Alternative Protein
@@ -357,11 +352,3 @@ Whether people are willing to buy, eat, and trust a food.
 4. List one possible benefit and one tradeoff.
 5. Design a robot mission that models production, safety assessment, sorting, or delivery.
 6. Write one evidence-based claim your team could make without exaggerating.
-
-## Sources For Further Reading
-- SFA - Safety of Alternative Protein: https://www.sfa.gov.sg/food-safety-tips/food-risk-concerns/risk-at-a-glance/safety-of-alternative-protein
-- SFA requirements for safety assessment of novel foods: https://www.sfa.gov.sg/docs/default-source/regulatory-standards-frameworks-and-guidelines/requirements-for-the-safety-assessment-of-novel-foods-and-novel-food-ingredients.pdf
-- FAO edible insects: https://www.fao.org/edible-insects/en
-- Good Food Institute state of the industry downloads: https://gfi.org/resource/state-of-the-industry-downloads/
-- FRESH at NTU Singapore: https://www.ntu.edu.sg/fresh
-- FAO food systems resources: https://www.fao.org/food-systems/en/

@@ -10,16 +10,6 @@ Food systems depend on climate. Crops, livestock, fish, workers, storage, and tr
 
 This week connects climate science to agriculture and engineering. It also connects back to everything you have studied: plant biology, controlled environments, sensors, logistics, waste, and food security.
 
-## Key Reference Links For This Week
-Use these links for reliable background:
-
-- [WMO and FAO extreme heat agriculture release](https://wmo.int/news/media-centre/extreme-heat-pushes-agrifood-systems-brink) - current warning on extreme heat and agrifood systems.
-- [FAO climate change page](https://www.fao.org/climate-change/en/) - official climate and agrifood systems context.
-- [FAO climate services and ASIS article](https://www.fao.org/climate-change/news/news-detail/observing-today--protecting-tomorrow--how-climate-services-save-livelihoods/en) - explains climate services and satellite-based agricultural stress monitoring.
-- [FAO-WMO Extreme Heat and Agriculture report page](https://climahealth.info/resource-library/extreme-heat-and-agriculture/) - report entrypoint.
-- [NASA climate and agriculture plant monitoring example](https://www.nasa.gov/earth-and-climate/seeing-photosynthesis-from-space-nasa-scientists-use-satellites-to-measure-plant-health/) - remote sensing connection.
-- [World Bank food security explainer](https://www.worldbank.org/en/topic/agriculture/brief/food-security-update/what-is-food-security) - connects climate shocks to food security dimensions.
-
 ## The One-Minute Idea
 Climate risk means the chance that climate conditions will harm a system. Extreme heat can reduce crop yields, stress animals, make outdoor work dangerous, warm water bodies, increase storage problems, and disrupt logistics. Resilient agriculture tries to prepare, adapt, and recover.
 
@@ -335,6 +325,13 @@ If your climate mission has only a normal route, it is not really a resilience m
 
 Resilience also includes recovery time. Two systems may both fail during a shock, but one recovers in one hour and another takes one month. Faster recovery can protect food access and reduce waste. In robotics, recovery time is the time needed to reset, repair, or rerun a mission. A resilient team notices failures quickly, understands them, and returns to reliable action. Climate resilience also asks who is most affected. A heat wave may hurt outdoor workers, small farms without irrigation, families facing high prices, and cold-chain businesses with high energy costs. A fair resilience plan pays attention to vulnerable people, not only total food output. Robots can model tasks, but people remain the reason resilience matters. When you write a climate mission, avoid hopeless language. The goal is not to scare students. The goal is to show that systems can prepare, reduce harm, protect people, and learn. Serious risk and practical action should appear together in the same explanation. For your final projects, connect climate resilience to a concrete action: shade, water, backup route, safe sorting, cooling, stockpile, or early warning. Concrete actions are easier to build, test, and explain than giant claims about saving the planet. A small, tested response is more useful than a huge promise. Show what your robot can actually do, then explain what larger system idea it represents. Test the response under more than one condition so the resilience claim has evidence.
 
+## Reading Recap
+Climate risk changes food systems because crops, animals, workers, water, roads, storage, and electricity can all be affected. Heat, drought, floods, storms, pests, and disease do not stay in one part of the system. A heatwave can stress farm workers, reduce yields, damage perishable food, raise cooling needs, and disrupt delivery times.
+
+Resilience means preparing for these shocks before they happen. A robot model can show backup routes, shade resources, water-saving choices, emergency delivery, or risk sorting. The key is to explain the disruption clearly. A backup route is not just a longer path; it represents a system that keeps working when the normal path fails.
+
+Final check: name the climate shock, the weak part of the system, the backup action, and the evidence that shows the backup worked.
+ Also explain how people, crops, storage, transport, and energy can be affected together.
 ## Core Terms
 
 ### Climate Risk
@@ -387,11 +384,3 @@ The ability to prepare for, survive, and recover from shocks.
 4. Design a robot mission that models resilience.
 5. Explain which food-security dimension your mission protects: availability, access, utilization, or stability.
 6. Write one piece of evidence you would collect to show the robot is reliable.
-
-## Sources For Further Reading
-- WMO - Extreme heat pushes agrifood systems to the brink: https://wmo.int/news/media-centre/extreme-heat-pushes-agrifood-systems-brink
-- FAO climate change: https://www.fao.org/climate-change/en/
-- FAO climate services and ASIS article: https://www.fao.org/climate-change/news/news-detail/observing-today--protecting-tomorrow--how-climate-services-save-livelihoods/en
-- FAO-WMO Extreme Heat and Agriculture report: https://climahealth.info/resource-library/extreme-heat-and-agriculture/
-- NASA photosynthesis from space: https://www.nasa.gov/earth-and-climate/seeing-photosynthesis-from-space-nasa-scientists-use-satellites-to-measure-plant-health/
-- World Bank food security explainer: https://www.worldbank.org/en/topic/agriculture/brief/food-security-update/what-is-food-security

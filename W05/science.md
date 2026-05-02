@@ -12,16 +12,6 @@ A robot that checks a farm, moves a plant tray, turns on a light, or delivers wa
 
 This week is the biology foundation for later weeks on controlled environment agriculture, vertical farms, precision sensors, and farm robots. If you know what a plant needs, you can design better robot missions around production, inspection, watering, sorting, and tray movement.
 
-## Key Reference Links For This Week
-Use these links when you want stronger background:
-
-- [NASA Growing Plants in Space](https://www.nasa.gov/exploration-research-and-technology/growing-plants-in-space/) - explains plant growth systems using LED lights, water, nutrients, and root support.
-- [NASA Plant Biology Program](https://science.nasa.gov/biological-physical/focus-areas/plant-biology/focus-areas/) - shows why controlled plant growth matters in space and on Earth.
-- [NASA plant hardware](https://science.nasa.gov/biological-physical/focus-areas/plant-biology/hardware/) - reference for growth chambers, LED spectra, and plant research hardware.
-- [USDA National Agricultural Library hydroponics](https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics) - background on growing plants without soil.
-- [NASA photosynthesis from space](https://www.nasa.gov/earth-and-climate/seeing-photosynthesis-from-space-nasa-scientists-use-satellites-to-measure-plant-health/) - explains how scientists can detect plant photosynthesis signals remotely.
-- [USDA agriculture technology topics](https://www.nifa.usda.gov/topics/agriculture-technology) - wider context for technology in agriculture.
-
 ## The One-Minute Idea
 Plants make sugar through photosynthesis. They need light energy, carbon dioxide, water, and nutrients. They also need the right temperature, enough space, oxygen around roots, and protection from stress. Different farming systems control these needs in different ways.
 
@@ -320,6 +310,13 @@ Do not worry if the plant science feels detailed. You are not expected to become
 
 In your sketch, always include both leaves and roots, because food production depends on what happens above and below the growing surface. A tray is not only a platform; it is a life-support space for roots, water, air, and nutrients. That is why careful handling matters from seedling to harvest every day.
 
+## Reading Recap
+Plant growth is a living process, not a simple factory switch. Plants need light energy, carbon dioxide, water, minerals, suitable temperature, and healthy roots. Photosynthesis makes sugar, but growth also depends on transport inside the plant, cell building, respiration, and protection from stress. Too much or too little of one factor can limit the whole system.
+
+For Mission Meals, plant science helps you explain production infrastructure. A pump is not just a pump; it may represent water delivery. A light may represent energy for photosynthesis. A sensor may represent careful monitoring of plant conditions. A robot that moves, measures, or adjusts plant resources should be explained as part of a support system for living organisms, not only as a machine moving objects.
+
+Final check: describe one plant need and one robot action that could support that need. The connection should be biological first and mechanical second, because the robot is helping a living system.
+
 ## Core Terms
 
 ### Photosynthesis
@@ -380,11 +377,3 @@ The condition or resource that most limits growth at a given time.
 3. Choose one sensor that could help a farmer. What does it measure, and what decision could it support?
 4. Design a small robot mission that helps plant production infrastructure.
 5. Write one sentence explaining the biology behind your robot action.
-
-## Sources For Further Reading
-- NASA Growing Plants in Space: https://www.nasa.gov/exploration-research-and-technology/growing-plants-in-space/
-- NASA Plant Biology Program: https://science.nasa.gov/biological-physical/focus-areas/plant-biology/focus-areas/
-- NASA plant biology hardware: https://science.nasa.gov/biological-physical/focus-areas/plant-biology/hardware/
-- USDA National Agricultural Library hydroponics: https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics
-- NASA photosynthesis from space: https://www.nasa.gov/earth-and-climate/seeing-photosynthesis-from-space-nasa-scientists-use-satellites-to-measure-plant-health/
-- USDA agriculture technology: https://www.nifa.usda.gov/topics/agriculture-technology

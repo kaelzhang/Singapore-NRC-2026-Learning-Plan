@@ -12,16 +12,6 @@ Mission Meals asks you to design robots for food systems. Robots are only the ne
 
 This week helps you see agriculture as a chain of design decisions. Humans kept asking: How can we get more reliable food from the same land, water, and labour? That question is still alive today.
 
-## Key Reference Links For This Week
-Use these links when you want more background:
-
-- [Open Textbook Library - History and Science of Cultivated Plants](https://open.umn.edu/opentextbooks/textbooks/1012) - open textbook background on agriculture origins and crop domestication.
-- [Nobel Prize lecture by Norman Borlaug](https://www.nobelprize.org/prizes/peace/1970/borlaug/lecture/) - primary historical source from a key Green Revolution scientist.
-- [Our World in Data agricultural production](https://ourworldindata.org/agricultural-production) - charts and explanations about crop production and yields.
-- [Our World in Data on yields and land use](https://ourworldindata.org/yields-vs-land-use-how-has-the-world-produced-enough-food-for-a-growing-population/) - explains yield growth and land-use tradeoffs.
-- [FAO sustainable agricultural mechanization](https://www.fao.org/sustainable-agricultural-mechanization/en/) - official overview of tools and machines in agriculture.
-- [FAO future of food and agriculture](https://www.fao.org/global-perspectives-studies/resources/detail/en/c/1157074/) - long-term challenges and choices for food systems.
-
 ## The One-Minute Idea
 Agriculture began when people started managing plants and animals instead of only finding wild food. Over thousands of years, people invented irrigation, ploughs, storage, crop rotation, machines, fertilizers, improved seeds, and data tools. Each change helped solve one problem but often created new tradeoffs.
 
@@ -289,6 +279,13 @@ When your team explains a robot attachment, connect it to this long history of t
 
 A final historical habit: never ask only who invented a tool. Also ask what problem existed before the tool, what support system made the tool useful, and what new problem appeared after the tool spread. That pattern will help you judge future farming robots fairly.
 
+## Reading Recap
+Agriculture did not appear as one single invention. It grew through many small decisions made over many generations. People observed plants, saved seeds, controlled water, protected fields, stored harvests, moved food, and improved tools. Domestication changed living things slowly because people kept choosing traits they wanted, such as larger seeds, less shattering, better taste, or easier harvest.
+
+This history matters for robotics because tools change what work is possible. A digging stick, irrigation canal, plough, tractor, sensor, and robot are all tools that help people control time, labour, water, energy, or information. The important question is not whether a tool is old or new. The important question is what problem it solves, what it makes easier, and what new responsibility it creates.
+
+Final check: explain one old farming tool and one modern farming tool using the same question: what did this tool help people control? Good answers mention water, labour, time, energy, movement, storage, or information.
+
 ## Core Terms
 
 ### Agriculture
@@ -340,11 +337,3 @@ When a choice helps one thing but may make another thing harder.
 3. What new problem or tradeoff could that tool create?
 4. Choose one modern or future farming tool and explain how it is similar to an older tool.
 5. Write one Mission Meals robot idea that represents a farming tool from history.
-
-## Sources For Further Reading
-- Open Textbook Library - History and Science of Cultivated Plants: https://open.umn.edu/opentextbooks/textbooks/1012
-- Nobel Prize - Norman Borlaug lecture: https://www.nobelprize.org/prizes/peace/1970/borlaug/lecture/
-- Our World in Data - Agricultural Production: https://ourworldindata.org/agricultural-production
-- Our World in Data - Yields and land use: https://ourworldindata.org/yields-vs-land-use-how-has-the-world-produced-enough-food-for-a-growing-population/
-- FAO sustainable agricultural mechanization: https://www.fao.org/sustainable-agricultural-mechanization/en/
-- FAO future of food and agriculture: https://www.fao.org/global-perspectives-studies/resources/detail/en/c/1157074/

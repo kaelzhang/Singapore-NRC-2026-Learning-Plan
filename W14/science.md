@@ -10,16 +10,6 @@ A robot can only act autonomously if its program is clear. Scratch and SPIKE-sty
 
 This week connects food-system thinking to robot-system logic. A food-system problem becomes a mission model. A mission model becomes robot actions. Robot actions become program logic.
 
-## Key Reference Links For This Week
-Use these links for reliable background:
-
-- [Scratch Learning Library](https://www.scratchfoundation.org/learn/learning-library) - official Scratch learning materials.
-- [Scratch Getting Started](https://www.scratchfoundation.org/learn/learning-library/getting-started) - beginner-friendly Scratch projects and practices.
-- [LEGO Education SPIKE Essential](https://education.lego.com/en-us/products/lego-education-spike-essential-set/45345/) - official SPIKE Essential hardware and learning context.
-- [LEGO SPIKE Essential support](https://education.lego.com/en-us/product-resources/45345-spike-essential-resource-page/) - resources for the set.
-- [LEGO Education computational thinking in SPIKE Essential lessons](https://static.prod01.ue1.p.pcomm.net/legoedu/content/Computational_Thinking_in_LEGO%C2%AE_Education_SPIKE%E2%84%A2_Essential_Lessons.pdf) - computational thinking guide.
-- [NASA eClips Engineering Design Packets](https://science.nasa.gov/science-research/earth-science/engineering-design-packets/) - design process context for students.
-
 ## The One-Minute Idea
 Computational thinking means solving problems in a structured way so a computer or robot can follow the steps. A robot needs exact instructions, but a good team also needs abstraction: hiding unnecessary details so the main plan is clear.
 
@@ -523,11 +513,3 @@ Finding and fixing mistakes in a program or system.
 4. Create one variable that would help the robot remember progress.
 5. Name three possible states for the mission.
 6. Write a debugging plan for one likely failure.
-
-## Sources For Further Reading
-- Scratch Learning Library: https://www.scratchfoundation.org/learn/learning-library
-- Scratch Getting Started: https://www.scratchfoundation.org/learn/learning-library/getting-started
-- LEGO Education SPIKE Essential: https://education.lego.com/en-us/products/lego-education-spike-essential-set/45345/
-- LEGO Education SPIKE Essential support: https://education.lego.com/en-us/product-resources/45345-spike-essential-resource-page/
-- LEGO Education computational thinking guide: https://static.prod01.ue1.p.pcomm.net/legoedu/content/Computational_Thinking_in_LEGO%C2%AE_Education_SPIKE%E2%84%A2_Essential_Lessons.pdf
-- NASA eClips Engineering Design Packets: https://science.nasa.gov/science-research/earth-science/engineering-design-packets/

@@ -44,12 +44,14 @@ Do not create `tasks/`, inbox threads, or multi-agent coordination artifacts unl
 - Each weekly directory must separate science content from robotics work:
   - `science.md` for student-facing science and food-system knowledge.
   - `robotics.md` for robot building, mechanism, programming, mission-design, or testing work.
-  - `README.md` for the weekly entrypoint, document links, learning order, and video shelf.
+  - `README.md` for the weekly entrypoint, document links, and learning order.
+  - `resources.md` for pure reference links, further-reading links, and video shelves.
+- Keep `science.md` print-friendly: it should be readable as a continuous paper document. Inline links on meaningful keywords are allowed when they support the sentence, but do not add standalone reference-link, further-reading, resource-list, or video sections to `science.md`.
 - Weekly content should stay cohesive around one main domain or question.
 - Core terms should use accurate professional vocabulary, then explain the ideas in clear, concrete language.
-- Each weekly directory should include 5 to 6 non-repeated student-watchable video links.
+- Each weekly directory should include 5 to 6 non-repeated student-watchable video links in `resources.md`.
 - Prefer official, educational, museum, university, NGO, or well-maintained organization sources.
-- Record important source URLs in the relevant weekly material instead of relying on chat history.
+- Record pure source URL lists in `resources.md` instead of relying on chat history.
 
 ## Commit Discipline
 Changes should be committed in phases:

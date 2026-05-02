@@ -12,16 +12,6 @@ For NRC, this means your robot is not just "doing a mission." Your robot is acti
 
 This week is a framework week. It gives you the map that will connect all other weeks. Later weeks will zoom in on Singapore, farming history, hunger data, plant science, vertical farms, precision agriculture, agricultural robots, end-effectors, logistics, food waste, climate risk, future foods, programming, testing, and your final capstone explanation.
 
-## Key Reference Links For This Week
-Use these links when you want to check the real-world idea behind this lesson:
-
-- [Science Centre Singapore National Robotics Competition](https://www.science.edu.sg/for-schools/competitions/national-robotics-competition) - the official NRC entrypoint for current challenge documents.
-- [UN Sustainable Development Goal 2](https://sdgs.un.org/goals/goal2) - global goal context for ending hunger and improving food systems.
-- [FAO food security concept note](https://www.fao.org/docrep/013/al936e/al936e00.pdf) - a clear explanation of food security and its dimensions.
-- [World Bank food security explainer](https://www.worldbank.org/en/topic/agriculture/brief/food-security-update/what-is-food-security) - another clear reference for availability, access, utilization, and stability.
-- [FAO SOFI 2025 newsroom summary](https://www.fao.org/newsroom/detail/global-hunger-declines--but-rises-in-africa-and-western-asia--un-report/en) - current global hunger and food insecurity data.
-- [UNEP Food Waste Index Report 2024](https://www.unep.org/resources/publication/food-waste-index-report-2024) - current global food waste data.
-
 ## The One-Minute Idea
 A meal is the end of a long journey. Someone had to grow ingredients, harvest them, keep them safe, move them, sell or prepare them, and avoid wasting them.
 
@@ -380,6 +370,13 @@ If you can name both the system function and the evidence, your explanation is a
 
 Keep this habit all season during every practice.
 
+## Reading Recap
+Before you move on, check whether you can explain the week without using a list of links. A meal is not only food on a plate. It is the result of production, storage, transport, safety, cooking, eating, and waste handling. A robot mission can model only a small part of that system, so the team must choose the part carefully. If the robot carries a crate, say what the crate represents. If the robot sorts an object, say what decision is being modelled. If the robot uses a backup route, say what real disruption the route represents.
+
+The most important habit is to connect action to meaning. A fast robot run is not automatically a strong Mission Meals project. A strong project explains the food-system problem, the role of the robot, the evidence from testing, and the tradeoff that still remains.
+
+Final check: choose one action in your robot plan and say which part of the food system it represents. If you cannot name the real system part, the mission idea needs a clearer connection.
+
 ## Core Terms
 
 ### Food System
@@ -434,12 +431,3 @@ Example: "food must stay cold" becomes "robot carries a cold box to the correct 
 3. Choose one weak point in the journey. Explain whether it is about availability, access, utilization, or stability.
 4. Design one tiny robot mission that represents that weak point.
 5. Write one sentence that connects the robot action back to the food-system problem.
-
-## Sources For Further Reading
-- Science Centre Singapore NRC page: https://www.science.edu.sg/for-schools/competitions/national-robotics-competition
-- UN Sustainable Development Goal 2: https://sdgs.un.org/goals/goal2
-- FAO food security concept note: https://www.fao.org/docrep/013/al936e/al936e00.pdf
-- World Bank food security explainer: https://www.worldbank.org/en/topic/agriculture/brief/food-security-update/what-is-food-security
-- FAO SOFI 2025 newsroom summary: https://www.fao.org/newsroom/detail/global-hunger-declines--but-rises-in-africa-and-western-asia--un-report/en
-- UNEP Food Waste Index Report 2024: https://www.unep.org/resources/publication/food-waste-index-report-2024
-- FAO food systems resources: https://www.fao.org/food-systems/en/

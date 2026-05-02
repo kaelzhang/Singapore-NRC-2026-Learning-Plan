@@ -10,16 +10,6 @@ Food is not secure just because it was produced. It must be stored, cooled when 
 
 In NRC terms, logistics becomes route planning, docking, loading, unloading, sorting, inventory, traceability, and safe delivery. A robot that moves a crate is modelling a real system where timing, temperature, information, and accuracy matter.
 
-## Key Reference Links For This Week
-Use these links for reliable background:
-
-- [WFP supply chain](https://www.wfp.org/supply-chain) - shows how food logistics matters in humanitarian response.
-- [FAO traceability and recalls](https://www.fao.org/food-safety/food-control-systems/supply-chains-and-consumers/traceability-and-recalls/en/) - explains food tracing through supply chains.
-- [FDA Food Traceability Final Rule](https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-requirements-additional-traceability-records-certain-foods) - advanced reference for traceability recordkeeping.
-- [SFA food safety tips](https://www.sfa.gov.sg/food-safety-tips) - food safety context in Singapore.
-- [SG101 Singapore's Food Challenge](https://www.sg101.gov.sg/economy/case-studies/sg-food-challenge/) - Singapore food resilience context.
-- [WFP logistics explainer](https://www.wfp.org/stories/explainer-how-wfps-supply-chain-works-tackle-hunger) - accessible explanation of supply chains and hunger response.
-
 ## The One-Minute Idea
 Food logistics is the system that moves food, information, and responsibility. A cold chain keeps temperature-sensitive food cold from production to eating. Traceability records where food came from and where it went. Warehouses and robots can help organize movement, but safety and reliability matter more than speed alone.
 
@@ -337,6 +327,13 @@ A final practical rule: logistics success is measured at the destination, not on
 
 Good logistics also cares about handoffs. A handoff is the moment one person, vehicle, robot, room, or organization passes food to another. Many failures happen at handoffs because responsibility changes. In your robot mission, the release point is a handoff. Make it controlled, visible, and testable. A logistics notebook should include a map and a table. The map shows movement. The table shows item, condition, label, destination, time, and result. Together they show both physical flow and information flow. Without both, the story is incomplete. If a team can explain both the route and the record, it understands logistics more deeply. The route moves food. The record protects safety, inventory, and trust. Both must arrive together. A delivery without trustworthy information is only movement, not food logistics. Always pair motion with meaning and check it carefully.
 
+## Reading Recap
+Logistics is the organized movement of food, information, and responsibility. Food may pass through farms, packing areas, cold rooms, ports, warehouses, shops, kitchens, and homes. If the food is perishable, the cold chain matters because unsafe temperatures can increase spoilage or safety risk. Traceability matters because people need to know where food came from and where it went.
+
+A robot logistics mission should show more than travel. It should show routing, timing, protection, identification, or delivery accuracy. If the robot moves a food token to the wrong zone, the downstream system receives wrong information. If it handles a cold-chain token too slowly, the model can represent temperature risk. Movement has meaning when it protects quality and supports decisions.
+
+Final check: explain what must arrive, where it must arrive, when it must arrive, and what information must travel with it.
+
 ## Core Terms
 
 ### Logistics
@@ -386,11 +383,3 @@ Material and design used to protect, group, and label food.
 4. Design one robot mission that represents logistics.
 5. Explain whether your mission supports availability, access, utilization, or stability.
 6. Write one way the mission could fail and how you would test it.
-
-## Sources For Further Reading
-- WFP supply chain: https://www.wfp.org/supply-chain
-- WFP logistics explainer: https://www.wfp.org/stories/explainer-how-wfps-supply-chain-works-tackle-hunger
-- FAO traceability and recalls: https://www.fao.org/food-safety/food-control-systems/supply-chains-and-consumers/traceability-and-recalls/en/
-- FDA Food Traceability Final Rule: https://www.fda.gov/food/food-safety-modernization-act-fsma/fsma-final-rule-requirements-additional-traceability-records-certain-foods
-- SFA food safety tips: https://www.sfa.gov.sg/food-safety-tips
-- SG101 - Singapore's Food Challenge: https://www.sg101.gov.sg/economy/case-studies/sg-food-challenge/

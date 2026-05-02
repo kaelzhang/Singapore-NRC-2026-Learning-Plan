@@ -12,16 +12,6 @@ This week is about automation, but with realistic thinking. A robot is not magic
 
 This week also prepares you for W09, where you will study end-effectors. Many farm robots fail or succeed because of the tool that touches the crop.
 
-## Key Reference Links For This Week
-Use these links for reliable context:
-
-- [FAO sustainable agricultural mechanization](https://www.fao.org/sustainable-agricultural-mechanization/en/) - overview of tools and machines from hand tools to advanced equipment.
-- [FAO Agriculture 4.0 robotics and automated equipment](https://www.fao.org/sustainable-agricultural-mechanization/resources/publications/details/en/c/1363243/) - report on agricultural robotics and automation.
-- [FAO SOFA 2022 automation report](https://www.fao.org/agrifood-economics/publications/detail/en/c/1613500/) - global assessment of automation in agrifood systems.
-- [USDA agriculture technology topics](https://www.nifa.usda.gov/topics/agriculture-technology) - broad view of agricultural technology.
-- [NASA Software, Robotics, and Simulation Division](https://www.nasa.gov/software-robotics-and-simulation-division/) - shows how reliability and safety matter in real robotics.
-- [Robotic harvesting systems survey](https://arxiv.org/abs/2207.10457) - advanced technical reading for teachers or curious students.
-
 ## The One-Minute Idea
 Agricultural robots are usually task specialists. One robot may weed, another may harvest fruit, another may spray, another may carry crates, and another may inspect plants. A good farm robot is designed for a clear job, crop, environment, and cost.
 
@@ -335,6 +325,13 @@ Use this sentence to check your Mission Meals ideas before building attachments.
 
 In your notebook, compare two designs: one impressive but unreliable, and one simple but repeatable. Then choose which one a real farmer would prefer after a long workday. This habit builds practical engineering judgement, not just competition excitement. A competition run lasts only a short time, but a farm job may repeat for hours or seasons. Designs that are easy to inspect, reset, and repair become more valuable as repetition increases. Reliability grows more important when work repeats. Simple, repairable systems often win trust because people can depend on them and improve them.
 
+## Reading Recap
+Agricultural robots are usually designed for specific jobs. They may weed, harvest, carry, spray, inspect, sort, or monitor. Each job has different object shapes, timing, force, safety, and environment. A strawberry, a rice tray, a weed, and a box of vegetables cannot all be handled the same way.
+
+Automation is not just replacing people. It can reduce repetitive work, improve precision, support labour shortages, or collect useful data. It can also be expensive, fragile, or hard to adapt to messy outdoor conditions. When you design a robot mission, explain the exact labour or reliability problem being modelled. Then match the mechanism to that problem instead of building a tool that is impressive but unrelated.
+
+Final check: describe the farm task before describing the robot. A clear task tells you what object is handled, what force is safe, and what result counts as success.
+
 ## Core Terms
 
 ### Automation
@@ -387,11 +384,3 @@ Humans and robots working in connected roles rather than pretending the robot do
 4. Choose an object from the task and list its handling properties.
 5. Design a small robot mission that models helping with the task.
 6. Write one ethical or safety question about your robot idea.
-
-## Sources For Further Reading
-- FAO sustainable agricultural mechanization: https://www.fao.org/sustainable-agricultural-mechanization/en/
-- FAO - Agricultural robotics and automated equipment: https://www.fao.org/sustainable-agricultural-mechanization/resources/publications/details/en/c/1363243/
-- FAO SOFA 2022 automation report: https://www.fao.org/agrifood-economics/publications/detail/en/c/1613500/
-- USDA agriculture technology: https://www.nifa.usda.gov/topics/agriculture-technology
-- NASA Software, Robotics, and Simulation Division: https://www.nasa.gov/software-robotics-and-simulation-division/
-- arXiv survey of robotic harvesting systems: https://arxiv.org/abs/2207.10457

@@ -12,16 +12,6 @@ Mission Meals includes end-effector design because food-system objects are diffe
 
 This week is the bridge between food science and robot mechanics. The food-system question is: what does the object need? The robot question is: what tool can touch, move, support, or release it safely and reliably?
 
-## Key Reference Links For This Week
-Use these links for reliable background:
-
-- [NASA STEMonstrations: Simple Machines](https://www.nasa.gov/stem-content/stemonstrations-simple-machines/) - clear reference for levers and other simple machines.
-- [NASA Glenn torque guide](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/torque-moment/) - clear explanation of torque as turning effect.
-- [NIST robotic grasping and manipulation](https://www.nist.gov/el/intelligent-systems-division-73500/robotic-grasping-and-manipulation-assembly) - shows why end-effectors and force control matter in robotics.
-- [FAO agricultural robotics report](https://www.fao.org/sustainable-agricultural-mechanization/resources/publications/details/en/c/1363243/) - agriculture automation context.
-- [LEGO Education SPIKE Essential](https://education.lego.com/en-us/products/lego-education-spike-essential-set/45345/) - hardware context for student robot mechanisms.
-- [LEGO Engineering resources](https://legoengineering.com/) - practical LEGO mechanism ideas.
-
 ## The One-Minute Idea
 An end-effector is the robot's working tool. It may be a gripper, scoop, hook, pusher, fork, sweeper, gate, lifter, cutter, sprayer, suction cup, or soft finger. The best tool depends on the object: its size, shape, weight, fragility, surface, centre of mass, and required motion.
 
@@ -328,6 +318,13 @@ A final practical rule: if a mechanism is hard to explain, hard to reset, and ha
 
 Write one sentence for each design: what it touches, where the force goes, and how it releases. If you cannot answer those three questions, keep sketching before building. This small pause often prevents hours of repair later. A well-designed tool feels almost boring during testing because it does the same job again and again. That boring repeatability is exactly what useful engineering often looks like. Strong mechanisms are clear, repeatable, and kind to the object, so test patiently and carefully every time.
 
+## Reading Recap
+An end-effector is the part of the robot that touches the world. It might push, hook, lift, scoop, clamp, sweep, guide, or release. Good end-effector design starts with the object: its size, shape, weight, surface, fragility, and allowed movement. A tool that works for a cube may fail for a round object. A tool that grips tightly may damage a fragile food item.
+
+Mechanisms also follow force and motion rules. Levers, gears, wheels, axles, and linkages can change speed, torque, direction, and distance. A strong design is not always the biggest design. It is the design that gives the right contact, enough control, and repeatable release for the mission object.
+
+Final check: pick one mission object and describe its shape, weight, surface, fragility, and release point before choosing a gripper or tool.
+
 ## Core Terms
 
 ### End-Effector
@@ -380,11 +377,3 @@ A standard connection that lets different parts attach and detach reliably.
 4. Draw two end-effector ideas and mark where force touches the object.
 5. Explain one tradeoff: speed, torque, contact area, friction, compliance, or modularity.
 6. Write how you would test the tool in 10 repeated trials.
-
-## Sources For Further Reading
-- NASA STEMonstrations Simple Machines: https://www.nasa.gov/stem-content/stemonstrations-simple-machines/
-- NASA Glenn torque guide: https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/torque-moment/
-- NIST robotic grasping and manipulation: https://www.nist.gov/el/intelligent-systems-division-73500/robotic-grasping-and-manipulation-assembly
-- LEGO Education SPIKE Essential: https://education.lego.com/en-us/products/lego-education-spike-essential-set/45345/
-- LEGO Engineering resources: https://legoengineering.com/
-- FAO agricultural robotics report: https://www.fao.org/sustainable-agricultural-mechanization/resources/publications/details/en/c/1363243/

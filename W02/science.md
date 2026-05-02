@@ -12,15 +12,6 @@ Singapore is also a useful case because the challenge is visible. Land is limite
 
 This week helps you understand why local production, import diversity, stockpiling, and partnerships all matter. It also helps you understand why technology is useful only when it fits the city, the farms, the supply chain, and the people who eat the food.
 
-## Key Reference Links For This Week
-Use these links when you want to check Singapore-specific details:
-
-- [SG101 Singapore's Food Challenge](https://www.sg101.gov.sg/economy/case-studies/sg-food-challenge/) - a clear overview of Singapore's food security challenge.
-- [MSE reply on revised local production targets](https://www.mse.gov.sg/latest-news/oral-reply-to-parliamentary-question-on-revised-local-production-targets/) - official explanation of Singapore Food Story 2 and the 2035 fibre/protein targets.
-- [SFA safety of alternative protein](https://www.sfa.gov.sg/food-safety-tips/food-risk-concerns/risk-at-a-glance/safety-of-alternative-protein) - explains novel food and safety assessment in Singapore.
-- [SFA food safety tips](https://www.sfa.gov.sg/food-safety-tips) - clear food safety guidance.
-- [Science Centre Singapore NRC](https://www.science.edu.sg/for-schools/competitions/national-robotics-competition) - official NRC page for competition context.
-
 ## The One-Minute Idea
 Singapore cannot simply grow every type of food locally. Instead, it builds resilience using several strategies at once:
 
@@ -304,6 +295,11 @@ This makes reliability important. A food system should not be impressive only du
 
 When a Singapore food story mentions a target, pillar, or technology, ask what daily meal it protects. A target becomes easier to understand when you connect it to vegetables, eggs, seafood, rice, or another food people actually eat.
 
+## Reading Recap
+Singapore's food story is a lesson in resilience. Resilience does not mean one perfect solution. It means several layers working together: import diversification, local production, stockpiles, safety rules, technology, and public habits. A city-state has limited land, so it cannot copy the food strategy of a large farming country. It must design a system that fits its own geography, population, ports, economy, and risk profile.
+
+When you translate this into robotics, avoid one-action thinking. A robot that succeeds only when every object is exactly placed is not resilient. A more resilient design can handle small changes in starting angle, object position, battery level, and route condition. Singapore's food system and your robot system both need backups, clear decisions, and tests that show what happens when conditions change.
+
 ## Core Terms
 
 ### Food Resilience
@@ -349,10 +345,3 @@ A growing space where humans control conditions such as temperature, water, ligh
 3. Make a four-pillar map: import diversification, growing local, stockpiling, and partnerships. Put one example under each pillar.
 4. Write one robot mission idea that represents a Singapore food-resilience action.
 5. Explain one tradeoff of your idea. Does it use land, energy, money, time, or skilled labour?
-
-## Sources For Further Reading
-- SG101 - Singapore's Food Challenge: https://www.sg101.gov.sg/economy/case-studies/sg-food-challenge/
-- MSE revised production targets reply: https://www.mse.gov.sg/latest-news/oral-reply-to-parliamentary-question-on-revised-local-production-targets/
-- SFA safety of alternative protein: https://www.sfa.gov.sg/food-safety-tips/food-risk-concerns/risk-at-a-glance/safety-of-alternative-protein
-- SFA food safety tips: https://www.sfa.gov.sg/food-safety-tips
-- Science Centre Singapore NRC page: https://www.science.edu.sg/for-schools/competitions/national-robotics-competition

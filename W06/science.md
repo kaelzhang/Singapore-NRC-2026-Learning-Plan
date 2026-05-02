@@ -12,16 +12,6 @@ This week connects plant science to urban farming technology. W05 explained what
 
 CEA is important for Mission Meals because it turns food production into an engineered environment. A robot may move trays, check sensors, deliver resources, sort plants, or model a farm station. To make that meaningful, you need to understand what the farm is controlling.
 
-## Key Reference Links For This Week
-Use these links for reliable context:
-
-- [SG101 Singapore's Food Challenge](https://www.sg101.gov.sg/economy/case-studies/sg-food-challenge/) - local context for Singapore food resilience.
-- [URA urban farming guidance](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Urban-Farming) - shows how urban farming fits into Singapore spaces.
-- [NASA Growing Plants in Space](https://www.nasa.gov/exploration-research-and-technology/growing-plants-in-space/) - controlled plant growth in space systems.
-- [NASA Space Gardens](https://www.nasa.gov/missions/station/iss-research/space-gardens/) - examples of plant-growth research in controlled environments.
-- [NASA VEGGIE mission page](https://science.nasa.gov/mission/veggie/) - a real plant production system on the International Space Station.
-- [USDA hydroponics reference](https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics) - background on soil-less growing.
-
 ## The One-Minute Idea
 Controlled Environment Agriculture means growing plants in a managed space such as a greenhouse, indoor farm, or plant factory. Vertical farming stacks growing layers upward. Hydroponics grows plants without soil. These systems can save land and sometimes water, but they may need electricity, skilled operators, careful monitoring, cleaning, and repair.
 
@@ -285,6 +275,13 @@ A final notebook sentence for this week: "CEA gives humans more control over pla
 
 Reliable control needs reliable maintenance too. Without upkeep, control disappears, and the farm slowly becomes uncontrolled again.
 
+## Reading Recap
+Controlled-environment agriculture changes where and how some crops can grow. Instead of accepting outdoor weather, people manage light, water, nutrients, airflow, temperature, humidity, and space. Hydroponics and vertical farms can be useful where land is limited, but they still require energy, equipment, maintenance, skilled decisions, and careful safety practices.
+
+The key idea is control with tradeoffs. More control can improve consistency, but it can also increase complexity. A sensor can measure a condition, but the system must respond correctly. A pump can deliver nutrient solution, but it can also fail. When you build a robot model, show both sides: what the controlled system improves and what it must monitor to remain reliable.
+
+Final check: name one condition an indoor farm controls, one tool used to control it, and one risk if that tool fails during production.
+
 ## Core Terms
 
 ### Controlled Environment Agriculture
@@ -336,11 +333,3 @@ A choice where improving one goal may make another goal harder.
 3. Compare outdoor farming and indoor farming. Name one advantage and one tradeoff of each.
 4. Design a robot mission that represents one CEA support action.
 5. Write one sentence explaining why your robot action helps plant production.
-
-## Sources For Further Reading
-- SG101 - Singapore's Food Challenge: https://www.sg101.gov.sg/economy/case-studies/sg-food-challenge/
-- URA urban farming in Singapore: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Urban-Farming
-- NASA Growing Plants in Space: https://www.nasa.gov/exploration-research-and-technology/growing-plants-in-space/
-- NASA Space Gardens: https://www.nasa.gov/missions/station/iss-research/space-gardens/
-- NASA VEGGIE mission: https://science.nasa.gov/mission/veggie/
-- USDA hydroponics reference: https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics

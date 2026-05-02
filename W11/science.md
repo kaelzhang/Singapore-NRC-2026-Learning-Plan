@@ -10,16 +10,6 @@ Producing more food is not enough if huge amounts are lost or wasted. Mission Me
 
 Food waste is also a systems problem. It connects farming, logistics, safety, shops, homes, labels, habits, storage, packaging, and recovery systems. A banana wasted at home carries the water, land, labour, transport, and cooling used before it arrived.
 
-## Key Reference Links For This Week
-Use these links for reliable background:
-
-- [UNEP Food Waste Index Report 2024](https://www.unep.org/resources/publication/food-waste-index-report-2024) - current global food waste estimates.
-- [UNEP food loss and waste topic](https://www.unep.org/index.php/topics/food-systems/food-loss-and-waste) - explains loss, waste, climate, and resource impacts.
-- [FAO food loss and waste platform](https://www.fao.org/platform-food-loss-waste/en) - technical platform for measuring and reducing food loss and waste.
-- [FAO policy page on food loss and waste](https://www.fao.org/policy-support/policy-themes/food-loss-and-food-waste/en) - policy overview and global figures.
-- [EPA Wasted Food Scale](https://www.epa.gov/sustainable-management-food/food-recovery-hierarchy) - practical hierarchy for preventing and managing wasted food.
-- [WRI Food Loss and Waste Protocol](https://www.wri.org/initiatives/food-loss-waste-protocol) - measurement standard context.
-
 ## The One-Minute Idea
 Food loss usually happens before food reaches consumers, such as during harvest, storage, processing, or transport. Food waste usually happens at retail, restaurants, schools, or homes. A circular economy tries to keep materials useful for as long as possible.
 
@@ -352,6 +342,13 @@ For Mission Meals, this means the robot should not simply push all "waste" into 
 
 One more useful distinction is avoidable versus unavoidable waste. Avoidable waste could have been eaten or prevented with better planning. Unavoidable waste includes parts people normally do not eat, such as some shells or bones, although cultures differ. This distinction helps students avoid unrealistic goals. A zero-waste system still has biological leftovers; the question is whether those leftovers are handled safely and usefully. In your waste audit, separate cause from blame. A person may throw away food because the system made waste likely: confusing labels, oversized portions, poor storage, no sharing option, or too little time to eat. Better design changes the conditions so the better choice becomes easier. This is systems thinking, not scolding. Measurement should also separate weight, count, and reason. Ten tiny scraps and one full sandwich are different problems. A kilogram of unavoidable peels is different from a kilogram of unopened meals. Good data helps choose the right intervention instead of guessing from the bin alone. Finally, remember that waste reduction is a design challenge, not a guilt contest. The best systems make good choices easy: clear bins, clear labels, right-sized portions, visible leftovers, safe donation paths, and reliable collection. Good design prevents confusion before waste happens, especially when students check the cause carefully.
 
+## Reading Recap
+Food waste is not only a rubbish problem. It is wasted land, water, labour, energy, transport, money, and nutrition. The best action is usually prevention: do not create avoidable waste in the first place. If safe food is extra, food rescue may help. If food cannot feed people, it may still become animal feed, compost, soil support, or energy, depending on local rules and safety.
+
+A robot waste mission should respect this hierarchy. Sorting everything into trash is weak thinking. A stronger mission separates edible surplus, unsafe food, compostable material, packaging, and landfill waste. The robot can model how better information and better sorting protect value before it is lost.
+
+Final check: before choosing compost, ask whether the item could have been prevented, safely rescued, reused, or upcycled. The best waste solution often happens before the bin.
+ Also explain which resources are being protected: food, water, energy, labour, packaging, transport, and money.
 ## Core Terms
 
 ### Food Loss
@@ -401,11 +398,3 @@ Material left from making another product that may still have value.
 4. Explain why prevention is usually better than composting edible food.
 5. Write one food safety rule for rescue or redistribution.
 6. Create a simple waste measurement table for your classroom or team snack.
-
-## Sources For Further Reading
-- UNEP Food Waste Index Report 2024: https://www.unep.org/resources/publication/food-waste-index-report-2024
-- UNEP food loss and waste topic: https://www.unep.org/index.php/topics/food-systems/food-loss-and-waste
-- FAO food loss and waste platform: https://www.fao.org/platform-food-loss-waste/en/
-- FAO food loss and waste policy page: https://www.fao.org/policy-support/policy-themes/food-loss-and-food-waste/en
-- EPA Wasted Food Scale: https://www.epa.gov/sustainable-management-food/food-recovery-hierarchy
-- WRI Food Loss and Waste Protocol: https://www.wri.org/initiatives/food-loss-waste-protocol

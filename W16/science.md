@@ -10,16 +10,6 @@ This is the second framework week. You now have many pieces: food security, Sing
 
 This week connects them into one story. It helps you prepare a capstone explanation that is scientifically meaningful, technically honest, and supported by evidence.
 
-## Key Reference Links For This Week
-Use these links to reconnect the whole course:
-
-- [Science Centre Singapore NRC page](https://www.science.edu.sg/for-schools/competitions/national-robotics-competition) - official competition entrypoint.
-- [FAO food systems resources](https://www.fao.org/food-systems/en/) - broad food-system framework.
-- [SG101 Singapore's Food Challenge](https://www.sg101.gov.sg/economy/case-studies/sg-food-challenge/) - Singapore food resilience context.
-- [FAO SOFI 2025 newsroom summary](https://www.fao.org/newsroom/detail/global-hunger-declines--but-rises-in-africa-and-western-asia--un-report/en) - global hunger and food insecurity context.
-- [UNEP Food Waste Index Report 2024](https://www.unep.org/resources/publication/food-waste-index-report-2024) - waste context.
-- [WMO and FAO extreme heat agriculture release](https://wmo.int/news/media-centre/extreme-heat-pushes-agrifood-systems-brink) - climate risk context.
-
 ## The One-Minute Idea
 A strong Mission Meals project does not say, "Our robot moves objects." It says:
 
@@ -537,10 +527,10 @@ Use sources to support your ideas, not to decorate the page. A good source note 
 
 Examples:
 
-1. [FAO food systems work](https://www.fao.org/food-systems/en/) helped us understand that food includes production, transport, processing, consumption, and waste.
-2. [UNEP Food Waste Index](https://www.unep.org/resources/publication/food-waste-index-report-2024) helped us understand that waste happens in homes, food service, and retail.
-3. [Singapore Food Agency resources](https://www.sfa.gov.sg/food-for-thought/article/detail/alternative-proteins) helped us understand why alternative proteins need safety assessment and public trust.
-4. [WMO and FAO heat guidance](https://wmo.int/publication-series/heat-health-risks-agricultural-workers) helped us understand that heat affects people who work in food systems.
+1. FAO food systems work helped us understand that food includes production, transport, processing, consumption, and waste.
+2. UNEP Food Waste Index helped us understand that waste happens in homes, food service, and retail.
+3. Singapore Food Agency resources helped us understand why alternative proteins need safety assessment and public trust.
+4. WMO and FAO heat guidance helped us understand that heat affects people who work in food systems.
 
 Do not copy long sentences. Read, think, and explain in your own words. If a fact is important, link the source.
 
@@ -570,6 +560,11 @@ Before presenting, check:
 8. Can each student explain one part without reading a script?
 
 If the answer is yes, the capstone is not only a robot run. It is a learning story.
+
+## Reading Recap
+The final capstone should connect the whole course into one clear explanation. Start with a food-system problem, then show the part your robot models. Explain the mechanism, the program logic, the evidence from repeated testing, one tradeoff, and one future improvement. This makes the project more than a demonstration of movement.
+
+A good capstone does not claim that a small robot solves world hunger, climate change, or food waste by itself. It says that the robot is a model of one useful idea inside a larger system. That honest connection between science, engineering, and evidence is the strongest final story.
 
 ## Core Terms
 
@@ -618,12 +613,3 @@ Changing knowledge from one form into another, such as food-system science into 
 5. Write one evidence-based claim using a 10-run result.
 6. Write one tradeoff and one future improvement.
 7. Practise explaining the project in under one minute.
-
-## Sources For Further Reading
-- Curriculum architecture: ../docs/curriculum-architecture.md
-- Science Centre Singapore NRC page: https://www.science.edu.sg/for-schools/competitions/national-robotics-competition
-- FAO food systems resources: https://www.fao.org/food-systems/en/
-- SG101 - Singapore's Food Challenge: https://www.sg101.gov.sg/economy/case-studies/sg-food-challenge/
-- FAO SOFI 2025 newsroom summary: https://www.fao.org/newsroom/detail/global-hunger-declines--but-rises-in-africa-and-western-asia--un-report/en
-- UNEP Food Waste Index Report 2024: https://www.unep.org/resources/publication/food-waste-index-report-2024
-- WMO - Extreme heat and agriculture release: https://wmo.int/news/media-centre/extreme-heat-pushes-agrifood-systems-brink

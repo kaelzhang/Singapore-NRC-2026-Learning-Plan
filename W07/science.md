@@ -12,16 +12,6 @@ Robots also need this idea. A good robot does not act blindly. It senses, decide
 
 This week helps you connect sensors, data quality, mapping, computer vision, drones, satellites, and robot decisions.
 
-## Key Reference Links For This Week
-Use these links for reliable background:
-
-- [GPS.gov precision agriculture](https://www.gps.gov/index.php/precision-agriculture-gps) - explains how GPS supports location-aware farming.
-- [USDA ARS benefits and evolution of precision agriculture](https://www.ars.usda.gov/oc/utm/benefits-and-evolution-of-precision-agriculture/) - USDA overview of precision agriculture development.
-- [USDA AgLab precision agriculture](https://aglab.ars.usda.gov/fuel-your-curiosity/sustainability/precision-agriculture) - clear USDA explanation.
-- [FAO SOFA 2022 automation report](https://www.fao.org/agrifood-economics/publications/detail/en/c/1613500/) - global view of automation and digital technologies in agriculture.
-- [NASA photosynthesis from space](https://www.nasa.gov/earth-and-climate/seeing-photosynthesis-from-space-nasa-scientists-use-satellites-to-measure-plant-health/) - example of remote sensing for plant health.
-- [USDA agriculture technology topics](https://www.nifa.usda.gov/topics/agriculture-technology) - broad technology context.
-
 ## The One-Minute Idea
 Precision agriculture uses sensors, maps, GPS, drones, cameras, satellites, and data to treat different places differently. The goal is to use the right input, in the right place, at the right time.
 
@@ -336,6 +326,13 @@ This is also how autonomous robots become smarter: they stop following only fixe
 
 If the robot ignores the sensor result, the sensor is decoration, not intelligence. If the farm ignores the map, the map is decoration, not precision. Useful data changes what happens next and is checked after action. In practice, a good precision system also records the result after action. Did the dry zone improve? Did the weed return? Did the robot sort correctly? Feedback after action is what turns one decision into learning over time. Check, record, compare, and improve the next action carefully. Keep improving the evidence, not only the hardware.
 
+## Reading Recap
+Precision agriculture begins with a simple idea: observe carefully before acting. Instead of treating every field, plant, or zone the same, farmers and engineers use data to notice differences. Sensors, maps, satellites, drones, cameras, and soil tests can help people decide where water, nutrients, pest control, or harvesting effort is needed.
+
+Data is useful only when it leads to a better decision. A robot sensor reading is the same way. The reading must be calibrated, checked, and connected to an action. If the robot sees a colour marker but does not use that information correctly, the data did not help. Good precision thinking asks what is measured, how reliable the measurement is, what decision follows, and how the team knows the decision improved the result.
+
+Final check: name the measurement, the decision, and the action.
+
 ## Core Terms
 
 ### Precision Agriculture
@@ -387,11 +384,3 @@ Doing the right action in the right place instead of treating everything the sam
 3. Describe one way the data could be wrong.
 4. Design a robot mission that uses a sensor or marker before acting.
 5. Write the mission as a loop: measure, compare, decide, act, check.
-
-## Sources For Further Reading
-- GPS.gov precision agriculture: https://www.gps.gov/index.php/precision-agriculture-gps
-- USDA ARS - Benefits and Evolution of Precision Agriculture: https://www.ars.usda.gov/oc/utm/benefits-and-evolution-of-precision-agriculture/
-- USDA AgLab - Precision Agriculture: https://aglab.ars.usda.gov/fuel-your-curiosity/sustainability/precision-agriculture
-- FAO SOFA 2022 automation report: https://www.fao.org/agrifood-economics/publications/detail/en/c/1613500/
-- NASA photosynthesis from space: https://www.nasa.gov/earth-and-climate/seeing-photosynthesis-from-space-nasa-scientists-use-satellites-to-measure-plant-health/
-- USDA agriculture technology: https://www.nifa.usda.gov/topics/agriculture-technology

@@ -10,7 +10,7 @@ The plan connects food-system science with robotics thinking so that students un
 - Make technical terms visible and useful instead of hiding them.
 - Explain difficult concepts with accurate terms and clear, concrete language.
 - Connect each topic to the past, present, current global data, pain points, and future research directions.
-- Include 5 to 6 non-repeated video links in every weekly module.
+- Include 5 to 6 non-repeated video links in every weekly module's `resources.md`.
 - Keep each week focused on one coherent domain.
 - Include 1 to 2 system-framework weeks that connect all other weeks.
 
@@ -29,12 +29,13 @@ The plan connects food-system science with robotics thinking so that students un
 
 Weekly directories are created as the curriculum is written. A typical weekly directory should contain:
 
-- `README.md`: weekly student entrypoint, document links, learning order, and video shelf.
-- `science.md`: student-facing science and food-system knowledge.
+- `README.md`: weekly student entrypoint, document links, and learning order.
+- `science.md`: printable student-facing science and food-system knowledge.
 - `robotics.md`: student-facing robot building, mechanism, programming, mission-design, or testing work.
 - `teacher-notes.md`: optional teacher-only notes.
+- `resources.md`: reference links, further reading, and video shelf.
 
-The weekly `README.md` keeps the 5 to 6 direct student video links. The learning content is split between `science.md` and `robotics.md`.
+The weekly `science.md` is designed for direct printing and continuous reading. Pure reference lists, further-reading links, and video sections belong in `resources.md`; inline links in explanatory sentences are still allowed when they support the text.
 
 ## Project Documents
 - `docs/README.md`: entrypoint for durable project documentation.
