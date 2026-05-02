@@ -29,10 +29,12 @@ The plan connects food-system science with robotics thinking so that students un
 
 Weekly directories are created as the curriculum is written. A typical weekly directory should contain:
 
-- `README.md`: student-facing weekly lesson.
+- `README.md`: weekly student entrypoint, document links, learning order, and video shelf.
+- `science.md`: student-facing science and food-system knowledge.
+- `robotics.md`: student-facing robot building, mechanism, programming, mission-design, or testing work.
 - `teacher-notes.md`: optional teacher-only notes.
 
-The weekly `README.md` contains the focused glossary and 5 to 6 direct student video links unless a later expansion splits them into separate files.
+The weekly `README.md` keeps the 5 to 6 direct student video links. The learning content is split between `science.md` and `robotics.md`.
 
 ## Project Documents
 - `docs/README.md`: entrypoint for durable project documentation.

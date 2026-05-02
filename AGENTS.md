@@ -41,6 +41,10 @@ Do not create `tasks/`, inbox threads, or multi-agent coordination artifacts unl
 - Student-facing weekly learning materials must be written in English.
 - Teacher-only notes may be written in Chinese or bilingual English/Chinese when that improves classroom use.
 - Each week must live in its own directory named `W01`, `W02`, and so on through `W16`.
+- Each weekly directory must separate science content from robotics work:
+  - `science.md` for student-facing science and food-system knowledge.
+  - `robotics.md` for robot building, mechanism, programming, mission-design, or testing work.
+  - `README.md` for the weekly entrypoint, document links, learning order, and video shelf.
 - Weekly content should stay cohesive around one main domain or question.
 - Core terms should use accurate professional vocabulary, then explain the ideas in language an eight-year-old can understand.
 - Each weekly directory should include 5 to 6 non-repeated student-watchable video links.

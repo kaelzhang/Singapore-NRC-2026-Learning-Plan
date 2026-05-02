@@ -41,20 +41,32 @@ How could a robot sense, move, decide, or handle objects in this part of the sys
 ## File Pattern
 Each weekly directory should contain:
 
-- `README.md`: student-facing lesson in English.
+- `README.md`: weekly student entrypoint with document links, suggested learning order, and video shelf.
+- `science.md`: student-facing science and food-system lesson in English.
+- `robotics.md`: student-facing robot building, mechanism, programming, mission-design, or testing work in English.
 - `teacher-notes.md`: teacher-facing notes, allowed to be Chinese or bilingual.
 
-The student-facing `README.md` should include:
+The student-facing `science.md` should include:
 
 - Big question.
 - Why this matters for Mission Meals.
 - Past, present, and future.
 - Deep explanation.
 - Core terminology.
-- Robot connection.
-- Student tasks.
-- Video links.
 - Sources for further reading.
+
+The student-facing `robotics.md` should include:
+
+- Robot connection.
+- Build, programming, mechanism, mission-design, or testing tasks.
+- Engineering notebook prompt.
+
+The weekly `README.md` should include:
+
+- Links to `science.md`, `robotics.md`, and `teacher-notes.md`.
+- Weekly question.
+- Suggested learning order.
+- 5 to 6 non-repeated video links.
 
 ## The 16-Week Sequence
 | Week | Directory | Main focus | Role in the course | Key NRC translation |
