@@ -11,7 +11,7 @@ Food is not secure just because it was produced. It must be stored, cooled when 
 In NRC terms, logistics becomes route planning, docking, loading, unloading, sorting, inventory, traceability, and safe delivery. A robot that moves a crate is modelling a real system where timing, temperature, information, and accuracy matter.
 
 ## The One-Minute Idea
-Food logistics is the system that moves food, information, and responsibility. A cold chain keeps temperature-sensitive food cold from production to eating. Traceability records where food came from and where it went. Warehouses and robots can help organize movement, but safety and reliability matter more than speed alone.
+Food logistics is the system that moves food, information, and responsibility. A cold chain keeps temperature-sensitive food cold from production to eating. **Traceability** records where food came from and where it went. Warehouses and robots can help organize movement, but safety and reliability matter more than speed alone.
 
 Simple idea: logistics is the food's careful travel plan. Cold chain is keeping the food cool during the whole trip. Traceability is remembering where it came from and where it went.
 
@@ -50,7 +50,7 @@ A food system has many flows:
 
 If physical food moves but information is missing, a recall becomes harder. If information is good but the cold chain fails, food can still spoil. If delivery is fast but items are crushed, the system failed quality.
 
-Logistics is not just transport. It is planned movement with records and constraints.
+**Logistics** is not just transport. It is planned movement with records and constraints.
 
 ### 2. Cold Chain Protects Temperature-Sensitive Food
 Some foods need controlled temperature: seafood, meat, dairy, eggs, frozen food, and some fresh produce. A cold chain is the linked system of cold storage and cold transport.
@@ -84,7 +84,7 @@ Important warehouse questions include:
 In Mission Meals, a warehouse can become a sorting zone, storage rack, docking station, or delivery route.
 
 ### 5. Inventory Means Knowing What You Have
-Inventory is the goods currently stored and tracked. Good inventory records help prevent both shortage and waste. If a warehouse does not know what it has, it may order too much, run out unexpectedly, or let food expire.
+**Inventory** is the goods currently stored and tracked. Good inventory records help prevent both shortage and waste. If a warehouse does not know what it has, it may order too much, run out unexpectedly, or let food expire.
 
 Food inventory must often include batch, date, quantity, location, temperature requirement, and destination. Some systems use first-expired-first-out or first-in-first-out methods so older food leaves before newer food.
 
@@ -107,14 +107,14 @@ If the affected batch is known, people can remove the right products. If records
 This is a good robotics lesson. If your robot sorts objects into the wrong zone, the downstream system has wrong information. Accuracy matters because later actions depend on it.
 
 ### 8. Packaging Is Part Of Logistics
-Packaging protects food, provides information, groups items, and helps handling. It may prevent crushing, reduce moisture loss, block contamination, or support temperature control.
+**Packaging** protects food, provides information, groups items, and helps handling. It may prevent crushing, reduce moisture loss, block contamination, or support temperature control.
 
 Packaging also creates waste, so it has tradeoffs. Too little packaging can increase food damage. Too much packaging can waste materials. Good design balances protection, information, cost, and environmental impact.
 
 A robot end-effector may work better if packaging has handles, flat sides, standard sizes, or strong corners. This is co-design: design the object and robot together.
 
 ### 9. Docking Requires Precision
-Docking means moving into a precise position for loading, unloading, charging, or transfer. A delivery robot may need to align with a shelf. A warehouse robot may need to stop at a conveyor. A cold box may need to fit into a station.
+**Docking** means moving into a precise position for loading, unloading, charging, or transfer. A delivery robot may need to align with a shelf. A warehouse robot may need to stop at a conveyor. A cold box may need to fit into a station.
 
 Docking is hard because small errors can cause jams. Guides, funnels, rails, line following, sensors, and slow approach speeds can help.
 
@@ -137,11 +137,11 @@ Cold-chain mission: move a cold box to a chilled station before a time limit. Sc
 
 Traceability mission: scan or sort by marker before delivery. Science idea: food records guide safe movement.
 
-Warehouse mission: move older stock first. Science idea: inventory rotation reduces waste.
+**Warehouse** mission: move older stock first. Science idea: inventory rotation reduces waste.
 
 Docking mission: align with a loading bay before release. Science idea: precise transfer prevents damage and errors.
 
-Recall mission: remove only affected batch markers. Science idea: traceability supports targeted recalls.
+**Recall** mission: remove only affected batch markers. Science idea: traceability supports targeted recalls.
 
 
 ## Expanded Knowledge Notes
@@ -161,7 +161,7 @@ Each mile has different challenges. First mile may involve harvest timing and fa
 A robot mission can model any one of these. A field-to-warehouse movement is first mile. A warehouse-to-shop movement is middle or last mile depending on the story.
 
 ### Perishable Versus Shelf-Stable
-Perishable foods spoil quickly or need special storage. Examples include seafood, meat, dairy, many fruits and vegetables, and prepared meals. Shelf-stable foods can last longer when stored properly, such as dry rice, canned food, dried beans, or sealed noodles.
+**Perishable** foods spoil quickly or need special storage. Examples include seafood, meat, dairy, many fruits and vegetables, and prepared meals. Shelf-stable foods can last longer when stored properly, such as dry rice, canned food, dried beans, or sealed noodles.
 
 Perishable food logistics cares strongly about time, temperature, and handling. Shelf-stable food logistics cares more about moisture, pests, packaging, inventory, and storage rotation.
 
@@ -336,43 +336,43 @@ Final check: explain what must arrive, where it must arrive, when it must arrive
 
 ## Core Terms
 
-### Logistics
+### **Logistics**
 Planning and moving goods, information, and resources from one place to another.
 
-### Supply Chain
+### **Supply Chain**
 The connected system of producers, processors, transporters, warehouses, retailers, and consumers.
 
-### Cold Chain
+### **Cold Chain**
 A temperature-controlled supply chain for products that must stay cold.
 
-### Warehouse
+### **Warehouse**
 A place where goods are stored, sorted, tracked, and prepared for movement.
 
-### Traceability
+### **Traceability**
 The ability to track where food came from and where it went.
 
-### Batch
+### **Batch**
 A group of products made or handled together.
 
-### Docking
+### **Docking**
 Moving into a precise position for loading, unloading, or charging.
 
-### Inventory
+### **Inventory**
 The goods currently stored and tracked.
 
-### Recall
+### **Recall**
 Removing unsafe or problematic products from sale or use.
 
-### First-In-First-Out
+### **First-In-First-Out**
 A rotation method where older stock is used or shipped before newer stock.
 
-### Perishable
+### **Perishable**
 Likely to spoil or lose quality quickly.
 
-### Route Planning
+### **Route Planning**
 Choosing a path or schedule for movement.
 
-### Packaging
+### **Packaging**
 Material and design used to protect, group, and label food.
 
 ## Student Thinking Tasks

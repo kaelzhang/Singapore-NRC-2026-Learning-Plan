@@ -6,7 +6,7 @@ This student document contains the science and food-system knowledge for the wee
 How did humans change food production from gathering wild food to managing farms, machines, and scientific crops?
 
 ## Why This Week Matters
-To understand future farming, you need to know the long story of farming. Agriculture is not just "planting seeds." It is a history of humans learning to control water, soil, tools, labour, time, risk, plants, animals, and information.
+To understand future farming, you need to know the long story of farming. **Agriculture** is not just "planting seeds." It is a history of humans learning to control water, soil, tools, labour, time, risk, plants, animals, and information.
 
 Mission Meals asks you to design robots for food systems. Robots are only the newest tool in a very old story. Before robots, humans invented digging sticks, baskets, irrigation canals, ploughs, terraces, granaries, crop rotation, animal power, mills, tractors, fertilizer, improved seeds, satellites, and sensors. Each tool changed what farmers could do.
 
@@ -22,7 +22,7 @@ Simple idea: farming is like a very old engineering project. People kept trying 
 ### Past
 Before agriculture, people got food by hunting, gathering, fishing, and moving with seasons. They had deep knowledge of plants, animals, weather, and landscapes, but they did not usually plant huge fields of one crop.
 
-After the last Ice Age, some communities began domesticating plants and animals. Domestication means changing a wild species over many generations so it becomes more useful to humans. People saved seeds from plants with useful traits: bigger seeds, sweeter fruits, less seed shattering, easier harvest, better taste, or more predictable growth. They also selected animals that were easier to manage, provided meat, milk, eggs, wool, labour, or transport.
+After the last Ice Age, some communities began domesticating plants and animals. **Domestication** means changing a wild species over many generations so it becomes more useful to humans. People saved seeds from plants with useful traits: bigger seeds, sweeter fruits, less seed shattering, easier harvest, better taste, or more predictable growth. They also selected animals that were easier to manage, provided meat, milk, eggs, wool, labour, or transport.
 
 Later, irrigation moved water to crops. Ploughs and animal power helped farm larger areas. Storage let people keep grain for later. These changes helped villages, towns, and cities grow because not everyone had to search for food every day.
 
@@ -56,7 +56,7 @@ Plants capture sunlight through photosynthesis, but farmers control many conditi
 
 Energy: sunlight powers plant growth, but farmers choose where and when crops grow. In modern controlled environments, people may add LED light.
 
-Water: crops need water at the right time. Too little water causes drought stress. Too much water can drown roots or spread disease. Irrigation is one of the oldest food-production infrastructures.
+Water: crops need water at the right time. Too little water causes drought stress. Too much water can drown roots or spread disease. **Irrigation** is one of the oldest food-production infrastructures.
 
 Nutrients: plants need nitrogen, phosphorus, potassium, and many other nutrients. Farmers may use manure, compost, crop rotation, mineral fertilizer, or nutrient solutions.
 
@@ -87,12 +87,12 @@ Mechanization means using tools and machines to make work easier, faster, or mor
 
 A hand hoe is mechanization. A plough pulled by an animal is mechanization. A tractor is mechanization. A seed drill is mechanization. A milking machine is mechanization. A harvesting robot is mechanization.
 
-Mechanization can reduce hard labour, help work happen at the right time, increase productivity, and make some jobs safer. But it can also be expensive, need fuel or electricity, require repair skills, compact soil, or replace certain jobs. Good mechanization must fit the farm size, crop, workers, soil, climate, and local economy.
+**Mechanization** can reduce hard labour, help work happen at the right time, increase productivity, and make some jobs safer. But it can also be expensive, need fuel or electricity, require repair skills, compact soil, or replace certain jobs. Good mechanization must fit the farm size, crop, workers, soil, climate, and local economy.
 
 For robotics, this is a powerful lesson. A robot is not automatically better because it is a robot. It must solve a real labour, safety, precision, timing, or reliability problem.
 
 ### 6. The Green Revolution Increased Yield
-The Green Revolution was a period of major agricultural yield increases in the 20th century, especially for staple grains such as wheat and rice. It involved improved crop varieties, irrigation, fertilizer, pest control, research institutions, extension services, and policy support.
+The **Green Revolution** was a period of major agricultural yield increases in the 20th century, especially for staple grains such as wheat and rice. It involved improved crop varieties, irrigation, fertilizer, pest control, research institutions, extension services, and policy support.
 
 One key idea was that some crop varieties could produce more grain if they had enough nutrients and water. Semi-dwarf wheat and rice varieties had shorter stems, which helped them put more energy into grain and reduced lodging. Lodging means plants fall over before harvest.
 
@@ -105,7 +105,7 @@ The Green Revolution helped reduce hunger in many places, but it also brought tr
 
 Water: high-yield crops often needed reliable irrigation. In some regions, groundwater was pumped faster than it could be replaced.
 
-Fertilizer: fertilizer helped plants grow, but overuse caused pollution and greenhouse gas emissions.
+**Fertilizer**: fertilizer helped plants grow, but overuse caused pollution and greenhouse gas emissions.
 
 Pesticides: pest control protected crops, but misuse harmed health, beneficial insects, and ecosystems. Pests can also evolve resistance.
 
@@ -116,7 +116,7 @@ Equity: farmers with land, irrigation, credit, and access to inputs benefited mo
 This is why future agriculture must learn from history. A successful tool can still create new problems if the whole system is ignored.
 
 ### 8. Productivity Means Output Per Input
-Yield is one kind of productivity: crop output per area of land. But agriculture has many inputs. A system can be productive per hectare but not productive per litre of water. It can be productive per worker but expensive per kilogram. It can produce many calories but not enough nutrients.
+**Yield** is one kind of productivity: crop output per area of land. But agriculture has many inputs. A system can be productive per hectare but not productive per litre of water. It can be productive per worker but expensive per kilogram. It can produce many calories but not enough nutrients.
 
 Useful productivity questions include:
 
@@ -288,46 +288,46 @@ Final check: explain one old farming tool and one modern farming tool using the 
 
 ## Core Terms
 
-### Agriculture
+### **Agriculture**
 The practice of growing plants, raising animals, or managing other living food sources.
 
-### Domestication
+### **Domestication**
 The long process of changing wild plants or animals so they become more useful to humans.
 
-### Domestication Syndrome
+### **Domestication Syndrome**
 A group of traits often found in domesticated species, such as larger edible parts or easier harvesting.
 
-### Irrigation
+### **Irrigation**
 Moving water to crops when rain is not enough or not reliable.
 
-### Yield
+### **Yield**
 The amount of crop produced from a certain area, such as kilograms per hectare.
 
-### Productivity
+### **Productivity**
 Useful output compared with input. Yield is productivity per land area, but productivity can also be measured per water, energy, worker, or dollar.
 
-### Staple Crop
+### **Staple Crop**
 A food that many people depend on for daily energy, such as rice, wheat, maize, potatoes, or cassava.
 
-### Green Revolution
+### **Green Revolution**
 A period of major agricultural yield increases in the 20th century, driven by improved varieties, fertilizer, irrigation, pest control, and supporting systems.
 
-### Semi-Dwarf Variety
+### **Semi-Dwarf Variety**
 A crop variety with shorter stems. In wheat and rice, this helped plants put more energy into grain and reduced falling over.
 
-### Fertilizer
+### **Fertilizer**
 A substance that adds nutrients for plant growth.
 
-### Mechanization
+### **Mechanization**
 Using tools or machines to make agricultural work easier, faster, safer, or more precise.
 
-### Monoculture
+### **Monoculture**
 Growing one main crop over a large area. It can be efficient but may increase risk if disease, pests, or weather affect that crop.
 
-### Biodiversity
+### **Biodiversity**
 The variety of living things in an area, including plants, animals, microbes, and genes.
 
-### Tradeoff
+### **Tradeoff**
 When a choice helps one thing but may make another thing harder.
 
 ## Student Thinking Tasks

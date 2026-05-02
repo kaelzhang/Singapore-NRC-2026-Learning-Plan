@@ -20,7 +20,7 @@ Future food is not one strange thing. It is a toolbox of many possible ways to m
 ## Past, Present, Future
 
 ### Past
-Humans have long used alternative protein ideas without calling them that. Soy foods, beans, lentils, mushrooms, seaweed, and fermented foods are old. Many cultures have also eaten insects. Fermentation has been used for bread, yoghurt, soy sauce, tempeh, cheese, kimchi, miso, and many other foods.
+Humans have long used alternative protein ideas without calling them that. Soy foods, beans, lentils, mushrooms, seaweed, and fermented foods are old. Many cultures have also eaten insects. **Fermentation** has been used for bread, yoghurt, soy sauce, tempeh, cheese, kimchi, miso, and many other foods.
 
 So future foods are not always completely new. Sometimes they are old biological processes combined with modern science, controlled equipment, and new food design.
 
@@ -305,43 +305,43 @@ The best thinking compares options instead of declaring one winner. A robot miss
 
 ## Core Terms
 
-### Alternative Protein
+### **Alternative Protein**
 Protein from sources other than conventional livestock or seafood systems.
 
-### Plant-Based Meat
+### **Plant-Based Meat**
 A food designed to resemble meat but made mainly from plant ingredients.
 
-### Amino Acid
+### **Amino Acid**
 A building block of protein.
 
-### Fermentation
+### **Fermentation**
 Using microorganisms to transform food or produce useful substances.
 
-### Precision Fermentation
+### **Precision Fermentation**
 Using microbes to produce a specific ingredient, often a protein or flavour molecule.
 
-### Biomass Fermentation
+### **Biomass Fermentation**
 Growing microorganisms so the microbial biomass itself becomes food.
 
-### Cultivated Meat
+### **Cultivated Meat**
 Meat grown from animal cells in controlled conditions rather than by raising and slaughtering an animal.
 
-### Cell Culture
+### **Cell Culture**
 Growing cells under controlled conditions.
 
-### Bioreactor
+### **Bioreactor**
 Controlled equipment where cells or microbes grow.
 
-### Novel Food
+### **Novel Food**
 A food without a long history of safe consumption, requiring safety assessment before sale in places such as Singapore.
 
-### Allergen
+### **Allergen**
 A substance that can trigger an allergic reaction in some people.
 
-### Scale-Up
+### **Scale-Up**
 Moving from small laboratory production to larger reliable production.
 
-### Consumer Acceptance
+### **Consumer Acceptance**
 Whether people are willing to buy, eat, and trust a food.
 
 ## Student Thinking Tasks

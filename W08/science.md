@@ -6,7 +6,7 @@ This student document contains the science and food-system knowledge for the wee
 Which farm jobs are hard for people, and how can robots help without pretending to be complete farmers?
 
 ## Why This Week Matters
-Many farm tasks are repetitive, time-sensitive, physically tiring, risky, or difficult to staff. NRC's Labour-Intensive Farming challenge area is about noticing these tasks and translating them into robot actions.
+Many farm tasks are repetitive, time-sensitive, physically tiring, risky, or difficult to staff. NRC's **Labour-Intensive** Farming challenge area is about noticing these tasks and translating them into robot actions.
 
 This week is about automation, but with realistic thinking. A robot is not magic. A useful agricultural robot must fit the crop, task, environment, people, cost, safety rules, and maintenance needs.
 
@@ -27,7 +27,7 @@ Some crops were easier to mechanize than others. Grains can often be harvested w
 ### Present
 Robots and automated machines can now use cameras, GPS, lasers, arms, grippers, wheels, tracks, conveyors, sprayers, and machine learning. Some systems target weeds. Some help with spraying. Some test harvesting, packing, milking, greenhouse tray movement, or transport.
 
-Automation is already common in some parts of agriculture, but not evenly. Some technologies work well in structured environments such as dairies, packing houses, and greenhouses. Open fields and delicate harvesting remain harder.
+**Automation** is already common in some parts of agriculture, but not evenly. Some technologies work well in structured environments such as dairies, packing houses, and greenhouses. Open fields and delicate harvesting remain harder.
 
 ### Future
 Future agricultural robots may become smaller, safer, more modular, easier to repair, better at working near plants and people, and better at sharing data with farm systems. Big research problems remain: recognizing crops in messy environments, gripping without damage, moving on uneven ground, working in rain or dust, and making systems affordable.
@@ -52,7 +52,7 @@ A labour-intensive task needs a lot of human time or physical effort. Examples i
 These jobs can be tiring because they repeat thousands of times. They can also be time-sensitive. A ripe fruit may need harvesting soon. A weed may need removal before it competes with the crop. A disease may need detection before it spreads.
 
 ### 2. Ergonomics Matters
-Ergonomics is the study of how people interact with tasks, tools, and workplaces. Some farm work involves bending, lifting, twisting, kneeling, carrying, or working in heat. These movements can be tiring or harmful over time.
+**Ergonomics** is the study of how people interact with tasks, tools, and workplaces. Some farm work involves bending, lifting, twisting, kneeling, carrying, or working in heat. These movements can be tiring or harmful over time.
 
 A robot or machine can help by reducing heavy lifting, repetitive motion, or dangerous exposure. But a poorly designed machine can create new ergonomic problems if workers must constantly fix jams, lift heavy batteries, or monitor confusing screens.
 
@@ -79,21 +79,21 @@ The action part often depends on the end-effector, which you will study deeply i
 If one ability is weak, the whole robot may fail. A great gripper is useless if the robot cannot find the fruit. A great camera is not enough if the robot cannot reach the object. A strong drive base is not enough if the tool damages the crop.
 
 ### 5. Perception Is Hard In Living Environments
-Perception means understanding the world from sensor data. A farm robot might need to recognize crops, weeds, ripe fruit, unripe fruit, disease spots, rows, obstacles, humans, animals, and tools.
+**Perception** means understanding the world from sensor data. A farm robot might need to recognize crops, weeds, ripe fruit, unripe fruit, disease spots, rows, obstacles, humans, animals, and tools.
 
 Living environments are difficult for perception because they change. Leaves move. Shadows shift. Fruit overlaps. Mud covers objects. Plants grow. Different varieties look different. A disease may look similar to nutrient stress.
 
 Machine learning can help, but it needs many examples and careful testing. A robot trained in one farm may not work perfectly in another.
 
 ### 6. Navigation Depends On Terrain And Structure
-Navigation means finding and following a path. Agricultural robots may use GPS, cameras, lidar, wheel encoders, inertial sensors, row-following, markers, or maps.
+**Navigation** means finding and following a path. Agricultural robots may use GPS, cameras, lidar, wheel encoders, inertial sensors, row-following, markers, or maps.
 
 Open fields can be uneven, slippery, muddy, dusty, or full of crop residues. Greenhouses have narrower aisles and more structure. Warehouses and packing houses are even more structured.
 
 In NRC, the mat is flat, but navigation still matters. Your robot must start accurately, drive straight enough, turn repeatably, align with mission models, and recover from small errors.
 
 ### 7. Manipulation Means Touching The World
-Manipulation is using a tool to interact with objects. In agriculture, manipulation can mean picking fruit, cutting stems, pulling weeds, spraying leaves, lifting trays, moving crates, or sorting produce.
+**Manipulation** is using a tool to interact with objects. In agriculture, manipulation can mean picking fruit, cutting stems, pulling weeds, spraying leaves, lifting trays, moving crates, or sorting produce.
 
 Manipulation is hard when objects are delicate. A tomato, strawberry, mushroom, leafy green, egg, or fish product can be damaged by too much force. A crate is easier because it is rigid and designed for handling.
 
@@ -216,7 +216,7 @@ A robot may need different speeds: fast travel in open space, slow approach near
 This is a useful programming idea. One speed for everything is rarely best.
 
 ### Modular Tools Help Farm Robots
-A modular robot can swap tools. One tool might push crates. Another might grip trays. Another might sweep small objects. Modularity is useful because farms have many tasks.
+A modular robot can swap tools. One tool might push crates. Another might grip trays. Another might sweep small objects. **Modularity** is useful because farms have many tasks.
 
 But modularity has costs. Tool changes take time. Interfaces must be strong and easy to align. Extra parts can add weight. A modular system should be simple enough to use.
 
@@ -334,46 +334,46 @@ Final check: describe the farm task before describing the robot. A clear task te
 
 ## Core Terms
 
-### Automation
+### **Automation**
 Using machines or control systems to perform tasks with less direct human effort.
 
-### Agricultural Robot
+### **Agricultural Robot**
 A robot designed for farming, harvesting, monitoring, handling, or other agrifood tasks.
 
-### Labour-Intensive
+### **Labour-Intensive**
 Requiring a lot of human work, time, or physical effort.
 
-### Ergonomics
+### **Ergonomics**
 The study of how tasks, tools, and workplaces affect human comfort, safety, and performance.
 
-### Perception
+### **Perception**
 A robot's ability to understand the world from sensors.
 
-### Navigation
+### **Navigation**
 How a robot finds and follows a path.
 
-### Manipulation
+### **Manipulation**
 Using a tool or mechanism to interact with objects.
 
-### End-Effector
+### **End-Effector**
 The tool at the working end of a robot, such as a gripper, cutter, sprayer, or pusher.
 
-### Machine Learning
+### **Machine Learning**
 A way for computers to improve pattern recognition from data and examples.
 
-### Payload
+### **Payload**
 The amount of weight a robot can carry or handle.
 
-### Safety Zone
+### **Safety Zone**
 The space a robot must respect so it does not harm people, crops, or equipment.
 
-### Return On Investment
+### **Return On Investment**
 A comparison between the benefit of a tool and its cost.
 
-### Modularity
+### **Modularity**
 Designing parts so they can be swapped, repaired, or reused more easily.
 
-### Human-Robot Collaboration
+### **Human-Robot Collaboration**
 Humans and robots working in connected roles rather than pretending the robot does everything alone.
 
 ## Student Thinking Tasks

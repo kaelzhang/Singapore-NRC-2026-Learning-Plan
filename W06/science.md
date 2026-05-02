@@ -6,14 +6,14 @@ This student document contains the science and food-system knowledge for the wee
 Can people grow food indoors, in cities, and even in stacked layers?
 
 ## Why This Week Matters
-Singapore has limited land. Controlled Environment Agriculture, or CEA, is one way to grow selected crops in smaller spaces by controlling light, water, temperature, humidity, airflow, and nutrients.
+Singapore has limited land. **Controlled Environment Agriculture**, or CEA, is one way to grow selected crops in smaller spaces by controlling light, water, temperature, humidity, airflow, and nutrients.
 
 This week connects plant science to urban farming technology. W05 explained what plants need. W06 asks how humans can build systems that provide those needs in a controlled way.
 
 CEA is important for Mission Meals because it turns food production into an engineered environment. A robot may move trays, check sensors, deliver resources, sort plants, or model a farm station. To make that meaningful, you need to understand what the farm is controlling.
 
 ## The One-Minute Idea
-Controlled Environment Agriculture means growing plants in a managed space such as a greenhouse, indoor farm, or plant factory. Vertical farming stacks growing layers upward. Hydroponics grows plants without soil. These systems can save land and sometimes water, but they may need electricity, skilled operators, careful monitoring, cleaning, and repair.
+Controlled Environment Agriculture means growing plants in a managed space such as a greenhouse, indoor farm, or plant factory. Vertical farming stacks growing layers upward. **Hydroponics** grows plants without soil. These systems can save land and sometimes water, but they may need electricity, skilled operators, careful monitoring, cleaning, and repair.
 
 Simple idea: CEA is like making a special room for plants where people manage the weather, water, food, and light.
 
@@ -66,9 +66,9 @@ Vertical farming is strongest for certain crops, especially fast-growing, high-v
 ### 4. Hydroponics, Aeroponics, And Aquaponics Are Root-Zone Designs
 Hydroponics gives roots water with dissolved nutrients. The roots may sit in flowing water, a nutrient film, deep water, or a support medium such as rockwool, coco coir, or clay pellets.
 
-Aeroponics hangs roots in air and mists them with nutrient solution. This can give roots oxygen, but it needs reliable misting. If the mist stops, roots can dry quickly.
+**Aeroponics** hangs roots in air and mists them with nutrient solution. This can give roots oxygen, but it needs reliable misting. If the mist stops, roots can dry quickly.
 
-Aquaponics links fish and plants. Fish waste contains nutrients that can support plant growth after microbes transform the waste into plant-usable forms. The system must keep fish, plants, and microbes healthy at the same time.
+**Aquaponics** links fish and plants. Fish waste contains nutrients that can support plant growth after microbes transform the waste into plant-usable forms. The system must keep fish, plants, and microbes healthy at the same time.
 
 These systems all need balance. The root zone needs water, nutrients, oxygen, suitable pH, suitable temperature, and cleanliness.
 
@@ -102,7 +102,7 @@ But recycling water means problems can also recycle. If pathogens enter the syst
 Good water management includes monitoring, filtration, cleaning, nutrient adjustment, and sometimes disinfection. This is why sensor data and maintenance matter.
 
 ### 8. Biosecurity And Cleanliness Matter
-Biosecurity means preventing harmful organisms from entering or spreading in a production system. In CEA, pests and diseases can still appear. Workers, tools, water, seeds, air, and plant material can carry problems.
+**Biosecurity** means preventing harmful organisms from entering or spreading in a production system. In CEA, pests and diseases can still appear. Workers, tools, water, seeds, air, and plant material can carry problems.
 
 Indoor systems can be protected, but once a pest or disease enters, dense plant spacing can let it spread. Clean benches, footbaths, tool cleaning, pest screens, careful seedling sources, and monitoring can help.
 
@@ -284,46 +284,46 @@ Final check: name one condition an indoor farm controls, one tool used to contro
 
 ## Core Terms
 
-### Controlled Environment Agriculture
+### **Controlled Environment Agriculture**
 Growing plants in a managed environment where conditions such as light, temperature, humidity, airflow, water, and nutrients are controlled.
 
-### Greenhouse
+### **Greenhouse**
 A structure that protects plants while allowing sunlight in and climate control.
 
-### Plant Factory
+### **Plant Factory**
 An indoor growing facility that uses high control, often with artificial lighting and stacked layers.
 
-### Vertical Farming
+### **Vertical Farming**
 Growing crops in stacked layers to use vertical space.
 
-### Hydroponics
+### **Hydroponics**
 Growing plants without soil by giving roots water with dissolved nutrients.
 
-### Aeroponics
+### **Aeroponics**
 Growing plants with roots hanging in air and misted with nutrient solution.
 
-### Aquaponics
+### **Aquaponics**
 A system that links fish farming and plant growing, using fish waste nutrients for plants after microbial processing.
 
-### Root Zone
+### **Root Zone**
 The area around plant roots where water, oxygen, nutrients, and microbes interact.
 
-### Light Recipe
+### **Light Recipe**
 A planned combination of light spectrum, intensity, and timing for plant growth.
 
-### Climate Control
+### **Climate Control**
 Managing temperature, humidity, airflow, and sometimes carbon dioxide.
 
-### Biosecurity
+### **Biosecurity**
 Actions that reduce the risk of pests, diseases, or contamination entering and spreading.
 
-### Recirculation
+### **Recirculation**
 Reusing water or nutrient solution inside a system.
 
-### Energy Efficiency
+### **Energy Efficiency**
 How much useful output is gained from each unit of energy.
 
-### Tradeoff
+### **Tradeoff**
 A choice where improving one goal may make another goal harder.
 
 ## Student Thinking Tasks

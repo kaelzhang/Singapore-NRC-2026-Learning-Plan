@@ -13,7 +13,7 @@ Robots also need this idea. A good robot does not act blindly. It senses, decide
 This week helps you connect sensors, data quality, mapping, computer vision, drones, satellites, and robot decisions.
 
 ## The One-Minute Idea
-Precision agriculture uses sensors, maps, GPS, drones, cameras, satellites, and data to treat different places differently. The goal is to use the right input, in the right place, at the right time.
+Precision agriculture uses sensors, maps, **GPS**, drones, cameras, satellites, and data to treat different places differently. The goal is to use the right input, in the right place, at the right time.
 
 Instead of giving every plant the same help, precision agriculture asks, "What does this plant or place need?" Then it tries to help only where help is needed.
 
@@ -65,7 +65,7 @@ color sensor sees red -> program chooses route A -> robot moves object -> team c
 ```
 
 ### 3. GPS And GNSS Give Location
-Precision agriculture often needs location. If a sensor says soil is dry, the farmer must know where. GPS is one satellite-based navigation system. GNSS is a wider term for global navigation satellite systems.
+Precision agriculture often needs location. If a sensor says soil is dry, the farmer must know where. GPS is one satellite-based navigation system. **GNSS** is a wider term for global navigation satellite systems.
 
 [GPS.gov's precision agriculture page](https://www.gps.gov/index.php/precision-agriculture-gps) explains how position information supports mapping, guidance, and site-specific farming. A tractor can follow rows more accurately. A sprayer can apply inputs in mapped zones. A yield monitor can record where harvest was strong or weak.
 
@@ -79,7 +79,7 @@ A normal camera sees visible light. Multispectral cameras see several bands of l
 Remote sensing can show crop vigour, water stress, disease patterns, storm damage, or uneven growth. But it does not explain everything by itself. A farmer may still need to inspect the field to find the cause.
 
 ### 5. Vegetation Indices Are Plant Clues
-A vegetation index is a number calculated from reflected light. One well-known index is NDVI, the Normalized Difference Vegetation Index. You do not need to memorize the formula, but you should understand the idea: compare different light bands to estimate plant greenness or vigour.
+A vegetation index is a number calculated from reflected light. One well-known index is **NDVI**, the Normalized Difference **Vegetation Index**. You do not need to memorize the formula, but you should understand the idea: compare different light bands to estimate plant greenness or vigour.
 
 An index is not a diagnosis. Low NDVI might mean drought, disease, nutrient shortage, soil problem, pest damage, or simply bare soil. The index says, "Look here." It does not always say, "This is the exact cause."
 
@@ -180,7 +180,7 @@ A sensor can be precise but inaccurate. Imagine a scale that always says your ba
 
 A sensor can be accurate on average but not precise. Imagine a reading that jumps above and below the true value.
 
-Calibration helps improve trust. Calibration means checking and adjusting a sensor using a known standard.
+**Calibration** helps improve trust. Calibration means checking and adjusting a sensor using a known standard.
 
 ### Spatial Resolution And Temporal Resolution
 Spatial resolution means how much detail you can see in space. A satellite image may cover a huge area but with less detail than a drone image. A close camera may see one plant with high detail.
@@ -197,7 +197,7 @@ Machine learning also needs ground truth. If an image is labelled "weed," someon
 For an NRC robot, ground truth is your test observation. If the program says it turned 90 degrees, check whether the robot actually turned correctly.
 
 ### Sensor Fusion
-Sensor fusion means combining data from more than one sensor. A farm robot might combine camera images, GPS, wheel odometry, and lidar. A greenhouse might combine temperature, humidity, light, and CO2 data.
+**Sensor** fusion means combining data from more than one sensor. A farm robot might combine camera images, GPS, wheel odometry, and lidar. A greenhouse might combine temperature, humidity, light, and CO2 data.
 
 Combining sensors can improve decisions, but it can also add complexity. If sensors disagree, the system must decide which one to trust.
 
@@ -335,46 +335,46 @@ Final check: name the measurement, the decision, and the action.
 
 ## Core Terms
 
-### Precision Agriculture
+### **Precision Agriculture**
 Farm management that uses data to observe, measure, and respond to differences in fields, crops, or animals.
 
-### Sensor
+### **Sensor**
 A device that measures something in the world.
 
-### GPS
+### **GPS**
 A satellite-based system that helps locate a position on Earth.
 
-### GNSS
+### **GNSS**
 A broader term for global navigation satellite systems, including GPS and other systems.
 
-### Remote Sensing
+### **Remote Sensing**
 Collecting information from a distance, often using satellites, drones, or cameras.
 
-### Multispectral Imaging
+### **Multispectral Imaging**
 Using cameras that see several bands of light, including light humans cannot see.
 
-### Vegetation Index
+### **Vegetation Index**
 A number calculated from reflected light to estimate plant condition.
 
-### NDVI
+### **NDVI**
 A common vegetation index that compares red and near-infrared light to estimate plant greenness or vigour.
 
-### Variable Rate Application
+### **Variable Rate Application**
 Applying different amounts of input in different places.
 
-### Computer Vision
+### **Computer Vision**
 A technology that helps computers interpret images.
 
-### Machine Learning
+### **Machine Learning**
 A way for computers to learn patterns from examples.
 
-### Data Quality
+### **Data Quality**
 How accurate, reliable, complete, recent, and useful data is for making decisions.
 
-### Calibration
+### **Calibration**
 Adjusting or checking a sensor so its measurements are trustworthy.
 
-### Targeted Action
+### **Targeted Action**
 Doing the right action in the right place instead of treating everything the same.
 
 ## Student Thinking Tasks

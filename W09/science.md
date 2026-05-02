@@ -60,7 +60,7 @@ A narrow finger pressing on a tomato can make a dent because the force is concen
 For Mission Meals, even if the game object is strong, imagine the real food behind it. If the real object is an egg, mushroom, leafy green, or soft fruit, design the model tool with gentle handling in mind.
 
 ### 3. Friction Can Help Or Hurt
-Friction is a force that resists sliding. A gripper often needs friction so an object does not slip. Rubber parts can increase grip. Smooth plastic may slip more easily.
+**Friction** is a force that resists sliding. A gripper often needs friction so an object does not slip. Rubber parts can increase grip. Smooth plastic may slip more easily.
 
 But too much friction can make release difficult. A sticky tool may drag the object instead of letting it go. A high-friction surface may catch on the mat or nearby mission models.
 
@@ -103,7 +103,7 @@ If a mechanism makes lifting easier, it may move more slowly or require a longer
 This is a core engineering idea: every helpful mechanism has a cost. Good design chooses the tradeoff that fits the mission.
 
 ### 8. Compliance Helps With Fragile Objects
-Compliance means a tool can bend, flex, or give a little. A rigid tool may crush delicate items. A slightly flexible tool can be gentler and more forgiving.
+**Compliance** means a tool can bend, flex, or give a little. A rigid tool may crush delicate items. A slightly flexible tool can be gentler and more forgiving.
 
 Soft grippers, rubber bands, springy beams, foam pads, and flexible fingers can add compliance. Compliance can also help when object positions vary slightly. The tool can adjust instead of jamming.
 
@@ -327,46 +327,46 @@ Final check: pick one mission object and describe its shape, weight, surface, fr
 
 ## Core Terms
 
-### End-Effector
+### **End-Effector**
 The tool at the working end of a robot.
 
-### Gripper
+### **Gripper**
 A tool that holds an object, often using fingers, claws, suction, or soft material.
 
-### Lever
+### **Lever**
 A bar that turns around a pivot to move or lift something.
 
-### Pivot
+### **Pivot**
 The point around which a lever or arm rotates.
 
-### Gear Ratio
+### **Gear Ratio**
 The relationship between gear sizes that changes speed and torque.
 
-### Torque
+### **Torque**
 Turning force.
 
-### Mechanical Advantage
+### **Mechanical Advantage**
 A machine's ability to multiply force by trading distance or speed.
 
-### Compliance
+### **Compliance**
 The ability of a tool or material to flex instead of staying completely rigid.
 
-### Contact Area
+### **Contact Area**
 The area where a tool touches an object. Larger contact area can reduce pressure.
 
-### Friction
+### **Friction**
 A force that resists sliding between surfaces.
 
-### Centre Of Mass
+### **Centre Of Mass**
 The balance point of an object.
 
-### Degree Of Freedom
+### **Degree Of Freedom**
 One independent way a mechanism can move.
 
-### Passive Tool
+### **Passive Tool**
 A tool that works through shape and robot motion without its own motor.
 
-### Modular Interface
+### **Modular Interface**
 A standard connection that lets different parts attach and detach reliably.
 
 ## Student Thinking Tasks

@@ -36,7 +36,7 @@ A historical lesson is that food security changes when a society changes. A vill
 ### Present
 Singapore's Food Story 2 uses four pillars: import diversification, growing local, stockpiling, and global partnerships. The [MSE parliamentary reply on revised production targets](https://www.mse.gov.sg/latest-news/oral-reply-to-parliamentary-question-on-revised-local-production-targets/) explains that local production is one pillar, supported by the other pillars.
 
-The 2035 local production targets focus on 20% of local fibre consumption and 30% of local protein consumption. In this context, "fibre" refers to selected plant foods such as leafy vegetables, fruited vegetables, beansprouts, and mushrooms. "Protein" refers mainly to eggs and seafood in the revised target framing.
+The 2035 local production targets focus on 20% of local fibre consumption and 30% of local protein consumption. In this context, "fibre" refers to selected plant foods such as leafy vegetables, fruited vegetables, beansprouts, and mushrooms. "**Protein**" refers mainly to eggs and seafood in the revised target framing.
 
 This is a practical choice. Rice, poultry, beef, and many other foods are difficult to produce locally at large scale because of land, feed, water, climate, cost, disease control, and energy. Singapore does not aim to grow everything. It aims to strengthen important parts of the food system while staying connected to global trade.
 
@@ -86,7 +86,7 @@ But every technology has tradeoffs. Indoor farms may use more electricity. High-
 ### 4. Stockpiling Buys Time
 Some foods can be stored. Rice, canned food, frozen proteins, and other essentials can help during temporary disruptions. A stockpile does not solve every problem, but it gives the system time to respond.
 
-Stockpiling is more complicated than simply keeping a pile of food. Food has shelf life. Some food needs cool or dry storage. Stocks must rotate so old food is used before it expires. Storage uses space and money. Too little stock is risky, but too much stock can waste resources.
+**Stockpiling** is more complicated than simply keeping a pile of food. Food has shelf life. Some food needs cool or dry storage. Stocks must rotate so old food is used before it expires. Storage uses space and money. Too little stock is risky, but too much stock can waste resources.
 
 A stockpile is like keeping extra batteries for a toy. The batteries do not make the toy better every day, but they help when the current batteries run out.
 
@@ -119,7 +119,7 @@ Urban food resilience must think about:
 This is why Singapore's food story is not only about farms. It is also about logistics, safety, trade, energy, waste, and behaviour.
 
 ### 7. Fibre And Protein Are More Than Words In A Target
-Fibre is a nutrient found in plant foods. It helps digestion and is usually part of vegetables, fruits, legumes, mushrooms, and whole grains. In Singapore's revised local production target, fibre is used as a practical category for selected locally grown plant foods, especially vegetables and related produce.
+**Fibre** is a nutrient found in plant foods. It helps digestion and is usually part of vegetables, fruits, legumes, mushrooms, and whole grains. In Singapore's revised local production target, fibre is used as a practical category for selected locally grown plant foods, especially vegetables and related produce.
 
 Protein is a nutrient the body uses for growth, repair, muscles, enzymes, and many body functions. In the revised target context, local protein focuses on foods such as eggs and seafood. Different protein foods have different production needs. Eggs need feed, animal care, housing, disease control, and safe handling. Fish need water quality, oxygen, feed, and disease control.
 
@@ -188,7 +188,7 @@ This is a key systems lesson: local production does not mean completely independ
 A robot model could represent egg handling with gentle lifting, stable carrying, or sorting damaged and safe items. End-effector design becomes important because too much force can break the object.
 
 ### Case Study: Seafood And Aquaculture
-Seafood is important in Singapore's protein picture. Aquaculture means farming aquatic organisms such as fish or shrimp. Fish farms can be coastal, offshore, land-based, or recirculating systems. Each system has different risks.
+Seafood is important in Singapore's protein picture. **Aquaculture** means farming aquatic organisms such as fish or shrimp. Fish farms can be coastal, offshore, land-based, or recirculating systems. Each system has different risks.
 
 Fish need oxygen, clean water, suitable temperature, good feed, disease control, and careful stocking density. Poor water quality can stress fish. Disease can spread quickly. Storms, algae blooms, and heat can affect production.
 
@@ -302,40 +302,40 @@ When you translate this into robotics, avoid one-action thinking. A robot that s
 
 ## Core Terms
 
-### Food Resilience
+### **Food Resilience**
 The ability of a food system to keep working during disruptions.
 
-### Import Diversification
+### **Import Diversification**
 Getting food from many sources instead of depending too much on one source.
 
-### Local Production
+### **Local Production**
 Food grown or produced inside the country.
 
-### Buffer
+### **Buffer**
 A protective backup that reduces the effect of a disruption. Local production can be a buffer, and stockpiles can also be a buffer.
 
-### Stockpiling
+### **Stockpiling**
 Keeping a reserve of important food so the system has backup during disruptions.
 
-### Global Partnership
+### **Global Partnership**
 Cooperation with other countries, companies, researchers, or organizations to keep food supply stable and safe.
 
-### Urban Food Resilience
+### **Urban Food Resilience**
 The ability of a city food system to keep people fed safely despite limited land, high demand, and supply disruptions.
 
-### Fibre
+### **Fibre**
 A plant-based nutrient that helps digestion. In Singapore's revised food targets, this refers to selected plant foods such as vegetables, beansprouts, and mushrooms.
 
-### Protein
+### **Protein**
 A nutrient the body uses to build and repair tissues. In Singapore's revised targets, this mainly refers to eggs and seafood.
 
-### Novel Food
+### **Novel Food**
 A food without a long history of being eaten safely in that form. It needs safety assessment before sale.
 
-### Aquaculture
+### **Aquaculture**
 Farming aquatic organisms such as fish, shrimp, or shellfish. In Singapore's context, aquaculture can support local protein production.
 
-### Controlled Environment
+### **Controlled Environment**
 A growing space where humans control conditions such as temperature, water, light, humidity, and nutrients.
 
 ## Student Thinking Tasks

@@ -11,7 +11,7 @@ In robotics competitions, one successful run is not enough. A team needs evidenc
 Food systems also need reliability. A cold chain cannot work only once. A warehouse cannot sort correctly only once. A farm sensor cannot be trusted only on perfect days. Testing is the bridge between a good idea and a dependable system.
 
 ## The One-Minute Idea
-Testing means trying a system in a planned way. Reliability means it works repeatedly. Debugging means finding and fixing the cause of failure. Evidence means records that show what happened.
+Testing means trying a system in a planned way. **Reliability** means it works repeatedly. Debugging means finding and fixing the cause of failure. **Evidence** means records that show what happened.
 
 If your robot works once, say "interesting." If it works 10 times with records, say "we have evidence."
 
@@ -134,7 +134,7 @@ Food systems also test reliability. A cold chain uses temperature logs. A farm t
 Testing is not only a robotics habit. It is how real food systems protect people.
 
 ### 11. Version Control For Students
-Version control means knowing what changed. You can use simple version names:
+**Version** control means knowing what changed. You can use simple version names:
 
 ```text
 Gripper V1: two-finger claw
@@ -211,7 +211,7 @@ Checklists are not childish. They are professional.
 ### Sensor Calibration Tests
 A sensor calibration test checks whether sensor readings are trustworthy. For a colour sensor, test readings under competition lighting. For a distance sensor, test known distances. For motor rotation, test whether 360 degrees moves the expected distance.
 
-Calibration should be recorded. If readings drift, the program may need thresholds adjusted.
+**Calibration** should be recorded. If readings drift, the program may need thresholds adjusted.
 
 ### Failure Analysis: Five Whys
 Five Whys is a simple root-cause method. Ask why repeatedly.
@@ -400,40 +400,40 @@ The goal is not perfection. The goal is a system that can be understood, tested,
 
 ## Core Terms
 
-### Test Plan
+### **Test Plan**
 A planned set of checks that answers a clear question.
 
-### Reliability
+### **Reliability**
 How consistently a system works over repeated trials.
 
-### Variable
+### **Variable**
 Something that can change, such as speed, angle, or start position.
 
-### Control
+### **Control**
 Something kept the same during a test.
 
-### Success Criteria
+### **Success Criteria**
 The rules that define whether a test passed.
 
-### Failure Mode
+### **Failure Mode**
 A specific way a system fails.
 
-### Root Cause
+### **Root Cause**
 The deeper reason a failure happens.
 
-### Iteration
+### **Iteration**
 One cycle of improving a design.
 
-### Evidence
+### **Evidence**
 Recorded information that supports a claim.
 
-### Calibration
+### **Calibration**
 Checking or adjusting a sensor or system so measurements are trustworthy.
 
-### Version
+### **Version**
 A named stage of a design or program.
 
-### Stop Rule
+### **Stop Rule**
 A rule that tells the team when to stop changing and move on.
 
 ## Student Thinking Tasks

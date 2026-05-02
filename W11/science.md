@@ -69,7 +69,7 @@ When food is wasted, the system also wastes:
 Food waste is therefore not only a bin problem. It is a hidden resource problem. The waste bin is the last place where the problem becomes visible.
 
 ### 3. Food Waste Has Climate Effects
-Food waste can contribute to greenhouse gas emissions in several ways. Producing food uses energy, land, fertilizer, and transport. If wasted food goes to landfill, it can produce methane as it breaks down without oxygen. Methane is a powerful greenhouse gas.
+Food waste can contribute to greenhouse gas emissions in several ways. Producing food uses energy, land, fertilizer, and transport. If wasted food goes to landfill, it can produce methane as it breaks down without oxygen. **Methane** is a powerful greenhouse gas.
 
 Reducing food loss and waste can therefore help climate goals, food security, and resource efficiency at the same time.
 
@@ -92,7 +92,7 @@ Circular does not mean everything is automatically safe to reuse. Food safety an
 ### 5. The Wasted Food Scale Puts Prevention First
 The [EPA Wasted Food Scale](https://www.epa.gov/sustainable-management-food/food-recovery-hierarchy) ranks actions from more preferred to less preferred. The most preferred actions keep food for its intended purpose: feeding people.
 
-Prevention is usually best because it avoids wasting resources in the first place. Donation or redistribution can help when safe edible food is surplus. Upcycling can create products from by-products. Composting and anaerobic digestion can recover value from material that cannot feed people. Landfilling and sending food down drains are least preferred.
+Prevention is usually best because it avoids wasting resources in the first place. Donation or redistribution can help when safe edible food is surplus. **Upcycling** can create products from by-products. **Composting** and anaerobic digestion can recover value from material that cannot feed people. Landfilling and sending food down drains are least preferred.
 
 For students: composting is useful, but preventing edible food waste is usually better.
 
@@ -208,7 +208,7 @@ For each surplus or waste item, ask the best next use:
 This is circular thinking. It keeps value high for as long as possible.
 
 ### Sorting Contamination
-Contamination makes recovery harder. Plastic in food scraps can ruin compost. Food mixed with chemicals may be unsafe. Allergen mixing can make donated food risky. Packaging stuck to food can make processing harder.
+**Contamination** makes recovery harder. Plastic in food scraps can ruin compost. Food mixed with chemicals may be unsafe. Allergen mixing can make donated food risky. Packaging stuck to food can make processing harder.
 
 Robots and humans both need sorting systems. Labels, bins, colours, sensors, and training help. But systems must be simple enough for people to use correctly.
 
@@ -351,43 +351,43 @@ Final check: before choosing compost, ask whether the item could have been preve
  Also explain which resources are being protected: food, water, energy, labour, packaging, transport, and money.
 ## Core Terms
 
-### Food Loss
+### **Food Loss**
 Food that is lost before it reaches shops or consumers.
 
-### Food Waste
+### **Food Waste**
 Food that is thrown away at retail, food service, or household stages.
 
-### Circular Economy
+### **Circular Economy**
 A system that keeps materials useful and reduces waste.
 
-### Upcycling
+### **Upcycling**
 Turning a lower-value material or by-product into a useful product.
 
-### Food Rescue
+### **Food Rescue**
 Redirecting safe edible surplus food to people instead of waste.
 
-### Composting
+### **Composting**
 A controlled process where organic material breaks down with oxygen into compost.
 
-### Anaerobic Digestion
+### **Anaerobic Digestion**
 Breaking down organic material without oxygen to produce biogas and digestate.
 
-### Waste Hierarchy
+### **Waste Hierarchy**
 A ranking of actions: prevent first, then reuse or redistribute, recycle or recover, and dispose last.
 
-### Contamination
+### **Contamination**
 When unwanted material makes food or waste streams unsafe or hard to reuse.
 
-### Methane
+### **Methane**
 A greenhouse gas that can be produced when organic material breaks down without oxygen.
 
-### Shelf Life
+### **Shelf Life**
 How long food keeps acceptable safety and quality under certain storage conditions.
 
-### Surplus
+### **Surplus**
 Extra food beyond what is needed or sold.
 
-### By-Product
+### **By-Product**
 Material left from making another product that may still have value.
 
 ## Student Thinking Tasks

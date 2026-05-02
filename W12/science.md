@@ -25,21 +25,21 @@ Traditional knowledge often included careful observation of clouds, winds, soil 
 ### Present
 FAO and WMO warn that extreme heat is a major and growing threat to agrifood systems. Heat affects crops, livestock, aquaculture, forests, and workers. Climate shocks can also combine with conflict, prices, pests, disease, and supply-chain problems.
 
-Climate risk is already a food-security issue. A heat wave can lower yields. Drought can reduce water supply. Floods can damage crops and contaminate water. Storms can block roads and ports. Marine heat waves can affect fisheries and aquaculture.
+Climate risk is already a food-security issue. A heat wave can lower yields. **Drought** can reduce water supply. Floods can damage crops and contaminate water. Storms can block roads and ports. Marine heat waves can affect fisheries and aquaculture.
 
 ### Future
 Future resilience may use heat-tolerant crops, improved irrigation, shade systems, early-warning services, climate data, protected cultivation, crop diversity, cooler logistics, emergency stockpiles, insurance, and better water governance. But adaptation has limits if warming continues to increase.
 
-Future food systems will need both adaptation and mitigation. Adaptation helps systems cope with climate impacts. Mitigation reduces greenhouse gas emissions or increases carbon storage to slow climate change.
+Future food systems will need both adaptation and mitigation. **Adaptation** helps systems cope with climate impacts. **Mitigation** reduces greenhouse gas emissions or increases carbon storage to slow climate change.
 
 ## Deep Explanation
 
 ### 1. Climate Risk Is Hazard Plus Exposure Plus Vulnerability
 A hazard is a dangerous climate event, such as heat, drought, flood, storm, or sea-level rise.
 
-Exposure means people, crops, animals, infrastructure, or supply routes are in the place where the hazard happens.
+**Exposure** means people, crops, animals, infrastructure, or supply routes are in the place where the hazard happens.
 
-Vulnerability means how easily they can be harmed. A crop with no irrigation may be more vulnerable to drought. A worker without shade may be more vulnerable to heat. A city depending on one import route may be more vulnerable to transport disruption.
+**Vulnerability** means how easily they can be harmed. A crop with no irrigation may be more vulnerable to drought. A worker without shade may be more vulnerable to heat. A city depending on one import route may be more vulnerable to transport disruption.
 
 Risk becomes high when hazard, exposure, and vulnerability combine.
 
@@ -134,7 +134,7 @@ Heat warning mission: a robot reads a heat marker and moves crops to shade. Scie
 
 Water stress mission: a robot delivers water only to drought-stress zones. Science idea: water timing and targeting matter.
 
-Flood safety mission: a robot separates contaminated flood-zone food from safe food. Science idea: climate events can create food safety risks.
+**Flood** safety mission: a robot separates contaminated flood-zone food from safe food. Science idea: climate events can create food safety risks.
 
 Backup route mission: a robot chooses an alternate delivery path after a blocked route. Science idea: resilient logistics needs backup.
 
@@ -155,7 +155,7 @@ A compound event happens when multiple hazards or stresses combine. Heat plus dr
 
 Food systems are vulnerable to compound events because production, logistics, and access are connected. A single shock is hard. Several shocks at once can overwhelm backup plans.
 
-Resilience planning should ask: what if two things go wrong together?
+**Resilience** planning should ask: what if two things go wrong together?
 
 ### Heat And Photosynthesis
 Photosynthesis depends on enzymes and leaf gas exchange. Heat can disturb both. If temperatures are too high, photosynthesis may slow while respiration continues. The plant may use more energy just to stay alive.
@@ -334,46 +334,46 @@ Final check: name the climate shock, the weak part of the system, the backup act
  Also explain how people, crops, storage, transport, and energy can be affected together.
 ## Core Terms
 
-### Climate Risk
+### **Climate Risk**
 The chance that climate conditions will harm people, ecosystems, or systems.
 
-### Hazard
+### **Hazard**
 A potentially damaging event, such as heat, drought, flood, storm, or wildfire.
 
-### Exposure
+### **Exposure**
 Being in the place or situation where a hazard can cause harm.
 
-### Vulnerability
+### **Vulnerability**
 How easily a person, crop, animal, or system can be harmed.
 
-### Extreme Heat
+### **Extreme Heat**
 Very high temperatures that can harm health, crops, animals, or infrastructure.
 
-### Heat Stress
+### **Heat Stress**
 Harmful stress on plants, animals, or people caused by high temperature.
 
-### Water Stress
+### **Water Stress**
 When water supply, quality, timing, or access is not enough for needs.
 
-### Drought
+### **Drought**
 A period of unusually low water availability.
 
-### Flood
+### **Flood**
 Too much water in a place, which can damage crops, soil, roads, and food safety.
 
-### Adaptation
+### **Adaptation**
 Changing systems or behaviour to reduce harm from climate impacts.
 
-### Mitigation
+### **Mitigation**
 Reducing greenhouse gas emissions or increasing carbon storage to slow climate change.
 
-### Early-Warning System
+### **Early-Warning System**
 A system that uses data and forecasts to warn people before danger becomes worse.
 
-### Climate Service
+### **Climate Service**
 Climate information prepared so people can make decisions.
 
-### Resilience
+### **Resilience**
 The ability to prepare for, survive, and recover from shocks.
 
 ## Student Thinking Tasks

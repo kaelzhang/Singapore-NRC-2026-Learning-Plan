@@ -25,7 +25,7 @@ Early farmers learned from observation. They noticed that crops grew better in c
 Farmers also learned that plants could be stressed. A crop might fail if rain did not come, if soil was poor, if insects attacked, or if the season was wrong. Before modern instruments, people used their senses: leaf colour, plant height, soil feel, smell, weather signs, and memory.
 
 ### Present
-Today, scientists can measure light intensity, light spectrum, soil moisture, nutrient levels, pH, electrical conductivity, temperature, humidity, carbon dioxide, plant colour, and plant stress. Farmers can use soil tests, hydroponic nutrient solutions, greenhouse sensors, LED lights, irrigation controllers, and cameras to control plant growth more precisely.
+Today, scientists can measure light intensity, light spectrum, soil moisture, nutrient levels, **pH**, electrical conductivity, temperature, humidity, carbon dioxide, plant colour, and plant stress. Farmers can use soil tests, hydroponic nutrient solutions, greenhouse sensors, LED lights, irrigation controllers, and cameras to control plant growth more precisely.
 
 Modern plant science also looks at the inside of plants: cells, chloroplasts, stomata, hormones, roots, microbes, genes, and stress responses. A farm can now be partly a biology lab, partly an engineering system, and partly a business.
 
@@ -37,7 +37,7 @@ The challenge is to grow more nutritious food while using less land, water, ener
 ## Deep Explanation
 
 ### 1. Photosynthesis Is The Plant's Food-Making Process
-Photosynthesis happens mainly in leaves. Inside many leaf cells are chloroplasts. Chloroplasts contain chlorophyll, a green pigment that captures light energy. The plant uses that energy to combine carbon dioxide from air and water from roots into sugars.
+**Photosynthesis** happens mainly in leaves. Inside many leaf cells are chloroplasts. Chloroplasts contain chlorophyll, a green pigment that captures light energy. The plant uses that energy to combine carbon dioxide from air and water from roots into sugars.
 
 The simple classroom idea is:
 
@@ -60,7 +60,7 @@ A leaf is not just a flat green shape. It has jobs.
 
 A leaf captures light like a solar panel. It makes sugars like a factory. It exchanges gases through tiny openings called stomata. Carbon dioxide enters through stomata. Oxygen and water vapour leave.
 
-Stomata can open and close. When stomata open, the plant can take in carbon dioxide, but it can also lose water. When stomata close, the plant saves water, but photosynthesis can slow because less carbon dioxide enters.
+**Stomata** can open and close. When stomata open, the plant can take in carbon dioxide, but it can also lose water. When stomata close, the plant saves water, but photosynthesis can slow because less carbon dioxide enters.
 
 This creates a tradeoff: plants need gas exchange, but they must avoid drying out. Hot, dry weather makes this tradeoff harder. This is why farmers care about humidity, temperature, irrigation, and shade.
 
@@ -69,14 +69,14 @@ Light is made of different wavelengths. Humans see many wavelengths as colours. 
 
 Intensity means how much light reaches the plant. Too little light can slow growth. Too much light can stress plants, especially if water or temperature is not right.
 
-Time matters too. Photoperiod means the length of light and dark periods. Some plants use day length as a signal for flowering. Daily light integral, often called DLI, means the total useful light a plant receives in a day. Indoor farms care about DLI because lights cost energy.
+Time matters too. **Photoperiod** means the length of light and dark periods. Some plants use day length as a signal for flowering. Daily light integral, often called DLI, means the total useful light a plant receives in a day. Indoor farms care about DLI because lights cost energy.
 
 This is why vertical farms and greenhouses may use LED lights. LEDs can be tuned so plants receive useful light. But lights need electricity, so energy cost is a serious tradeoff.
 
 ### 4. Water Is A Material, A Transport System, And A Cooling Tool
 Water does not only stop plants from drying out. It is one of the raw materials for photosynthesis. It also carries dissolved nutrients from roots into the plant. Water helps cells stay firm. It helps cool leaves when water evaporates through transpiration.
 
-Transpiration is the movement of water through a plant and out through leaves as water vapour. It helps pull water upward from roots through xylem, which is plant tissue that transports water and minerals.
+**Transpiration** is the movement of water through a plant and out through leaves as water vapour. It helps pull water upward from roots through xylem, which is plant tissue that transports water and minerals.
 
 If a plant lacks water, leaves may wilt, stomata may close, photosynthesis may slow, and growth may stop. If a plant has too much water around roots, roots may lack oxygen and become unhealthy. Good watering means the right amount at the right time, not just "more water."
 
@@ -114,7 +114,7 @@ Some modern farms grow plants without soil, but they must still provide the jobs
 ### 8. Hydroponics Replaces Soil With A Nutrient Solution
 Hydroponics means growing plants with roots in water or another support material while nutrients are dissolved in the water. [USDA's hydroponics reference](https://www.nal.usda.gov/farms-and-agricultural-production-systems/hydroponics) gives historical and practical background on soil-less plant growth.
 
-Hydroponics can save space and water, and it can be used indoors. It lets farmers control nutrient concentration and pH carefully. But it needs monitoring. If pumps fail, roots can dry or lose oxygen. If nutrient balance is wrong, plants can suffer quickly. If disease enters the water system, it can spread.
+**Hydroponics** can save space and water, and it can be used indoors. It lets farmers control nutrient concentration and pH carefully. But it needs monitoring. If pumps fail, roots can dry or lose oxygen. If nutrient balance is wrong, plants can suffer quickly. If disease enters the water system, it can spread.
 
 Important hydroponic measurements include pH and electrical conductivity. pH measures acidity or alkalinity. Electrical conductivity, often called EC, estimates how many dissolved ions are in the nutrient solution. Too low EC may mean too few nutrients. Too high EC can stress roots.
 
@@ -168,7 +168,7 @@ This helps explain why plants change during growth. A young plant may send resou
 A Mission Meals plant tray can represent this invisible resource flow. The visible plant is only the surface of a deeper sugar, water, and nutrient system.
 
 ### Xylem And Phloem: Two Transport Highways
-Xylem carries water and dissolved minerals mostly upward from roots to leaves. Transpiration helps pull water through xylem.
+**Xylem** carries water and dissolved minerals mostly upward from roots to leaves. Transpiration helps pull water through xylem.
 
 Phloem carries sugars and other substances from sources to sinks. If leaves make sugar, phloem can move it to roots, fruits, or growing tips.
 
@@ -223,7 +223,7 @@ Water mission: The robot delivers a blue water resource to a dry plant zone. Sci
 
 Light mission: The robot activates a light station for a plant tray. Science explanation: light provides energy for photosynthesis, but energy use is a tradeoff.
 
-Nutrient mission: The robot moves a nutrient marker to a hydroponic station. Science explanation: nutrients are dissolved in water and roots absorb them, but pH and EC must be controlled.
+**Nutrient** mission: The robot moves a nutrient marker to a hydroponic station. Science explanation: nutrients are dissolved in water and roots absorb them, but pH and EC must be controlled.
 
 Stress mission: The robot sorts yellow plant markers from green plant markers. Science explanation: leaf colour can be a clue for stress, but diagnosis needs more evidence.
 
@@ -319,55 +319,55 @@ Final check: describe one plant need and one robot action that could support tha
 
 ## Core Terms
 
-### Photosynthesis
+### **Photosynthesis**
 The process plants use to turn light energy, carbon dioxide, and water into sugar.
 
-### Chlorophyll
+### **Chlorophyll**
 The green pigment that helps plants capture light energy.
 
-### Chloroplast
+### **Chloroplast**
 A structure inside plant cells where photosynthesis happens.
 
-### Spectrum
+### **Spectrum**
 The range of colours or wavelengths in light.
 
-### Photon
+### **Photon**
 A tiny packet of light energy.
 
-### Photoperiod
+### **Photoperiod**
 The length of light and dark periods a plant experiences.
 
-### Daily Light Integral
+### **Daily Light Integral**
 The total useful light a plant receives in one day.
 
-### Stomata
+### **Stomata**
 Tiny openings on leaves that allow gas exchange.
 
-### Transpiration
+### **Transpiration**
 The movement of water through a plant and out through leaves as water vapour.
 
-### Xylem
+### **Xylem**
 Plant tissue that transports water and dissolved minerals upward.
 
-### Nutrient
+### **Nutrient**
 A substance a plant needs to grow, such as nitrogen, phosphorus, potassium, calcium, or magnesium.
 
-### Macronutrient
+### **Macronutrient**
 A nutrient plants need in larger amounts, such as nitrogen, phosphorus, and potassium.
 
-### Micronutrient
+### **Micronutrient**
 A nutrient plants need in very small amounts, such as iron or zinc.
 
-### Hydroponics
+### **Hydroponics**
 Growing plants without soil by giving roots water with dissolved nutrients.
 
-### pH
+### **pH**
 A measure of how acidic or alkaline a liquid is. Nutrient solutions need the right pH so roots can take up nutrients.
 
-### Electrical Conductivity
+### **Electrical Conductivity**
 A measurement that helps estimate the amount of dissolved nutrients in a hydroponic solution.
 
-### Limiting Factor
+### **Limiting Factor**
 The condition or resource that most limits growth at a given time.
 
 ## Student Thinking Tasks

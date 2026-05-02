@@ -79,13 +79,13 @@ A robot mission usually models one tiny part of this bigger map. If your robot m
 ### 3. Food Security Has Four Main Dimensions
 Food security means people can reliably get enough safe and nutritious food for a healthy life. The classic food security dimensions are explained by FAO and the World Bank: availability, access, utilization, and stability.
 
-Availability asks: Is there enough food? This depends on production, imports, storage, and stocks. A farm robot can help availability if it improves harvesting, planting, watering, monitoring, or sorting.
+**Availability** asks: Is there enough food? This depends on production, imports, storage, and stocks. A farm robot can help availability if it improves harvesting, planting, watering, monitoring, or sorting.
 
-Access asks: Can people actually get the food? Food can exist in a warehouse, but a family may still not be able to buy it or reach it. Access depends on income, prices, roads, shops, transport, safety, and fairness.
+**Access** asks: Can people actually get the food? Food can exist in a warehouse, but a family may still not be able to buy it or reach it. Access depends on income, prices, roads, shops, transport, safety, and fairness.
 
-Utilization asks: Is the food safe and nutritious, and can the body use it well? This includes food safety, clean water, cooking, balanced diets, vitamins, minerals, protein, fibre, and health.
+**Utilization** asks: Is the food safe and nutritious, and can the body use it well? This includes food safety, clean water, cooking, balanced diets, vitamins, minerals, protein, fibre, and health.
 
-Stability asks: Can people keep getting food over time, even during shocks? A system can look fine on a normal day but fail during a flood, heat wave, disease outbreak, shipping delay, conflict, or price spike.
+**Stability** asks: Can people keep getting food over time, even during shocks? A system can look fine on a normal day but fail during a flood, heat wave, disease outbreak, shipping delay, conflict, or price spike.
 
 In simple words: food security means food must be there, people must be able to get it, it must be good for the body, and it must keep coming even when things go wrong.
 
@@ -379,47 +379,47 @@ Final check: choose one action in your robot plan and say which part of the food
 
 ## Core Terms
 
-### Food System
+### **Food System**
 All the people, living things, tools, places, energy, data, and rules that move food from production to eating and waste handling.
 
 Simple version: the food system is the whole journey of food.
 
-### Food Security
+### **Food Security**
 The condition where people can reliably get enough safe and nutritious food.
 
 Simple version: people have the food they need, not just once, but again and again.
 
-### Availability
+### **Availability**
 The amount of food that exists in a place. Availability depends on farms, imports, stocks, and storage.
 
-### Access
+### **Access**
 Whether people can actually get the food. Money, distance, transport, safety, and fairness matter here.
 
-### Utilization
+### **Utilization**
 Whether the food is safe, nutritious, and useful for the body.
 
-### Stability
+### **Stability**
 Whether the system keeps working during shocks such as heat waves, disease outbreaks, wars, floods, or shipping delays.
 
-### Food Supply Chain
+### **Food Supply Chain**
 The movement of food and information from producers to consumers. It includes production, processing, storage, transport, retail, and sometimes waste recovery.
 
-### Resilience
+### **Resilience**
 The ability to keep working, recover, or adapt when something goes wrong.
 
-### Bottleneck
+### **Bottleneck**
 The slow or weak part that limits the whole system. If one narrow door slows a whole class, the door is the bottleneck.
 
-### Feedback Loop
+### **Feedback Loop**
 Information that changes what happens next. A sensor reading can become a feedback loop if it tells a machine to turn on, slow down, stop, or warn people.
 
-### Shock
+### **Shock**
 A sudden event that stresses the system, such as a drought, flood, disease outbreak, conflict, price spike, or shipping delay.
 
-### Tradeoff
+### **Tradeoff**
 A choice where improving one thing may make another thing harder.
 
-### Mission Abstraction
+### **Mission Abstraction**
 Changing a real-world problem into a smaller task a robot can do.
 
 Example: "food must stay cold" becomes "robot carries a cold box to the correct station."

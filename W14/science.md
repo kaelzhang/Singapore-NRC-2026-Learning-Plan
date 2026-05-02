@@ -51,7 +51,7 @@ release
 return
 ```
 
-A big mission becomes many small actions. Decomposition makes building, programming, and testing easier.
+A big mission becomes many small actions. **Decomposition** makes building, programming, and testing easier.
 
 ### 2. Patterns Help You Reuse Ideas
 A pattern is something that repeats. Many robot missions share patterns:
@@ -69,7 +69,7 @@ sense -> choose -> move -> release
 When you notice patterns, you can reuse code ideas. A delivery mission and a waste-sorting mission may use the same "drive to zone and release" pattern.
 
 ### 3. Abstraction Hides Unneeded Details
-Abstraction means focusing on the important idea and hiding details for the moment. Instead of writing every motor movement, you can name a routine:
+**Abstraction** means focusing on the important idea and hiding details for the moment. Instead of writing every motor movement, you can name a routine:
 
 ```text
 deliver_crate_to_market()
@@ -85,7 +85,7 @@ An algorithm is a clear method for solving a problem. It does not have to be com
 A robot algorithm must be precise. "Move a bit" is not precise. "Move forward 20 cm at speed 30" is more precise. "If colour sensor reads green, stop" is a clear condition.
 
 ### 5. Sequence Is Order
-Sequence means one instruction happens after another. Robots are sensitive to order. If the robot opens a gripper before reaching the object, the mission fails. If it turns before backing away, it may hit the model.
+**Sequence** means one instruction happens after another. Robots are sensitive to order. If the robot opens a gripper before reaching the object, the mission fails. If it turns before backing away, it may hit the model.
 
 Good teams read programs like stories: first, next, then, finally. If the story order is wrong, fix the sequence before changing the hardware.
 
@@ -143,7 +143,7 @@ state = "returning"
 States help teams organize multi-step missions. If the robot fails, you can ask which state failed.
 
 ### 11. Debugging Is Part Of Programming
-Debugging means finding and fixing mistakes. A bug can be in code, mechanism, sensor placement, battery level, starting position, or strategy.
+**Debugging** means finding and fixing mistakes. A bug can be in code, mechanism, sensor placement, battery level, starting position, or strategy.
 
 Debugging is not guessing randomly. It should follow a loop:
 
@@ -229,7 +229,7 @@ transition: object released
 state: returning
 ```
 
-State machines help when missions have several stages. They prevent the robot from trying to do everything at once.
+**State** machines help when missions have several stages. They prevent the robot from trying to do everything at once.
 
 ### Functions Or My Blocks
 Many block systems allow custom blocks or functions. A function is a named group of instructions. It helps reuse code.
@@ -469,40 +469,40 @@ In food systems, sensors also need interpretation. A temperature sensor can warn
 
 ## Core Terms
 
-### Computational Thinking
+### **Computational Thinking**
 Solving problems using decomposition, patterns, abstraction, algorithms, and debugging.
 
-### Decomposition
+### **Decomposition**
 Breaking a big problem into smaller parts.
 
-### Pattern
+### **Pattern**
 A repeated structure or action that can be reused.
 
-### Abstraction
+### **Abstraction**
 Focusing on the important idea while hiding unnecessary detail.
 
-### Algorithm
+### **Algorithm**
 A clear step-by-step method for solving a problem.
 
-### Sequence
+### **Sequence**
 Instructions in order.
 
-### Event
+### **Event**
 Something that starts an action or script.
 
-### Loop
+### **Loop**
 Instructions that repeat.
 
-### Condition
+### **Condition**
 An if-then rule that lets a program choose.
 
-### Variable
+### **Variable**
 A named place to store information.
 
-### State
+### **State**
 The current phase or mode of a system.
 
-### Debugging
+### **Debugging**
 Finding and fixing mistakes in a program or system.
 
 ## Student Thinking Tasks

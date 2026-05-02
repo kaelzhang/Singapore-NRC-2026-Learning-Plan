@@ -6,7 +6,7 @@ This student document contains the science and food-system knowledge for the wee
 If the world produces so much food, why do many people still face hunger or poor nutrition?
 
 ## Why This Week Matters
-Mission Meals is connected to SDG 2: Zero Hunger. But zero hunger is not only about full stomachs. It is also about safe food, healthy diets, fair access, stable supply, and farming that can continue into the future.
+Mission Meals is connected to SDG 2: Zero **Hunger**. But zero hunger is not only about full stomachs. It is also about safe food, healthy diets, fair access, stable supply, and farming that can continue into the future.
 
 This week turns the big global problem into clear pieces you can reason about. You will learn why a country can have food in shops but still have food insecurity, why calories and nutrition are not the same, why affordability matters, and why productivity alone cannot solve every food-system problem.
 
@@ -60,7 +60,7 @@ Hunger usually means not getting enough food energy over time. It is often conne
 
 Food insecurity means uncertain or limited access to enough safe and nutritious food. A family can be food insecure even before they are visibly hungry. They may skip meals, eat less diverse food, worry about running out, or choose cheaper but less nutritious foods.
 
-Malnutrition means poor nutrition. It can include undernutrition, micronutrient deficiency, overweight, and obesity. This may sound surprising, but malnutrition is not only "too little food." It means the body is not getting the right balance of nutrients.
+**Malnutrition** means poor nutrition. It can include undernutrition, micronutrient deficiency, overweight, and obesity. This may sound surprising, but malnutrition is not only "too little food." It means the body is not getting the right balance of nutrients.
 
 In simple words: hunger is when the body does not get enough food energy. Malnutrition is when the body does not get the right food building blocks. Food insecurity is when getting food is uncertain or difficult.
 
@@ -83,7 +83,7 @@ Food prices can rise for many reasons: poor harvests, fuel costs, fertilizer cos
 Robots might reduce some costs in farming or logistics, but only if the technology is affordable, repairable, and useful at the right scale. An expensive robot that only rich farms can use may not improve food access for everyone.
 
 ### 5. Productivity Is Important But Not Enough
-Productivity means producing more useful output from a given amount of input. A farm can be more productive per hectare, per litre of water, per worker, per dollar, or per unit of energy.
+**Productivity** means producing more useful output from a given amount of input. A farm can be more productive per hectare, per litre of water, per worker, per dollar, or per unit of energy.
 
 Higher productivity can help availability. If farmers grow more vegetables from the same area, local supply may improve. If logistics robots move goods accurately, warehouses may waste less time. If sensors help use water precisely, farms may produce more with less water.
 
@@ -160,9 +160,9 @@ A robotics analogy: if your robot makes a small alignment error, fix it early. D
 ### The Three Forms Of Malnutrition
 Malnutrition is often described in three broad forms.
 
-Undernutrition includes wasting, stunting, and being underweight. Wasting is low weight for height and can show recent severe food shortage or illness. Stunting is low height for age and can show long-term poor nutrition or repeated illness during growth.
+**Undernutrition** includes wasting, stunting, and being underweight. Wasting is low weight for height and can show recent severe food shortage or illness. Stunting is low height for age and can show long-term poor nutrition or repeated illness during growth.
 
-Micronutrient deficiency means lacking important vitamins or minerals. A person may get enough calories but still lack iron, iodine, vitamin A, zinc, or other micronutrients. This is sometimes called hidden hunger because it may not look like an empty plate.
+**Micronutrient** deficiency means lacking important vitamins or minerals. A person may get enough calories but still lack iron, iodine, vitamin A, zinc, or other micronutrients. This is sometimes called hidden hunger because it may not look like an empty plate.
 
 Overweight and obesity can also be forms of malnutrition when diets provide too much energy and too few healthy nutrients. Food systems can produce cheap, tasty, energy-dense foods while healthier choices remain less affordable or less convenient.
 
@@ -293,43 +293,43 @@ Final check: choose one food-security problem and name whether it is mainly abou
 
 ## Core Terms
 
-### Hunger
+### **Hunger**
 A condition where people do not get enough food energy over time.
 
-### Food Insecurity
+### **Food Insecurity**
 Uncertain or limited access to enough safe and nutritious food.
 
-### Malnutrition
+### **Malnutrition**
 Poor nutrition. It can mean too little food, too little of important nutrients, or too much unhealthy food.
 
-### Undernutrition
+### **Undernutrition**
 A form of malnutrition where the body does not get enough energy, protein, or nutrients.
 
-### Micronutrient
+### **Micronutrient**
 A vitamin or mineral needed in small amounts, such as iron, iodine, vitamin A, or zinc.
 
-### Healthy Diet
+### **Healthy Diet**
 A pattern of eating that gives the body enough energy and nutrients without causing harm.
 
-### Affordability
+### **Affordability**
 Whether people can pay for what they need after considering income and other essential costs.
 
-### Productivity
+### **Productivity**
 How much useful output a system produces from its inputs.
 
-### Supply Shock
+### **Supply Shock**
 A sudden event that interrupts supply, such as drought, war, disease, export restrictions, or transport failure.
 
-### Early-Warning System
+### **Early-Warning System**
 A system that watches data so people can act before a food problem becomes a crisis.
 
-### Food Price Inflation
+### **Food Price Inflation**
 An increase in food prices over time. It can make healthy diets harder to afford.
 
-### Social Protection
+### **Social Protection**
 Programmes that help people meet basic needs, such as school meals, food assistance, cash support, or nutrition support.
 
-### Food Utilization
+### **Food Utilization**
 The way the body uses food, which depends on nutrition, safety, clean water, cooking, and health.
 
 ## Student Thinking Tasks

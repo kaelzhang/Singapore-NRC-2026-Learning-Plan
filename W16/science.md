@@ -86,7 +86,7 @@ A robot story should include:
 Without evidence, the story is only an idea. With evidence, it becomes an engineering claim.
 
 ### 4. Technology Has Ethics
-Ethics means asking what is fair, safe, responsible, and good for people and the environment. Ask:
+**Ethics** means asking what is fair, safe, responsible, and good for people and the environment. Ask:
 
 - Who benefits?
 - Who pays?
@@ -189,7 +189,7 @@ Strongest improvement: widen the guide by two studs, then run the shifted-object
 A future improvement should be testable.
 
 ### 11. Capstone Scenario Examples
-Scenario 1: Singapore needs more reliable local leafy greens during supply disruption. Robot model: tray movement and plant inspection. Evidence: 10-run tray delivery and sorting test.
+**Scenario** 1: Singapore needs more reliable local leafy greens during supply disruption. Robot model: tray movement and plant inspection. Evidence: 10-run tray delivery and sorting test.
 
 Scenario 2: A cold-chain delay risks seafood spoilage. Robot model: cold box delivery to correct station with time limit. Evidence: delivery accuracy and release tests.
 
@@ -492,7 +492,7 @@ Robot model:
 4. It uses a backup route if the normal route is blocked.
 5. It records success rate and delivery time.
 
-Capstone claim:
+**Capstone** claim:
 
 ```text
 Our robot models how a resilient food-rescue system can use sensing, sorting, cold storage, and backup routing to reduce waste during heat stress.
@@ -568,40 +568,40 @@ A good capstone does not claim that a small robot solves world hunger, climate c
 
 ## Core Terms
 
-### Systems Thinking
+### **Systems Thinking**
 Understanding how parts interact inside a larger whole.
 
-### Scenario
+### **Scenario**
 A possible future used for planning and design.
 
-### Capstone
+### **Capstone**
 A final project that combines many things learned earlier.
 
-### Prototype
+### **Prototype**
 An early version used for learning and testing.
 
-### Evidence-Based Claim
+### **Evidence-Based Claim**
 A statement supported by records, tests, or observations.
 
-### Tradeoff
+### **Tradeoff**
 A choice where improving one thing may make another thing harder.
 
-### Ethics
+### **Ethics**
 Thinking about safety, fairness, responsibility, and consequences.
 
-### Stakeholder
+### **Stakeholder**
 A person or group affected by a system or decision.
 
-### Resilience
+### **Resilience**
 The ability to prepare for, survive, and recover from shocks.
 
-### Improvement Plan
+### **Improvement Plan**
 A clear next step based on what testing showed.
 
-### Future Scenario
+### **Future Scenario**
 A structured story about a possible future used to test ideas.
 
-### Translation
+### **Translation**
 Changing knowledge from one form into another, such as food-system science into robot mission design.
 
 ## Student Thinking Tasks
