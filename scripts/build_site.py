@@ -18,6 +18,7 @@ ASSET_SOURCE = ROOT / "scripts" / "site_assets"
 WEEK_FILE_ORDER = [
     "README.md",
     "science.md",
+    "science-brief.md",
     "keywords.md",
     "robotics.md",
     "teacher-notes.md",

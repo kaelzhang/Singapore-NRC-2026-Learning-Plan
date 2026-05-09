@@ -44,6 +44,7 @@ Do not create `tasks/`, inbox threads, or multi-agent coordination artifacts unl
 - Each week must live in its own directory named `W01`, `W02`, and so on through `W16`.
 - Each weekly directory must separate science content from robotics work:
   - `science.md` for student-facing science and food-system knowledge.
+  - `science-brief.md` for a condensed student-facing science review, normally 30% to 50% of the corresponding `science.md`, rewritten by meaning rather than paragraph-by-paragraph compression.
   - `keywords.md` for the weekly bilingual core keyword index with specific meanings, simple explanations, and examples.
   - `robotics.md` for robot building, mechanism, programming, mission-design, or testing work.
   - `README.md` for the weekly entrypoint, document links, and learning order.
