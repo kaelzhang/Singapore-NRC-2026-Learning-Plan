@@ -1,7 +1,5 @@
 # W15 Science Brief - Testing, Reliability, Debugging, And Evidence
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 A robot that works once may be lucky. A robot that works many times with records has **evidence**. Testing shows whether a design is dependable, not only exciting.
 

@@ -1,7 +1,5 @@
 # W07 Science Brief - Precision Agriculture, Sensors, Drones, And Data
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 **Precision Agriculture** means using observations and data to treat different places differently. A field is not the same everywhere. One zone may be dry, another may have weeds, and another may need nutrients.
 

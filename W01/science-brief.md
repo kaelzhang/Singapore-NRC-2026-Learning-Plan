@@ -1,7 +1,5 @@
 # W01 Science Brief - Mission Meals And The Whole Food System
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 **Mission Meals** is not only about food on a plate. It is about the whole **food system** that helps food get from nature to people. A food system includes farms, water, soil, sunlight, workers, machines, ports, ships, trucks, warehouses, shops, kitchens, families, food safety checks, and waste recovery.
 

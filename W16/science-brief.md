@@ -1,7 +1,5 @@
 # W16 Science Brief - From Food System To Robot System
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 A strong Mission Meals project does not only say, "Our robot moves objects." It says:
 

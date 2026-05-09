@@ -1,7 +1,5 @@
 # W11 Science Brief - Food Loss, Food Waste, Circular Economy, And Recovery
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 Food waste is not only rubbish. It is also wasted water, land, energy, labour, packaging, transport, money, and nutrition. A banana thrown away at home carries the resources used to grow, move, store, and sell it.
 

@@ -1,7 +1,5 @@
 # W09 Science Brief - End-Effectors, Grippers, Levers, And Gears
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 An **end-effector** is the robot tool that touches the world. It may push, lift, hook, scoop, sweep, grip, carry, guide, cut, spray, or release. The same robot base can do very different jobs if the end-effector changes.
 

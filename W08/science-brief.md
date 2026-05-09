@@ -1,7 +1,5 @@
 # W08 Science Brief - Labour-Intensive Farming And Agricultural Robots
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 Many farm jobs take a lot of human time, strength, care, or repetition. These are **labour-intensive** tasks. Robots can help with some of them, but a farm robot is usually a specialist, not a complete farmer.
 

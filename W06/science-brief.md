@@ -1,7 +1,5 @@
 # W06 Science Brief - Controlled Environment Agriculture And Vertical Farms
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 **Controlled Environment Agriculture**, or **CEA**, means growing plants in a managed space such as a greenhouse, indoor farm, or plant factory. People control some or many conditions: light, water, nutrients, temperature, humidity, airflow, carbon dioxide, and cleanliness.
 

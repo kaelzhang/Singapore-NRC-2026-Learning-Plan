@@ -1,7 +1,5 @@
 # W14 Science Brief - Computational Thinking With Scratch And SPIKE
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 A robot can only act clearly if its program is clear. **Computational thinking** means breaking a problem into parts, finding patterns, choosing the important details, writing step-by-step rules, and debugging.
 

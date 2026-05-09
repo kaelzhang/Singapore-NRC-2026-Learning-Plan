@@ -1,7 +1,5 @@
 # W05 Science Brief - Plant Growth, Photosynthesis, Light, Water, And Nutrients
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 Plants are living food factories. They use light, carbon dioxide, water, nutrients, and their own cells to grow leaves, roots, stems, flowers, fruits, and seeds. A farm, greenhouse, or robot system that supports plants must respect plant biology.
 

@@ -1,7 +1,5 @@
 # W12 Science Brief - Climate Risk, Water Stress, And Resilient Agriculture
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 Food systems depend on climate. Heat, drought, floods, storms, pests, water problems, and power failures can affect crops, animals, workers, storage, transport, prices, and safety.
 

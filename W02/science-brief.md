@@ -1,7 +1,5 @@
 # W02 Science Brief - Singapore Food Resilience
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 Singapore is a small city-state with very limited farmland. It cannot grow all the food its people eat. This makes **food resilience** very important. Food resilience means the system can prepare for trouble, continue working during shocks, and recover quickly.
 

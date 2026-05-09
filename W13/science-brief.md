@@ -1,7 +1,5 @@
 # W13 Science Brief - Future Foods And Alternative Proteins
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 Future food systems may use more **alternative proteins**. These are protein sources beyond conventional livestock and seafood systems. They may come from plants, microbes, animal cells, insects, algae, or by-products.
 

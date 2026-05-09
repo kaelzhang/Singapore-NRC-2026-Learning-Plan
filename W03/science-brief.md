@@ -1,7 +1,5 @@
 # W03 Science Brief - Agriculture History, Productivity, And Tradeoffs
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 Agriculture is not just planting seeds. It is the long human effort to manage energy, water, soil, plants, animals, tools, labour, time, risk, and information so people can eat.
 

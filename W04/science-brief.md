@@ -1,7 +1,5 @@
 # W04 Science Brief - Food Security, Hunger, Nutrition, And Affordability
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 The world can produce a lot of food, but many people still cannot get enough safe, nutritious, affordable food. This is why **Food Security** is more than harvest size. It also includes prices, income, conflict, climate, transport, safety, health, culture, and waste.
 

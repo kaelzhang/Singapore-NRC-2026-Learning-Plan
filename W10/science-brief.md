@@ -1,7 +1,5 @@
 # W10 Science Brief - Food Logistics, Cold Chain, Warehouses, And Traceability
 
-This brief keeps the main ideas from `science.md` for shorter review.
-
 ## Big Idea
 Food is not secure just because it was produced. It must move safely from farms, fisheries, factories, or ports to people. **Logistics** is the planned movement of food, information, and responsibility.
 
