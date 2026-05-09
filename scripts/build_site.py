@@ -19,6 +19,7 @@ WEEK_FILE_ORDER = [
     "README.md",
     "science.md",
     "science-brief.md",
+    "science-brief-cn.md",
     "keywords.md",
     "robotics.md",
     "teacher-notes.md",

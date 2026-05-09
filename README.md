@@ -32,6 +32,7 @@ Weekly directories are created as the curriculum is written. A typical weekly di
 - `README.md`: weekly student entrypoint, document links, and learning order.
 - `science.md`: printable student-facing science and food-system knowledge.
 - `science-brief.md`: condensed student-facing science review, usually 30% to 50% of `science.md`.
+- `science-brief-cn.md`: Chinese translation of `science-brief.md` for bilingual review.
 - `keywords.md`: weekly bilingual core keyword index with specific meanings, simple explanations, and examples.
 - `robotics.md`: student-facing robot building, mechanism, programming, mission-design, or testing work.
 - `teacher-notes.md`: optional teacher-only notes.
@@ -39,6 +40,7 @@ Weekly directories are created as the curriculum is written. A typical weekly di
 
 The weekly `science.md` is designed for direct printing and continuous reading. Pure reference lists, further-reading links, and video sections belong in `resources.md`; inline links in explanatory sentences are still allowed when they support the text.
 The weekly `science-brief.md` is a shorter student review version built from the meaning of `science.md`, not a paragraph-by-paragraph truncation. It should preserve the main concepts, examples, and Mission Meals links while using simpler, smooth reading language.
+The weekly `science-brief-cn.md` should stay aligned with `science-brief.md` while using natural Chinese and the repository's required terminology, including `Food Security` as `食品保障` and `Food Safety` as `食品安全`.
 The weekly `keywords.md` provides a quick bilingual review index for the core science terms, including specific meanings, simple explanations, and examples. Its bilingual content should read naturally through table headings and line breaks, without repeated column labels inside each cell.
 
 ## Project Documents

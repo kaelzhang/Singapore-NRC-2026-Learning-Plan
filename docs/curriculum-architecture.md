@@ -44,6 +44,7 @@ Each weekly directory should contain:
 - `README.md`: weekly student entrypoint with document links and suggested learning order.
 - `science.md`: printable student-facing science and food-system lesson in English.
 - `science-brief.md`: condensed student-facing science review in English, normally 30% to 50% of `science.md`, rewritten by meaning rather than paragraph-by-paragraph compression.
+- `science-brief-cn.md`: Chinese translation of `science-brief.md` for bilingual review, using natural Chinese and required project terminology.
 - `keywords.md`: weekly bilingual core keyword index with English and Chinese keywords, specific meanings, simple explanations, and examples.
 - `robotics.md`: student-facing robot building, mechanism, programming, mission-design, or testing work in English.
 - `teacher-notes.md`: teacher-facing notes, allowed to be Chinese or bilingual.
@@ -60,6 +61,7 @@ The student-facing `science.md` should include:
 
 `science.md` should not contain standalone reference-link, further-reading, resource-list, or video sections. It may keep inline links on meaningful keywords inside explanatory prose, but pure links and link-focused bullet lists belong in `resources.md` so `science.md` remains printable.
 `science-brief.md` should stay print-friendly and easy to read directly. It should keep the highest-value concepts, examples, past-present-future frame, and Mission Meals links from `science.md`, but use shorter wording and avoid rare vocabulary unless the term is a learning target.
+`science-brief-cn.md` should follow the structure and meaning of `science-brief.md`, not introduce new source sections, and must translate `Food Security` as `食品保障` while reserving `食品安全` for `Food Safety`.
 Core keywords should be bolded in `science.md`. The same keyword set should appear in `keywords.md` as bilingual English/Chinese content with the current keyword list, the meaning of each keyword, a simple explanation, and an example. Keyword index cells should use bilingual table headings and line breaks instead of repeated column labels. Translate `Food Security` as `食品保障`; reserve `食品安全` for `Food Safety`.
 
 The student-facing `robotics.md` should include:
@@ -70,7 +72,7 @@ The student-facing `robotics.md` should include:
 
 The weekly `README.md` should include:
 
-- Links to `science.md`, `science-brief.md`, `keywords.md`, `robotics.md`, `teacher-notes.md`, and `resources.md`.
+- Links to `science.md`, `science-brief.md`, `science-brief-cn.md`, `keywords.md`, `robotics.md`, `teacher-notes.md`, and `resources.md`.
 - Weekly question.
 - Suggested learning order.
 
