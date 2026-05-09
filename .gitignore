@@ -1,3 +1,33 @@
+## Python
 __pycache__/
 *.pyc
+
+## Generated site output
 site/
+
+## macOS
+.DS_Store
+.AppleDouble/
+.LSOverride
+Icon?
+._*
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+.TemporaryItems/
+.apdisk
+.VolumeIcon.icns
+
+## Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+## Linux / desktop environments
+.directory
+.Trash-*
+.nfs*
