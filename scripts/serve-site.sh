@@ -14,6 +14,7 @@ CONDA_BASE="$(conda info --base)"
 source "$CONDA_BASE/etc/profile.d/conda.sh"
 conda activate py3.12
 
+echo "Building static site before serving..."
 "$ROOT_DIR/scripts/build-site.sh"
 
 PORT="${PORT:-8000}"
