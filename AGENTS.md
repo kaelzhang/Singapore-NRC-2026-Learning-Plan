@@ -31,6 +31,7 @@ The active agent may edit these paths:
 - `AGENTS.md`
 - `README.md`
 - `reference/`
+- `scripts/`
 - `W01/` through `W16/`
 - `docs/`
 - other root-level project documentation files that support this learning plan
@@ -56,6 +57,7 @@ Do not create `tasks/`, inbox threads, or multi-agent coordination artifacts unl
 - Each weekly directory should include 5 to 6 non-repeated student-watchable video links in `resources.md`.
 - Prefer official, educational, museum, university, NGO, or well-maintained organization sources.
 - Record pure source URL lists in `resources.md` instead of relying on chat history.
+- Generated static-site output belongs in `site/` and should be rebuilt from Markdown with `scripts/build-site.sh`, not edited by hand.
 
 ## Commit Discipline
 Changes should be committed in phases:

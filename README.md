@@ -43,6 +43,23 @@ The weekly `keywords.md` provides a quick bilingual review index for the core sc
 - `docs/README.md`: entrypoint for durable project documentation.
 - `docs/curriculum-architecture.md`: 16-week curriculum structure, source baseline, and weekly design rules.
 
+## Static Site
+The repository includes a small static-site build path for reading and printing the documents in a browser.
+
+Build the site after changing Markdown documents:
+
+```bash
+./scripts/build-site.sh
+```
+
+Start a local site server and open it in the browser:
+
+```bash
+./scripts/serve-site.sh
+```
+
+The server script rebuilds first, serves `site/`, opens the browser automatically, and keeps running in the foreground. Stop it with `Ctrl-C`. Set `PORT=9000` before `./scripts/serve-site.sh` to prefer a different local port.
+
 ## Reference Basis
 The starting reference is `reference/deep-research.pdf`, a deep-research report about Singapore NRC 2026 "Mission Meals" for integrated teacher and student learning.
 
