@@ -378,7 +378,6 @@ def page_html(item: SiteItem, content: str, navigation: str) -> str:
 </head>
 <body>
   <button class="site-action menu-button" type="button" data-open-menu aria-controls="site-nav" aria-expanded="false">Contents</button>
-  <button class="site-action print-button" type="button" data-print>Print</button>
   <div class="drawer-backdrop" data-backdrop></div>
   <aside class="nav-drawer" id="site-nav" data-drawer aria-hidden="true">
     <div class="drawer-head">

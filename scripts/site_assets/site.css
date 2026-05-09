@@ -53,6 +53,10 @@ a:hover {
   padding: 0 0.95rem;
   position: fixed;
   top: 1rem;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-0.35rem);
+  transition: opacity 140ms ease, transform 140ms ease, border-color 140ms ease;
   z-index: 50;
 }
 
@@ -71,14 +75,21 @@ a:hover {
   left: 1rem;
 }
 
-.print-button {
-  right: 1rem;
+.menu-entry-visible .menu-button {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
+.drawer-open .menu-button {
+  opacity: 0;
+  pointer-events: none;
 }
 
 .page-shell {
   margin: 0 auto;
   max-width: calc(var(--content) + 4rem);
-  padding: 5rem 2rem 4rem;
+  padding: 2.2rem 2rem 4rem;
 }
 
 .document {
@@ -274,7 +285,7 @@ a:hover {
   }
 
   .page-shell {
-    padding: 4.4rem 0.7rem 2rem;
+    padding: 0.7rem 0.7rem 2rem;
   }
 
   .document {
@@ -285,22 +296,19 @@ a:hover {
     font-size: 1.65rem;
   }
 
-  .print-button {
-    display: none;
-  }
 }
 
 @media print {
   @page {
-    margin: 16mm 15mm 18mm;
+    margin: 8mm 8mm 9mm;
   }
 
   html,
   body {
     background: #fff;
     color: #000;
-    font-size: 11pt;
-    line-height: 1.45;
+    font-size: 10pt;
+    line-height: 1.34;
   }
 
   .site-action,
@@ -319,20 +327,31 @@ a:hover {
   }
 
   .document h1 {
-    font-size: 20pt;
+    font-size: 18pt;
+    margin: 0 0 7pt;
   }
 
   .document h2 {
     border-top: 0;
     break-after: avoid;
-    font-size: 15pt;
-    margin-top: 18pt;
+    font-size: 13pt;
+    margin: 11pt 0 4pt;
     padding-top: 0;
   }
 
   .document h3,
   .document h4 {
     break-after: avoid;
+    margin: 8pt 0 3pt;
+  }
+
+  .document p,
+  .document ul,
+  .document ol,
+  .document table,
+  .document pre,
+  .document blockquote {
+    margin-bottom: 6pt;
   }
 
   .document table,
@@ -343,13 +362,20 @@ a:hover {
 
   .document table {
     display: table;
-    font-size: 8.5pt;
+    font-size: 7.8pt;
     overflow: visible;
   }
 
-  .document a[href^="http"]::after {
-    content: " <" attr(href) ">";
-    font-size: 8pt;
-    word-break: break-all;
+  .document th,
+  .document td {
+    padding: 3pt 4pt;
+  }
+
+  .document tr {
+    break-inside: avoid;
+  }
+
+  .document a {
+    color: #000;
   }
 }

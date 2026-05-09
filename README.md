@@ -60,6 +60,8 @@ Start a local site server and open it in the browser:
 
 The server script rebuilds first, serves `site/`, opens the browser automatically, and keeps running in the foreground. Stop it with `Ctrl-C`. Set `PORT=9000` before `./scripts/serve-site.sh` to prefer a different local port.
 
+The document page stays clean by default. Click outside the navigation drawer to reveal the contents entry; if there is no mouse, touch, or keyboard activity for 5 seconds, the entry and drawer hide again. Use the browser's normal print command for printing; the site CSS defines the print layout.
+
 ## Reference Basis
 The starting reference is `reference/deep-research.pdf`, a deep-research report about Singapore NRC 2026 "Mission Meals" for integrated teacher and student learning.
 
